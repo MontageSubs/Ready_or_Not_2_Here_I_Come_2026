@@ -1,0 +1,1487 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 804
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,55.8,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Lyrics,Arial,55.8,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Note,Arial,55.8,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.47,0:00:04.34,Note,,0,0,0,,Borcolasky 原创听译校正\Nsubhd.tv
+Dialogue: 0,0:00:12.67,0:00:22.21,Default,,0,0,0,,{\an2}（探照灯影业）
+Dialogue: 0,0:00:24.25,0:00:33.04,Lyrics,,0,0,0,,{\i1}{\an7}♪ Tonight you're mine completely ♪
+Dialogue: 0,0:00:34.45,0:00:42.08,Lyrics,,0,0,0,,{\i1}{\an7}♪ You give your love so sweetly ♪
+Dialogue: 0,0:00:43.76,0:00:53.67,Lyrics,,0,0,0,,{\i1}{\an7}♪ Tonight the light of love is in your eyes ♪
+Dialogue: 0,0:00:55.11,0:01:03.63,Lyrics,,0,0,0,,{\i1}{\an7}♪ Will you still love me tomorrow? ♪
+Dialogue: 0,0:01:19.04,0:01:21.26,Default,,0,0,0,,请稍等...\NOne minute...
+Dialogue: 0,0:01:21.27,0:01:23.81,Default,,0,0,0,,快派个人去那里\NGet somebody down there
+Dialogue: 0,0:01:26.50,0:01:28.30,Default,,0,0,0,,女士 您还好吗？\NMa'am, are you okay?
+Dialogue: 0,0:01:28.54,0:01:29.74,Default,,0,0,0,,您能听见我说话吗？\NCan you hear me?
+Dialogue: 0,0:01:30.73,0:01:32.08,Default,,0,0,0,,南草坪上有人受伤 \NI got someone on the south lawn,
+Dialogue: 0,0:01:32.10,0:01:34.21,Default,,0,0,0,,我们需要急救人员立刻过来\Nwe need paramedics over here right away
+Dialogue: 0,0:01:34.59,0:01:36.56,Default,,0,0,0,,收到\NCopy that.
+Dialogue: 0,0:01:36.58,0:01:39.33,Default,,0,0,0,,天呐 你这是怎么了？\NJesus Christ, what happened to you?
+Dialogue: 0,0:01:42.19,0:01:45.29,Default,,0,0,0,,- 婆家 - 你说是婆家吗？\N- In-laws. Did you say in-laws?
+Dialogue: 0,0:01:46.18,0:01:48.40,Default,,0,0,0,,你的婆家怎么了？女士\NWhat about your in-laws, ma'am?
+Dialogue: 0,0:01:51.24,0:01:52.94,Default,,0,0,0,,嘿 嘿 嘿 别昏过去\NHey, hey, hey, stay with us.
+Dialogue: 0,0:01:52.96,0:01:54.73,Default,,0,0,0,,睁眼看着我\NJust keep your eyes on me.
+Dialogue: 0,0:01:55.11,0:01:56.51,Default,,0,0,0,,放松\NTake it easy.
+Dialogue: 0,0:01:56.53,0:01:57.95,Default,,0,0,0,,慢慢呼吸\NSlow, steady breaths.
+Dialogue: 0,0:01:58.78,0:02:00.13,Default,,0,0,0,,哇 哇 哇\NWhoa, whoa, whoa!
+Dialogue: 0,0:02:00.38,0:02:01.54,Default,,0,0,0,,她倒下了\NShe's down!
+Dialogue: 0,0:02:01.55,0:02:02.89,Default,,0,0,0,,把担架抬过来\NGet that stretcher over here!
+Dialogue: 0,0:02:05.23,0:02:07.65,Default,,0,0,0,,先把她抬上去 数到三一起抬\NGet her loaded up. On my count, one hand down.
+Dialogue: 0,0:02:07.67,0:02:08.91,Default,,0,0,0,,情况危急\NCritical condition.
+Dialogue: 0,0:02:09.03,0:02:09.96,Default,,0,0,0,,准备好了吗？\NReady?
+Dialogue: 0,0:02:09.97,0:02:12.03,Default,,0,0,0,,一 二 三\NOne, two, three!
+Dialogue: 0,0:02:17.39,0:02:18.90,Default,,0,0,0,,一 二 抬\NOne, two... Up!
+Dialogue: 0,0:02:24.24,0:02:25.52,Default,,0,0,0,,挺住\NStay with us.
+Dialogue: 0,0:02:38.23,0:02:39.02,Default,,0,0,0,,她还活着么？\NShe in?
+Dialogue: 0,0:02:39.03,0:02:40.02,Default,,0,0,0,,是\NYeah.
+Dialogue: 0,0:02:42.07,0:02:44.04,Default,,0,0,0,,给她测一下生命体征\NLet's get a set of vitals on her.
+Dialogue: 0,0:02:44.30,0:02:45.56,Default,,0,0,0,,我这就给她接氧气\NI'm gonna get oxygen on.
+Dialogue: 0,0:02:46.46,0:02:47.68,Default,,0,0,0,,氧气面罩已戴好\NMask's on
+Dialogue: 0,0:02:48.49,0:02:49.75,Default,,0,0,0,,我要检查一下瞳孔\NI'm gonna check pupils.
+Dialogue: 0,0:02:50.19,0:02:51.42,Default,,0,0,0,,体位性低血压\NOrthostatic.
+Dialogue: 0,0:02:56.69,0:02:57.63,Default,,0,0,0,,血压测不出\NI don't have a pressure.
+Dialogue: 0,0:02:57.65,0:02:58.65,Default,,0,0,0,,瞳孔无反应\NNo pupil response.
+Dialogue: 0,0:02:58.94,0:02:59.94,Default,,0,0,0,,检测脉搏\NLet's check her pulse.
+Dialogue: 0,0:03:00.40,0:03:01.38,Default,,0,0,0,,无脉博\NNo pulse.
+Dialogue: 0,0:03:01.41,0:03:02.46,Default,,0,0,0,,她发生了心脏骤停\NShe's in cardiac arrest.
+Dialogue: 0,0:03:02.47,0:03:03.47,Default,,0,0,0,,开始胸外按压\NStarting compressions.
+Dialogue: 0,0:03:04.94,0:03:05.62,Default,,0,0,0,,充电中\NCharging.
+Dialogue: 0,0:03:05.64,0:03:06.64,Default,,0,0,0,,200焦耳\NTwo hundred.
+Dialogue: 0,0:03:07.30,0:03:08.03,Default,,0,0,0,,准备\NReady.
+Dialogue: 0,0:03:08.05,0:03:09.19,Default,,0,0,0,,清场\NClear.
+Dialogue: 0,0:03:12.63,0:03:15.11,Default,,0,0,0,,正在运送一名体位性低血压的白人女性\NOrtho coming in with a Caucasian female.
+Dialogue: 0,0:03:15.12,0:03:16.18,Default,,0,0,0,,年龄在二十五岁左右\NMid to late twenties.
+Dialogue: 0,0:03:16.20,0:03:17.20,Default,,0,0,0,,处于严重休克状态\NIn severe shock.
+Dialogue: 0,0:03:17.21,0:03:18.49,Default,,0,0,0,,多处撕裂伤\NMultiple lacerations.
+Dialogue: 0,0:03:18.75,0:03:20.94,Default,,0,0,0,,左手中可能有枪伤\NPossible gunshot wound through the left hand.
+Dialogue: 0,0:03:20.95,0:03:21.95,Default,,0,0,0,,子弹贯穿\NThrough and through.
+Dialogue: 0,0:03:22.62,0:03:23.72,Default,,0,0,0,,脉搏？\NPulse.
+Dialogue: 0,0:03:23.73,0:03:24.43,Default,,0,0,0,,无脉博\NNo pulse.
+Dialogue: 0,0:03:24.45,0:03:25.76,Default,,0,0,0,,我这就继续做胸外按压\NI'll get her compressions again.
+Dialogue: 0,0:03:25.88,0:03:26.77,Default,,0,0,0,,充电中\NCharging.
+Dialogue: 0,0:03:26.78,0:03:28.01,Default,,0,0,0,,200焦耳\NTwo hundred.
+Dialogue: 0,0:03:28.03,0:03:29.03,Default,,0,0,0,,清场\NClear.
+Dialogue: 0,0:03:29.63,0:03:32.04,Default,,0,0,0,,- 捉迷藏？ - 逮到她了\N- Hide and seek？ - She's here!
+Dialogue: 0,0:03:34.28,0:03:35.36,Default,,0,0,0,,我来帮你检测\NI'll test you.
+Dialogue: 0,0:03:43.54,0:03:45.41,Default,,0,0,0,,三 二 一\NThree, two, one.
+Dialogue: 0,0:03:45.42,0:03:46.42,Default,,0,0,0,,你会明白的\NYou'll see
+Dialogue: 0,0:03:51.33,0:03:59.91,Default,,0,0,0,,{\an8}《准备好了没：2度开局》
+Dialogue: 0,0:04:14.54,0:04:16.06,Default,,0,0,0,,勒多马斯太太？\NMrs. Le Domas?
+Dialogue: 0,0:04:16.75,0:04:17.75,Default,,0,0,0,,我在哪里？\NWhere am I?
+Dialogue: 0,0:04:18.32,0:04:20.03,Default,,0,0,0,,您现在位于康涅狄格州的伍德伯里\NYou're in Woodbury, Connecticut.
+Dialogue: 0,0:04:20.05,0:04:21.58,Default,,0,0,0,,圣约翰医院\NSt. John's Hospital.
+Dialogue: 0,0:04:22.30,0:04:23.55,Default,,0,0,0,,为什么给我戴手铐\NWhy am I handcuffed?
+Dialogue: 0,0:04:24.31,0:04:26.39,Default,,0,0,0,,- 勒多马斯夫人 - 叫我麦考利小姐\N- Mrs. Le Domas. - It's Ms. MacCaullay.
+Dialogue: 0,0:04:27.09,0:04:30.23,Default,,0,0,0,,这里写着您嫁给了亚历克斯·勒多马斯\NIt says here you married an Alex Le Domas.
+Dialogue: 0,0:04:31.49,0:04:33.26,Default,,0,0,0,,那段婚姻没能维持下去\NIt didn't work out.
+Dialogue: 0,0:04:33.65,0:04:35.41,Default,,0,0,0,,我是罗杰·巴塞特警探\NI'm Detective Roger Bassett.
+Dialogue: 0,0:04:35.49,0:04:37.56,Default,,0,0,0,,你有麻烦了 麦考利女士\NYou're in some trouble, Ms. MacCaullay.
+Dialogue: 0,0:04:37.73,0:04:40.25,Default,,0,0,0,,你现已被伍德伯里警察局拘留\NYou're being detained by the Woodbury Police Department.
+Dialogue: 0,0:04:40.27,0:04:42.80,Default,,0,0,0,,涉嫌纵火和谋杀\NUnder suspicion of arson and murder.
+Dialogue: 0,0:04:42.82,0:04:45.57,Default,,0,0,0,,扑灭大火后 他们在屋内发现了\NThey found the remains of two people in the house
+Dialogue: 0,0:04:45.59,0:04:47.69,Default,,0,0,0,,两具遗体\Nafter they put out the fire.
+Dialogue: 0,0:04:47.70,0:04:50.50,Default,,0,0,0,,你的衣服上沾满了鲜血\NAnd your clothes were drenched in blood.
+Dialogue: 0,0:04:51.70,0:04:53.44,Default,,0,0,0,,并且那不是你的血\NIt wasn't yours.
+Dialogue: 0,0:04:53.58,0:04:56.74,Default,,0,0,0,,如果你愿意做个陈述\NNow, if you'd care to make a statement.
+Dialogue: 0,0:04:57.34,0:04:58.83,Default,,0,0,0,,能给我支烟吗\NCould you pass me a cigarette?
+Dialogue: 0,0:05:00.47,0:05:02.47,Default,,0,0,0,,麦考利女士 这对你可没什么好处\NThis is not going to go well for you, Ms. MacCaullay.
+Dialogue: 0,0:05:15.73,0:05:17.97,Default,,0,0,0,,只要你配合 事情会好办很多\NThings would go a lot easier if you would just cooperate.
+Dialogue: 0,0:05:18.49,0:05:19.71,Default,,0,0,0,,有人来看她\NShe has a visitor.
+Dialogue: 0,0:05:19.73,0:05:21.28,Default,,0,0,0,,你在等人吗？\NAre you expecting someone?
+Dialogue: 0,0:05:23.66,0:05:24.80,Default,,0,0,0,,哦 天呐\NOh, shit.
+Dialogue: 0,0:05:24.82,0:05:25.82,Default,,0,0,0,,看看你\NLook at you.
+Dialogue: 0,0:05:27.22,0:05:28.42,Default,,0,0,0,,你来这里干什么？\NWhat are you doing here?
+Dialogue: 0,0:05:28.44,0:05:30.00,Default,,0,0,0,,嗯 我还是你的紧急联系人\NWell, I'm still your emergency contact.
+Dialogue: 0,0:05:31.19,0:05:32.76,Default,,0,0,0,,谢了\NSo, thanks for that.
+Dialogue: 0,0:05:33.06,0:05:33.80,Default,,0,0,0,,你是谁？\NWho are you?
+Dialogue: 0,0:05:34.10,0:05:35.04,Default,,0,0,0,,费丝·麦考利\NFaith MacCaullay.
+Dialogue: 0,0:05:35.06,0:05:36.06,Default,,0,0,0,,你又是谁？\NWho are you?
+Dialogue: 0,0:05:36.63,0:05:37.63,Default,,0,0,0,,一家人？\NFamily?
+Dialogue: 0,0:05:39.29,0:05:41.10,Default,,0,0,0,,生物学意义上 对 我们是姐妹\NBiologically speaking, yeah, we're sisters,
+Dialogue: 0,0:05:41.12,0:05:43.00,Default,,0,0,0,,但我们不是一家人\Nbut we're not family.
+Dialogue: 0,0:05:45.28,0:05:46.28,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:05:46.31,0:05:47.79,Default,,0,0,0,,我会给你们几分钟时间\NI'm going to give you a few minutes.
+Dialogue: 0,0:05:47.84,0:05:49.52,Default,,0,0,0,,然后我会带你去警局\NThen I'm going to take you to the station.
+Dialogue: 0,0:05:50.21,0:05:51.47,Default,,0,0,0,,做陈述\NGet that statement.
+Dialogue: 0,0:05:56.82,0:05:57.82,Default,,0,0,0,,发生什么事了？\NWhat happened?
+Dialogue: 0,0:05:58.96,0:06:00.29,Default,,0,0,0,,你不会信的\NYou wouldn't believe me.
+Dialogue: 0,0:06:00.53,0:06:02.26,Default,,0,0,0,,这话可能没错 但我大老远开车\NThat's probably true, but I drove all
+Dialogue: 0,0:06:02.27,0:06:03.94,Default,,0,0,0,,来到康涅狄格这个鬼地方\Nthe way out to bumfuck Connecticut,
+Dialogue: 0,0:06:03.96,0:06:05.78,Default,,0,0,0,,- 所以... - 你从哪儿来的？\N- so... - Where'd you come from?
+Dialogue: 0,0:06:05.84,0:06:07.15,Default,,0,0,0,,你的意思是我住在哪里吗？\NYou mean, where do I live?
+Dialogue: 0,0:06:07.55,0:06:08.55,Default,,0,0,0,,是的\NSure.
+Dialogue: 0,0:06:11.36,0:06:12.36,Default,,0,0,0,,默里山\NMurray Hill.
+Dialogue: 0,0:06:13.04,0:06:14.04,Default,,0,0,0,,我现在在切尔西\NI'm in Chelsea.
+Dialogue: 0,0:06:14.28,0:06:15.48,Default,,0,0,0,,酷\NYeah, cool.
+Dialogue: 0,0:06:16.07,0:06:17.85,Default,,0,0,0,,你在纽约住了多久了\NHow long have you lived in New York?
+Dialogue: 0,0:06:18.69,0:06:20.20,Default,,0,0,0,,我十八岁时搬过去的\NI moved out there when I was 18.
+Dialogue: 0,0:06:21.41,0:06:22.55,Default,,0,0,0,,就像你一样\NJust like you.
+Dialogue: 0,0:06:24.15,0:06:26.56,Default,,0,0,0,,- 你竟然从没想过... - 格蕾丝 得了吧\N- And you never thought... - Grace, come on.
+Dialogue: 0,0:06:26.80,0:06:29.25,Default,,0,0,0,,很久以前你就说得很清楚了\NYou made it very clear a long time ago that
+Dialogue: 0,0:06:29.26,0:06:32.05,Default,,0,0,0,,你不想做我的姐姐 好吗？\Nyou're not interested in being my sister, okay?
+Dialogue: 0,0:06:32.07,0:06:33.19,Default,,0,0,0,,我也是这么想的\NAnd the feeling's mutual.
+Dialogue: 0,0:06:33.20,0:06:34.45,Default,,0,0,0,,我来这里不是为了重聚\NI'm not here for a reunion.
+Dialogue: 0,0:06:34.48,0:06:35.69,Default,,0,0,0,,好 见到你我也很高兴\NYeah, it's good to see you, too.
+Dialogue: 0,0:06:35.71,0:06:36.47,Default,,0,0,0,,你好吗？\NHow are you?
+Dialogue: 0,0:06:36.49,0:06:37.69,Default,,0,0,0,,- 我他妈好极了 - 是吗？\N- I'm fucking amazing. - Yeah?
+Dialogue: 0,0:06:37.70,0:06:38.94,Default,,0,0,0,,真好极了\NYeah, really good.
+Dialogue: 0,0:06:38.96,0:06:40.51,Default,,0,0,0,,我现在做自媒体\NI'm a social media coordinator.
+Dialogue: 0,0:06:40.61,0:06:42.51,Default,,0,0,0,,我住在一间超棒的一居室里\NI live in a kick-ass one bedroom and
+Dialogue: 0,0:06:42.52,0:06:44.80,Default,,0,0,0,,还有个帅得要命的男朋友 叫德里克\NI have a hot-as-fuck boyfriend named Derek.
+Dialogue: 0,0:06:45.27,0:06:48.15,Default,,0,0,0,,而且我不用靠跟你的亚历克斯·勒多马斯上床来得到这些\NAnd I didn't have to fuck Alex Le Domas to get it.
+Dialogue: 0,0:06:48.24,0:06:49.84,Default,,0,0,0,,全靠我自己的努力\NI did it all by myself.
+Dialogue: 0,0:06:51.32,0:06:52.96,Default,,0,0,0,,你怎么知道亚历克斯\NHow do you know about Alex?
+Dialogue: 0,0:06:53.98,0:06:55.27,Default,,0,0,0,,有一次我在第七大道二十五街的\NI saw you together once at
+Dialogue: 0,0:06:55.29,0:06:56.96,Default,,0,0,0,,全食超市看到你们在一起\Nthe Whole Foods on 25th and 7th.
+Dialogue: 0,0:06:59.01,0:07:00.01,Default,,0,0,0,,他很高\NHe's tall.
+Dialogue: 0,0:07:01.32,0:07:02.77,Default,,0,0,0,,你本可以打个招呼的\NYou could have said something.
+Dialogue: 0,0:07:03.12,0:07:04.02,Default,,0,0,0,,为什么？\NWhy?
+Dialogue: 0,0:07:04.08,0:07:05.26,Default,,0,0,0,,我活的那么好\NI'm in a good place.
+Dialogue: 0,0:07:05.69,0:07:06.82,Default,,0,0,0,,干嘛去见你这个唠叨鬼\NYou're a negative person.
+Dialogue: 0,0:07:06.84,0:07:08.24,Default,,0,0,0,,我才不是唠叨鬼\NI'm not a negative person.
+Dialogue: 0,0:07:08.26,0:07:11.12,Default,,0,0,0,,- 尽管你抛弃了我 - 我没有抛弃你\N- And even though you abandoned me... - I did not abandon you.
+Dialogue: 0,0:07:11.13,0:07:13.47,Default,,0,0,0,,我依然相信人性的善良\NI still believe in the fundamental goodness of humanity.
+Dialogue: 0,0:07:14.18,0:07:16.94,Default,,0,0,0,,天呐 如果你知道我刚才经历了什么...\NOh my God, if you knew what I'd just been through...
+Dialogue: 0,0:07:16.96,0:07:17.89,Default,,0,0,0,,那就告诉我吧\NThen tell me.
+Dialogue: 0,0:07:17.91,0:07:19.60,Default,,0,0,0,,我说过 你不会相信的\NI told you you wouldn't believe me.
+Dialogue: 0,0:07:21.77,0:07:23.95,Default,,0,0,0,,好 你没事就好\NAlright, I'm glad you're okay.
+Dialogue: 0,0:07:24.61,0:07:25.87,Default,,0,0,0,,还是这个苦瓜脸\NBut you haven't changed.
+Dialogue: 0,0:07:25.89,0:07:26.89,Default,,0,0,0,,那我走\NI'm just gonna go.
+Dialogue: 0,0:07:29.36,0:07:30.60,Default,,0,0,0,,费丝 等一下\NFaith, wait.
+Dialogue: 0,0:07:35.58,0:07:38.36,Default,,0,0,0,,婚礼结束后 亚历克斯告诉我 我得抽一张牌\NAfter the wedding, Alex tells me I have to pull a card.
+Dialogue: 0,0:07:39.87,0:07:41.16,Default,,0,0,0,,玩上面写的任何游戏\NPlay whatever game it says.
+Dialogue: 0,0:07:41.18,0:07:42.53,Default,,0,0,0,,某种...\NSome kind of
+Dialogue: 0,0:07:44.25,0:07:45.87,Default,,0,0,0,,入会仪式\Ninitiation ritual.
+Dialogue: 0,0:07:47.01,0:07:48.53,Default,,0,0,0,,我起初觉得挺奇怪\NWhich I thought was weird.
+Dialogue: 0,0:07:48.82,0:07:51.17,Default,,0,0,0,,但我想让他们喜欢我\NBut I wanted them to like me
+Dialogue: 0,0:07:51.18,0:07:53.92,Default,,0,0,0,,毕竟他们要成为我的新家人了\Nbecause they were gonna be my new family.
+Dialogue: 0,0:07:58.61,0:07:59.61,Default,,0,0,0,,总之\NAnyway...
+Dialogue: 0,0:08:02.29,0:08:03.54,Default,,0,0,0,,我抽到了捉迷藏\NI pull hide and seek.
+Dialogue: 0,0:08:05.18,0:08:06.52,Default,,0,0,0,,然后 周围人立马安静了\NAnd it gets real quiet.
+Dialogue: 0,0:08:08.08,0:08:09.31,Default,,0,0,0,,显然\NBecause apparently...
+Dialogue: 0,0:08:12.60,0:08:14.02,Default,,0,0,0,,那是一张坏牌\NThat's the bad card.
+Dialogue: 0,0:08:16.98,0:08:20.78,Default,,0,0,0,,他们以为必须把我献祭给魔鬼\NAnd they think they have to try to sacrifice me to the devil.
+Dialogue: 0,0:08:23.61,0:08:25.02,Default,,0,0,0,,他们告诉我 有机会赢\NThey told me I could win.
+Dialogue: 0,0:08:25.04,0:08:27.31,Default,,0,0,0,,如果我能躲到天亮\NIf I stayed hidden till dawn.
+Dialogue: 0,0:08:27.33,0:08:28.33,Default,,0,0,0,,但他们认为\NBut they thought...
+Dialogue: 0,0:08:29.33,0:08:30.43,Default,,0,0,0,,如果我赢的话\NIf I won...
+Dialogue: 0,0:08:31.93,0:08:33.12,Default,,0,0,0,,他们会死\NThey'd die.
+Dialogue: 0,0:08:36.63,0:08:37.94,Default,,0,0,0,,然后他们开始猎杀我\NSo they hunted me.
+Dialogue: 0,0:08:40.01,0:08:41.11,Default,,0,0,0,,我\NI got...
+Dialogue: 0,0:08:41.85,0:08:43.06,Default,,0,0,0,,手中枪了\NShot through the hand.
+Dialogue: 0,0:08:43.47,0:08:45.46,Default,,0,0,0,,被一个管家打得半死\NBeat to shit by a butler.
+Dialogue: 0,0:08:48.85,0:08:50.03,Default,,0,0,0,,并且我的\NAnd my...
+Dialogue: 0,0:08:52.61,0:08:54.74,Default,,0,0,0,,我的丈夫 刺伤了我\NMy husband... Stabbed me.
+Dialogue: 0,0:08:57.40,0:08:59.06,Default,,0,0,0,,但是我撑到了天亮\NBut I made it till dawn.
+Dialogue: 0,0:09:01.61,0:09:02.82,Default,,0,0,0,,我他妈赢了\NI fucking won.
+Dialogue: 0,0:09:07.19,0:09:08.38,Default,,0,0,0,,所以\NSo...
+Dialogue: 0,0:09:09.77,0:09:11.18,Default,,0,0,0,,他们死了吗？\NDid they drop dead?
+Dialogue: 0,0:09:11.19,0:09:12.19,Default,,0,0,0,,不\NNo.
+Dialogue: 0,0:09:14.61,0:09:15.89,Default,,0,0,0,,他们爆炸了\NThey blew up.
+Dialogue: 0,0:09:17.59,0:09:18.75,Default,,0,0,0,,爆炸了？\NThey blew up.
+Dialogue: 0,0:09:19.55,0:09:22.60,Default,,0,0,0,,在他们爆炸后 有个男人坐在椅子上\NAnd then after they blew up, there was a guy in a chair.
+Dialogue: 0,0:09:24.81,0:09:26.29,Default,,0,0,0,,他朝我点了点头\NAnd he nodded at me.
+Dialogue: 0,0:09:28.02,0:09:31.13,Default,,0,0,0,,椅子上的男人是谁？\NWho was the guy in the chair?
+Dialogue: 0,0:09:32.47,0:09:33.47,Default,,0,0,0,,我不知道\NI don't know.
+Dialogue: 0,0:09:35.14,0:09:37.18,Default,,0,0,0,,虽然他是透明的 但我非常确定他是...\NBut he was see-through, so I'm pretty sure he was...
+Dialogue: 0,0:09:38.96,0:09:39.96,Default,,0,0,0,,你懂的...\NYou know...
+Dialogue: 0,0:09:47.89,0:09:49.68,Default,,0,0,0,,你肯定要进监狱了\NYou are so going to jail.
+Dialogue: 0,0:09:51.86,0:09:52.86,Default,,0,0,0,,是的\NYeah.
+Dialogue: 0,0:10:08.88,0:10:12.75,Default,,0,0,0,,{\an8}（战事陷入胶着 结束遥遥无期）
+Dialogue: 0,0:10:17.54,0:10:19.08,Default,,0,0,0,,批准停火\NApprove the ceasefire.
+Dialogue: 0,0:10:25.12,0:10:26.10,Default,,0,0,0,,{\an8}（突发新闻 双方同意停火）
+Dialogue: 0,0:10:29.06,0:10:30.46,Default,,0,0,0,,早上好 丹福斯先生\NGood morning, Mr. Danforth.
+Dialogue: 0,0:10:36.35,0:10:38.05,Default,,0,0,0,,好久不见\NIt's been a long time.
+Dialogue: 0,0:10:40.18,0:10:41.32,Default,,0,0,0,,我有些消息\NI have some news.
+Dialogue: 0,0:10:46.91,0:10:48.16,Default,,0,0,0,,出去\NLeave us.
+Dialogue: 0,0:10:54.12,0:10:55.75,Default,,0,0,0,,勒多马斯家族没了\NThe Le Domases are no more.
+Dialogue: 0,0:11:02.96,0:11:03.96,Default,,0,0,0,,佩妮拉\NPernilla.
+Dialogue: 0,0:11:11.30,0:11:13.12,Default,,0,0,0,,你能把我的孩子叫来吗？\NCan you find my children?
+Dialogue: 0,0:11:13.53,0:11:14.53,Default,,0,0,0,,当然\NOf course.
+Dialogue: 0,0:11:18.30,0:11:20.02,Default,,0,0,0,,我转告其他人\NI'll inform the others.
+Dialogue: 0,0:11:20.67,0:11:22.24,Default,,0,0,0,,{\an8}（今晚有好戏了）
+Dialogue: 0,0:11:26.68,0:11:31.41,Default,,0,0,0,,{\an8}（新娘活下来了 勒多马斯家族失败了 游戏继续）
+Comment: 0,0:11:38.65,0:11:40.50,Default,,0,0,0,,(Welcome to Shanghai)
+Dialogue: 0,0:11:42.55,0:11:43.58,Default,,0,0,0,,喂\NHello.
+Dialogue: 0,0:11:43.75,0:11:45.86,Default,,0,0,0,,马上把我的律师都叫来\NGet all my lawyers here right now.
+Dialogue: 0,0:11:45.97,0:11:47.08,Default,,0,0,0,,马上\NRight away.
+Dialogue: 0,0:11:49.29,0:11:50.26,Default,,0,0,0,,{\an8}（进击工作室）
+Dialogue: 0,0:11:51.19,0:11:53.59,Default,,0,0,0,,历经岁月沧桑的古老宅邸合集\NThe collection of the weathered houses.
+Dialogue: 0,0:11:53.61,0:11:54.79,Default,,0,0,0,,克洛特恩堡 夏洛特\NClothurnburg. Charlotte.
+Dialogue: 0,0:11:54.80,0:11:56.13,Default,,0,0,0,,（西班牙语）别弄他妈的头发了 卡门\N¡Deja el puto pelo, Carmen!
+Dialogue: 0,0:11:56.14,0:11:56.77,Default,,0,0,0,,（西班牙语）操\N¡Coño!
+Dialogue: 0,0:11:56.78,0:11:57.71,Default,,0,0,0,,这破玩意谁写的\NWho wrote this shit?
+Dialogue: 0,0:11:57.72,0:11:59.79,Default,,0,0,0,,我就即兴发挥吧\NI'll just wing it.
+Dialogue: 0,0:11:59.80,0:12:00.86,Default,,0,0,0,,我按自己的方式来\NI'll do my own thing.
+Dialogue: 0,0:12:00.88,0:12:01.88,Default,,0,0,0,,像往常一样\NLike always.
+Dialogue: 0,0:12:09.77,0:12:11.07,Default,,0,0,0,,（西班牙语）真见鬼\N¡Puta madre!
+Dialogue: 0,0:12:11.64,0:12:13.83,Default,,0,0,0,,（西班牙语）真是他妈的大好事\N¡Me cago en esta puta!
+Dialogue: 0,0:12:13.85,0:12:15.02,Default,,0,0,0,,（西班牙语）过来 卡蒂亚\N[¡Ven ya, Katia!
+Dialogue: 0,0:12:15.03,0:12:15.79,Default,,0,0,0,,（西班牙语）哦 天呐\N¡Ay, Dios!
+Dialogue: 0,0:12:15.80,0:12:16.64,Default,,0,0,0,,嘿 好了\NHey, all right.
+Dialogue: 0,0:12:16.66,0:12:18.16,Default,,0,0,0,,告诉威廉 那人搞砸了\NTell William the guy shot the jet.
+Dialogue: 0,0:12:18.18,0:12:21.13,Default,,0,0,0,,{\an8}（鲜肉公司）
+Dialogue: 0,0:12:29.09,0:12:30.73,Default,,0,0,0,,轮到我了 混蛋\NIt's my time, motherfucker.
+Dialogue: 0,0:12:32.19,0:12:33.27,Default,,0,0,0,,本森\NBenson.
+Dialogue: 0,0:12:33.29,0:12:35.35,Default,,0,0,0,,把我的刀给我\NBring me my knife!
+Dialogue: 0,0:12:48.51,0:12:49.97,Default,,0,0,0,,这是我们的机会\NThis is our chance!
+Dialogue: 0,0:12:50.59,0:12:52.36,Default,,0,0,0,,这是我们的机会\NThis is our chance!
+Dialogue: 0,0:12:52.48,0:12:53.66,Default,,0,0,0,,勒拜尔万岁\NLe Bail be praised!
+Dialogue: 0,0:12:53.90,0:12:54.88,Default,,0,0,0,,耶\NYeah!
+Dialogue: 0,0:12:55.44,0:12:56.44,Default,,0,0,0,,开干\NShot!
+Dialogue: 0,0:12:57.10,0:12:58.66,Default,,0,0,0,,开干\NShot!
+Dialogue: 0,0:12:59.25,0:13:00.35,Default,,0,0,0,,开干\NShot!
+Dialogue: 0,0:13:00.79,0:13:02.77,Default,,0,0,0,,{\an8}（丹福斯）
+Dialogue: 0,0:13:32.80,0:13:33.80,Default,,0,0,0,,父亲\NFather
+Dialogue: 0,0:13:35.15,0:13:36.92,Default,,0,0,0,,所以勒多马斯家族失败了\NSo the Le Domas failed.
+Dialogue: 0,0:13:38.28,0:13:39.73,Default,,0,0,0,,新娘活下来了\NThe bride survived.
+Dialogue: 0,0:13:41.47,0:13:42.63,Default,,0,0,0,,游戏继续\NThe ball is in play.
+Dialogue: 0,0:13:47.59,0:13:48.44,Default,,0,0,0,,不\NNo.
+Dialogue: 0,0:13:48.58,0:13:49.51,Default,,0,0,0,,那不公平\NThat's not fair.
+Dialogue: 0,0:13:49.97,0:13:51.05,Default,,0,0,0,,这是我们的\NIt's... it's ours!
+Dialogue: 0,0:13:51.07,0:13:52.15,Default,,0,0,0,,没关系\NIt doesn't matter.
+Dialogue: 0,0:13:52.16,0:13:53.27,Default,,0,0,0,,规则就是这样\NIt's in the rules.
+Dialogue: 0,0:13:54.59,0:13:55.97,Default,,0,0,0,,你们知道该做什么了吧\NYou know what you have to do.
+Dialogue: 0,0:13:58.56,0:13:59.42,Default,,0,0,0,,爸\NDad.
+Dialogue: 0,0:14:00.61,0:14:01.32,Default,,0,0,0,,求你了\NPlease.
+Dialogue: 0,0:14:01.80,0:14:03.80,Default,,0,0,0,,像个爷们\NBe a fucking man!
+Dialogue: 0,0:14:05.42,0:14:06.42,Default,,0,0,0,,别忘了你姓丹福斯\NYou're a Danforth.
+Dialogue: 0,0:14:11.49,0:14:14.69,Default,,0,0,0,,这绝不能离开我们家族\NThis... must never leave our family.
+Dialogue: 0,0:14:15.21,0:14:16.68,Default,,0,0,0,,你必须夺回这个席位\NYou must win the seat back.
+Dialogue: 0,0:14:18.76,0:14:19.89,Default,,0,0,0,,我们会的\NWe will.
+Dialogue: 0,0:14:21.27,0:14:22.27,Default,,0,0,0,,我保证\NYou have my word.
+Dialogue: 0,0:14:30.38,0:14:31.39,Default,,0,0,0,,好吧...\NWell...
+Dialogue: 0,0:14:34.47,0:14:35.73,Default,,0,0,0,,痛快点吧\NGet on with it.
+Dialogue: 0,0:15:24.21,0:15:25.21,Default,,0,0,0,,泰特斯\NTitus.
+Dialogue: 0,0:15:28.03,0:15:29.03,Default,,0,0,0,,结束了\NIt's over.
+Dialogue: 0,0:15:39.03,0:15:40.53,Default,,0,0,0,,对新娘来说还没结束\NNot for the bride.
+Dialogue: 0,0:15:45.05,0:15:46.45,Default,,0,0,0,,好了 麦考利夫人\NAll right, Mrs. MacCaullay.
+Dialogue: 0,0:15:46.89,0:15:48.40,Default,,0,0,0,,我们给你拿些衣服\NWe'll get you some clothes.
+Dialogue: 0,0:15:49.36,0:15:52.28,Default,,0,0,0,,然后我们到警局继续谈话\NThen continue our conversation at the station.
+Dialogue: 0,0:15:53.11,0:15:55.47,Default,,0,0,0,,我迫不及待想听你讲那只山羊的事\NI can't wait for you to tell me about that goat...
+Dialogue: 0,0:16:16.48,0:16:18.59,Default,,0,0,0,,这一切都会是你的\NIt's all gonna be yours.
+Dialogue: 0,0:16:18.98,0:16:20.51,Default,,0,0,0,,去他妈的规则\NFuck the rules!
+Dialogue: 0,0:16:48.24,0:16:49.42,Default,,0,0,0,,求你了 求您了\NPlease, please.
+Dialogue: 0,0:16:54.87,0:16:57.06,Default,,0,0,0,,勒多马斯夫人\NMrs. Le Domas!
+Dialogue: 0,0:17:06.15,0:17:07.64,Default,,0,0,0,,这他妈什么情况\NWhat is going on
+Dialogue: 0,0:17:07.66,0:17:09.66,Default,,0,0,0,,这事怎么又开始了\NThis can't be happening again
+Dialogue: 0,0:17:21.88,0:17:23.73,Default,,0,0,0,,听着 我得有武器\NListen, I need a weapon.
+Dialogue: 0,0:17:23.81,0:17:25.14,Default,,0,0,0,,我先回车里拿\NI'm going back to the car.
+Dialogue: 0,0:17:27.00,0:17:29.00,Default,,0,0,0,,别抛弃我\NDo not leave me
+Dialogue: 0,0:17:29.73,0:17:31.73,Default,,0,0,0,,好的 好的\NOkay, Okay
+Dialogue: 0,0:18:22.38,0:18:23.90,Default,,0,0,0,,你伤到我了\NYou hurting me!
+Dialogue: 0,0:18:24.05,0:18:26.01,Default,,0,0,0,,你现在的捉迷藏水平也不咋样嘛\NNot so good at hide and seek now!
+Dialogue: 0,0:18:35.91,0:18:39.81,Default,,0,0,0,,哦天呐 搞毛线啊\NOh my God! What the fuck!
+Dialogue: 0,0:18:42.98,0:18:43.98,Default,,0,0,0,,好了\NOkay.
+Dialogue: 0,0:18:44.00,0:18:45.40,Default,,0,0,0,,可能还有更多的人来\NThere could be more coming.
+Dialogue: 0,0:18:45.41,0:18:46.76,Default,,0,0,0,,我得把手铐弄开\NI gotta get out of these cuffs.
+Dialogue: 0,0:18:46.77,0:18:47.77,Default,,0,0,0,,还好吗？\NOkay?
+Dialogue: 0,0:18:48.01,0:18:49.15,Default,,0,0,0,,搞什么鬼\NWhat the fuck?
+Dialogue: 0,0:18:50.16,0:18:51.57,Default,,0,0,0,,搞什么鬼\NWhat the fuck?
+Dialogue: 0,0:18:59.20,0:19:00.84,Default,,0,0,0,,我们得赶紧走\NWe gotta get out of here and disappear.
+Dialogue: 0,0:19:01.91,0:19:03.42,Default,,0,0,0,,你他妈在干什么？\NWhat the fuck are you doing?
+Dialogue: 0,0:19:03.43,0:19:04.66,Default,,0,0,0,,我们可能需要打架\NWe might have to fight.
+Dialogue: 0,0:19:04.67,0:19:06.29,Default,,0,0,0,,穿着病号服我没法打架\NI can't fight in this gown.
+Dialogue: 0,0:19:06.30,0:19:08.01,Default,,0,0,0,,没时间找新衣服了\NNo time to look for new clothes.
+Dialogue: 0,0:19:08.45,0:19:09.45,Default,,0,0,0,,你还要打架？\NYou have to fight?
+Dialogue: 0,0:19:13.75,0:19:14.81,Default,,0,0,0,,好的 好的\NOkay, okay.
+Dialogue: 0,0:19:27.68,0:19:28.82,Default,,0,0,0,,快点 我们得走了\NCome on, we gotta go.
+Dialogue: 0,0:19:44.65,0:19:46.09,Default,,0,0,0,,真是个乱摊子\NWhat a mess.
+Dialogue: 0,0:19:46.54,0:19:48.52,Default,,0,0,0,,威尔金森先生显然想\NLooks like Mr. Wilkinson tried to.
+Dialogue: 0,0:19:48.54,0:19:50.56,Default,,0,0,0,,在游戏开始前就杀了女孩\NKilled the girl before the game could begin.
+Dialogue: 0,0:19:51.10,0:19:54.72,Default,,0,0,0,,并让他的整个血脉过早地走向灭亡\NAnd condemned his entire bloodline to a premature end.
+Dialogue: 0,0:19:55.13,0:19:58.63,Default,,0,0,0,,嗯 这就是违反拉贝尔先生规则的下场\NWell, that's what happens when you break one of Mr. LaBelle's rules.
+Dialogue: 0,0:20:00.22,0:20:01.22,Default,,0,0,0,,你好\NHello there.
+Dialogue: 0,0:20:07.31,0:20:09.09,Default,,0,0,0,,请问你是谁？\NAnd who might you be?
+Dialogue: 0,0:20:10.22,0:20:13.48,Default,,0,0,0,,就在那一刻 我知道我们俩都会挺过去的\NAnd right then I knew that we were both going to make it.
+Dialogue: 0,0:20:15.24,0:20:17.43,Default,,0,0,0,,因为我们有这一刻值得为之而活\NBecause we had this moment to live for.
+Dialogue: 0,0:20:18.78,0:20:20.19,Default,,0,0,0,,而如今 我们就在这里\NAnd here we are.
+Dialogue: 0,0:20:20.82,0:20:21.97,Default,,0,0,0,,我们做到了\NWe made it.
+Dialogue: 0,0:20:22.91,0:20:24.23,Default,,0,0,0,,我爱你\NI love you so much.
+Dialogue: 0,0:20:25.57,0:20:26.57,Default,,0,0,0,,马克\NMark.
+Dialogue: 0,0:20:27.47,0:20:29.33,Default,,0,0,0,,那天我们在化疗病房相遇\NWhen we met that day in the chemo ward.
+Dialogue: 0,0:20:29.64,0:20:31.19,Default,,0,0,0,,女士们先生们\NLadies and gentlemen.
+Dialogue: 0,0:20:31.38,0:20:33.56,Default,,0,0,0,,我非常抱歉地告诉你们\NI am terribly sorry to tell you but I'm going
+Dialogue: 0,0:20:33.57,0:20:36.56,Default,,0,0,0,,我不得不请你们所有人离开这里\Nto have to ask you all to vacate the premises.
+Dialogue: 0,0:20:36.57,0:20:38.73,Default,,0,0,0,,不幸的是 我们出现了煤气泄漏\NUnfortunately, we have a gas leak.
+Dialogue: 0,0:20:40.00,0:20:42.58,Default,,0,0,0,,你他妈在开玩笑吗？\NAre you fucking kidding me?
+Dialogue: 0,0:20:44.18,0:20:45.18,Default,,0,0,0,,她没有\NShe's not.
+Dialogue: 0,0:20:45.20,0:20:46.51,Default,,0,0,0,,请你赶紧滚出去\NKindly get the fuck out.
+Dialogue: 0,0:20:46.52,0:20:48.16,Default,,0,0,0,,此外请你礼貌点\NBesides, you could do way better.
+Dialogue: 0,0:20:49.96,0:20:51.11,Default,,0,0,0,,各位请注意\NAttention ladies and gentlemen.
+Dialogue: 0,0:20:51.70,0:20:52.70,Default,,0,0,0,,请根据指示...\Ndo on procedures...
+Dialogue: 0,0:20:56.39,0:20:58.37,Default,,0,0,0,,这些人该回家了\NThese people need to go home.
+Dialogue: 0,0:20:59.06,0:21:00.46,Default,,0,0,0,,滚出去\NGet the fuck out.
+Dialogue: 0,0:21:01.20,0:21:02.20,Default,,0,0,0,,滚出去\NGet the fuck out.
+Dialogue: 0,0:21:03.16,0:21:05.84,Default,,0,0,0,,你为什么总觉得非得当个混蛋不可？\NWhy do you always feel the need to be such a dick?
+Dialogue: 0,0:21:05.90,0:21:07.50,Default,,0,0,0,,你但凡有点善意都意义非凡\NYour little grace goes a long way.
+Dialogue: 0,0:21:07.87,0:21:09.03,Default,,0,0,0,,好吧 那很可笑\NWell, that was funny.
+Dialogue: 0,0:21:09.84,0:21:11.94,Default,,0,0,0,,今天不是搞笑的日子\NToday is not the day for funny.
+Dialogue: 0,0:21:12.24,0:21:15.53,Default,,0,0,0,,爸爸给我们一个任务 我不会让他失望\NDad gave us a mission and I'm not going to let him down.
+Dialogue: 0,0:21:15.93,0:21:16.93,Default,,0,0,0,,呦\NYo!
+Dialogue: 0,0:21:16.94,0:21:18.32,Default,,0,0,0,,表亲们\NCousins!
+Dialogue: 0,0:21:18.34,0:21:19.59,Default,,0,0,0,,已经过去多久了？\NHow long has it been?
+Dialogue: 0,0:21:19.61,0:21:20.94,Default,,0,0,0,,我先报个名\NI'm gonna sign it up.
+Dialogue: 0,0:21:20.95,0:21:23.04,Default,,0,0,0,,好戏开场时来叫我\NCome get me when the fireworks start.
+Dialogue: 0,0:21:23.15,0:21:24.15,Default,,0,0,0,,摸你鸡鸡\NDick tap!
+Dialogue: 0,0:21:25.19,0:21:27.32,Default,,0,0,0,,你不必跟他说话\NYou don't have to speak to him.
+Dialogue: 0,0:21:27.34,0:21:29.34,Default,,0,0,0,,别惹事 行吗？\NJust don't start anything, okay?
+Dialogue: 0,0:21:29.58,0:21:30.58,Default,,0,0,0,,今天别惹事\NNot today.
+Dialogue: 0,0:21:31.45,0:21:32.45,Default,,0,0,0,,该死的基普\NFucking Kip.
+Dialogue: 0,0:21:43.30,0:21:44.30,Default,,0,0,0,,我们非做不可\NIt had to be done.
+Dialogue: 0,0:21:53.01,0:21:55.11,Default,,0,0,0,,你伤心的时候看起来真像他\NYou look just like him when you're sad.
+Dialogue: 0,0:22:01.10,0:22:05.15,Default,,0,0,0,,我再说一遍 请保持冷静 有序地走向出口\NI'll repeat, please remain calm and proceed to the exits in an orderly fashion.
+Dialogue: 0,0:22:05.41,0:22:08.69,Default,,0,0,0,,女士们先生们 收拾好你们的破烂 滚出去\NLadies and gentlemen, pack up your shit and get the fuck out.
+Dialogue: 0,0:22:09.38,0:22:10.38,Default,,0,0,0,,请快点\NPlease.
+Dialogue: 0,0:22:17.39,0:22:20.80,Default,,0,0,0,,委员会上次举行现场会议是什么时候？\NWhen was the last time the council actually convened in person?
+Dialogue: 0,0:22:20.82,0:22:22.92,Default,,0,0,0,,1963年10月\NOctober, 1963.
+Dialogue: 0,0:22:25.03,0:22:26.09,Default,,0,0,0,,我查过了\NI looked it up.
+Dialogue: 0,0:22:28.10,0:22:30.14,Default,,0,0,0,,嗯 他们现在正前往小屋的路上\NWell, they're on their way to the lodge now.
+Dialogue: 0,0:23:10.66,0:23:12.19,Default,,0,0,0,,开始了\NAnd so it begins.
+Dialogue: 0,0:23:15.86,0:23:16.75,Default,,0,0,0,,哦 天呐\NOh, man.
+Dialogue: 0,0:23:16.77,0:23:17.78,Default,,0,0,0,,是啊\NYeah.
+Dialogue: 0,0:23:17.80,0:23:18.80,Default,,0,0,0,,伊格纳西奥\NIgnacio.
+Dialogue: 0,0:23:19.45,0:23:20.07,Default,,0,0,0,,费利佩\NFelipe.
+Dialogue: 0,0:23:20.09,0:23:21.67,Default,,0,0,0,,早上好 丹福斯夫人\NBuenos Días, Senora Danforth.
+Dialogue: 0,0:23:22.02,0:23:23.38,Default,,0,0,0,,你一点没老\NYou haven't aged a day.
+Dialogue: 0,0:23:25.35,0:23:26.36,Default,,0,0,0,,弗朗西丝卡没来吗？\NNo Francesca?
+Dialogue: 0,0:23:26.37,0:23:28.33,Default,,0,0,0,,我原本以为她肯定想亲眼见证这一刻\NI thought for sure she'd want to be here for this.
+Dialogue: 0,0:23:28.41,0:23:29.47,Default,,0,0,0,,她马上就来 相信我\NShe'll be along, believe me.
+Dialogue: 0,0:23:29.48,0:23:31.33,Default,,0,0,0,,她不会错过这个的\NShe wouldn't miss this for the world.
+Dialogue: 0,0:23:31.35,0:23:32.21,Default,,0,0,0,,真是件好事\NIt's exciting...
+Dialogue: 0,0:23:32.22,0:23:34.98,Default,,0,0,0,,嗯 对我来说真是件好事\Nit's exciting for me.
+Dialogue: 0,0:23:35.30,0:23:36.67,Default,,0,0,0,,对你来说不是\NIt's terrifying for you.
+Dialogue: 0,0:23:36.89,0:23:37.93,Default,,0,0,0,,对 还有你\NYes, and you.
+Dialogue: 0,0:23:41.15,0:23:42.15,Default,,0,0,0,,走吧 费利佩\NVamos, Felipe.
+Dialogue: 0,0:23:45.89,0:23:46.89,Default,,0,0,0,,乌苏拉\NUrsula.
+Dialogue: 0,0:23:47.43,0:23:48.43,Default,,0,0,0,,泰特斯\NTitus.
+Dialogue: 0,0:23:48.68,0:23:51.01,Default,,0,0,0,,你还记得我儿子吗？承福\NYou remember my son? Cheng Fu
+Dialogue: 0,0:23:51.53,0:23:53.53,Default,,0,0,0,,认识你承福 欢迎\NI know you, Chengfu. Welcome.
+Dialogue: 0,0:23:56.90,0:23:58.37,Default,,0,0,0,,Wi-Fi密码是什么？\NWhat's the Wi-Fi password?
+Dialogue: 0,0:24:08.40,0:24:09.14,Default,,0,0,0,,态度好点儿\NBe nice
+Dialogue: 0,0:24:15.65,0:24:16.65,Default,,0,0,0,,马杜\NMadhu
+Dialogue: 0,0:24:16.66,0:24:17.66,Default,,0,0,0,,维拉杰\NViraj
+Dialogue: 0,0:24:17.68,0:24:18.68,Default,,0,0,0,,玛蒂娜 欢迎\NMartina, welcome.
+Dialogue: 0,0:24:20.26,0:24:22.07,Default,,0,0,0,,规则是什么？\NSo how's this shit work?
+Dialogue: 0,0:24:22.08,0:24:25.49,Default,,0,0,0,,大家马上到齐了 到时候律师会向大家说明一切\NOur guests will be arriving soon, and then the lawyer will explain everything.
+Dialogue: 0,0:24:25.65,0:24:27.21,Default,,0,0,0,,啊 大律师\NAh, lawyer.
+Dialogue: 0,0:24:27.28,0:24:29.29,Default,,0,0,0,,跟这边这位漂亮笨蛋说话慢点\NSpeak slow for this beautiful dum-dum over here.
+Dialogue: 0,0:24:29.30,0:24:30.50,Default,,0,0,0,,爆破音\NSingle-syllable words.
+Dialogue: 0,0:24:34.38,0:24:36.93,Default,,0,0,0,,看来我们的贵宾要到了\NIt appears our guest of honor is arriving.
+Dialogue: 0,0:24:58.55,0:24:59.75,Default,,0,0,0,,你好 格蕾丝\NHello, Grace.
+Dialogue: 0,0:25:00.03,0:25:01.21,Default,,0,0,0,,我是乌苏拉·丹福斯\NI'm Ursula Danforth.
+Dialogue: 0,0:25:01.67,0:25:03.27,Default,,0,0,0,,这是我哥哥泰特斯\NThis is my brother Titus.
+Dialogue: 0,0:25:04.25,0:25:05.25,Default,,0,0,0,,欢迎来到我们家\NWelcome to our home.
+Dialogue: 0,0:25:08.18,0:25:09.45,Default,,0,0,0,,父亲 我可以跟她说话吗\NMay I speak to her, Father?
+Dialogue: 0,0:25:09.85,0:25:10.94,Default,,0,0,0,,（西班牙语）可以 可以 去吧 费利佩\NSí, sí, ándale, Felipe.
+Dialogue: 0,0:25:10.95,0:25:12.06,Default,,0,0,0,,它伤不着你\NIt can't hurt you.
+Dialogue: 0,0:25:13.49,0:25:15.16,Default,,0,0,0,,你见到勒贝尔先生了吗？\NDid you see Mr. LeBail?
+Dialogue: 0,0:25:16.44,0:25:17.49,Default,,0,0,0,,等一下\NOne second.
+Dialogue: 0,0:25:17.50,0:25:20.22,Default,,0,0,0,,在开始之前 我得先拍张自拍\NI just gotta take a quick selfie before we start.
+Dialogue: 0,0:25:20.58,0:25:21.58,Default,,0,0,0,,呦\NYo!
+Dialogue: 0,0:25:22.78,0:25:25.06,Default,,0,0,0,,这女孩打败了勒多马斯家族\NThis girl bested the Le Domases.
+Dialogue: 0,0:25:25.13,0:25:26.29,Default,,0,0,0,,还有比尔·威尔金森\NAnd Bill Wilkinson.
+Dialogue: 0,0:25:26.57,0:25:27.61,Default,,0,0,0,,我们能开始了吗？\NCan we start this, please?
+Dialogue: 0,0:25:27.77,0:25:29.14,Default,,0,0,0,,切斯特他妈在哪儿？\NAnd where the fuck is Chester?
+Dialogue: 0,0:25:30.58,0:25:32.78,Default,,0,0,0,,我们的父亲...去世了\NOur father... passed.
+Dialogue: 0,0:25:33.07,0:25:33.99,Default,,0,0,0,,搞什么\NWhat the fuck?
+Dialogue: 0,0:25:34.00,0:25:35.00,Default,,0,0,0,,什么？\NWhat?
+Dialogue: 0,0:25:35.99,0:25:38.10,Default,,0,0,0,,昨晚 在睡梦中\NLast night, in his sleep.
+Dialogue: 0,0:25:39.28,0:25:40.08,Default,,0,0,0,,等等 等等\NWait, wait, wait.
+Dialogue: 0,0:25:40.09,0:25:41.56,Default,,0,0,0,,那意味着你现在要参赛了\NSo does that mean that you're playing now?
+Dialogue: 0,0:25:41.58,0:25:44.07,Default,,0,0,0,,既然我们是双胞胎 那我们俩都会上场 对吧？\NAs we are twins, we will both be taking the field, yes?
+Dialogue: 0,0:25:44.09,0:25:45.11,Default,,0,0,0,,搞什么鬼？\NWhat the fuck?
+Dialogue: 0,0:25:45.11,0:25:45.64,Default,,0,0,0,,不\NNo.
+Dialogue: 0,0:25:45.66,0:25:46.66,Default,,0,0,0,,多方便啊\NHow convenient.
+Dialogue: 0,0:25:47.10,0:25:49.34,Default,,0,0,0,,（西班牙语）我早就跟你说过 丹福斯一家都是阴险小人\NTe dije que los Danforths son unas víboras.
+Dialogue: 0,0:25:49.35,0:25:49.91,Default,,0,0,0,,（西班牙语）没事的\NEstá bien.
+Dialogue: 0,0:25:49.92,0:25:51.30,Default,,0,0,0,,（西班牙语）他们在耍诡计\NY que iban a hacer trampas.
+Dialogue: 0,0:25:51.31,0:25:52.09,Default,,0,0,0,,（西班牙语）行了 别担心\NYa, no te preocupes
+Dialogue: 0,0:25:52.10,0:25:54.94,Default,,0,0,0,,格蕾丝 我明白这对你来说一定很可怕\NGrace, I realize this must be terrifying for you.
+Dialogue: 0,0:25:55.90,0:25:57.62,Default,,0,0,0,,但你来到这里 是因为一个非常特别\NBut you are here for a very special,
+Dialogue: 0,0:25:57.63,0:25:59.20,Default,,0,0,0,,非常令人兴奋的原因\Nvery exciting reason.
+Dialogue: 0,0:26:33.77,0:26:36.55,Default,,0,0,0,,勒多马斯夫人 您可真是掀起了不小的风波\NYou've caused quite a stir, Mrs. Le Domas.
+Dialogue: 0,0:26:36.81,0:26:38.54,Default,,0,0,0,,我叫麦考利\NMacCaullay!
+Dialogue: 0,0:26:38.57,0:26:42.66,Default,,0,0,0,,我是拉贝尔先生和拉贝尔组织的唯一律师\NI am the sole attorney for Mr. LaBelle and the LaBelle organization.
+Dialogue: 0,0:26:42.88,0:26:45.87,Default,,0,0,0,,该组织由一个理事会领导 该理事会由六个家族的首领组成\NThe organization is led by a council made up of the heads of six families,
+Dialogue: 0,0:26:46.71,0:26:48.00,Default,,0,0,0,,包括你的婆家\Nincluding your in-laws.
+Dialogue: 0,0:26:48.66,0:26:51.21,Default,,0,0,0,,现在德莫斯和威尔金森家族已经被消灭\NNow The DeMoss and Wilkinson families have been wiped out.
+Dialogue: 0,0:26:51.66,0:26:54.55,Default,,0,0,0,,六大家族议会目前缩减到四个\NThe council of six families is currently down to four.
+Dialogue: 0,0:26:55.50,0:26:56.61,Default,,0,0,0,,你在这里的原因是\NThe reason you're here is
+Dialogue: 0,0:26:56.63,0:26:59.92,Default,,0,0,0,,你从勒德莫斯家的捉迷藏游戏中幸存下来\Nthat by surviving Le DeMoss' game of hide and seek,
+Dialogue: 0,0:26:59.94,0:27:01.88,Default,,0,0,0,,你触发了我们组织章程中一条\Nyou triggered a very seldom use
+Dialogue: 0,0:27:01.89,0:27:03.97,Default,,0,0,0,,极少被援引的条款\Nclause in our organization's bylaws.
+Dialogue: 0,0:27:04.98,0:27:06.63,Default,,0,0,0,,要知道 在理事会中\NYou see, on the council there is
+Dialogue: 0,0:27:06.65,0:27:08.63,Default,,0,0,0,,有一个席位的权力比其他席位更大\None seat with more power than the others.
+Dialogue: 0,0:27:09.26,0:27:10.10,Default,,0,0,0,,至高席位\NThe high seat.
+Dialogue: 0,0:27:10.62,0:27:14.02,Default,,0,0,0,,它配有这个权力徽章\NAnd it comes with this, sigil of power.
+Dialogue: 0,0:27:16.71,0:27:20.42,Default,,0,0,0,,直到现在 那个席位由切斯特·丹福斯占据\NUntil now, that seat was occupied by Chester Danforth.
+Dialogue: 0,0:27:21.47,0:27:23.03,Default,,0,0,0,,我想你听说过他\NI presume you've heard of him.
+Dialogue: 0,0:27:23.62,0:27:26.38,Default,,0,0,0,,因为你触发了那个条款 至高席位现在空缺了\NBecause you triggered that clause, the high seat is
+Dialogue: 0,0:27:26.40,0:27:30.43,Default,,0,0,0,,很多很多年来的第一次\Nnow vacant for the first time in many, many years.
+Dialogue: 0,0:27:30.53,0:27:32.69,Default,,0,0,0,,而且 信不信由你\NAnd, believe it or not,
+Dialogue: 0,0:27:32.71,0:27:35.15,Default,,0,0,0,,你获得了一个赢得至高席位的机会\Nyou've been given an opportunity to win the high seat.
+Dialogue: 0,0:27:36.66,0:27:38.58,Default,,0,0,0,,能从游戏中幸存下来的人非常少 \NIt's very rare that someone survives a game,
+Dialogue: 0,0:27:38.59,0:27:40.52,Default,,0,0,0,,所以会获得这份奖励\Nso it comes with this reward.
+Dialogue: 0,0:27:40.54,0:27:42.35,Default,,0,0,0,,其余议会家族的首领们\NAnd the heads of the remaining council families
+Dialogue: 0,0:27:42.37,0:27:44.20,Default,,0,0,0,,也会竭力争夺这个席位\Nwill try to win the seat for themselves.
+Dialogue: 0,0:27:44.21,0:27:46.77,Default,,0,0,0,,或者就我们而言 夺回本应属于我们的东西\NOr in our case, take back what should still be ours.
+Dialogue: 0,0:27:46.79,0:27:48.43,Default,,0,0,0,,这个条款真他妈蠢\NThis clause is so fucking stupid.
+Dialogue: 0,0:27:48.44,0:27:51.18,Default,,0,0,0,,啊 你是怕我们其中一个会取代你爸爸的位置 是吗？\NAh, you're afraid one of us is going to take Daddy's place, eh?
+Dialogue: 0,0:27:52.08,0:27:53.23,Default,,0,0,0,,谁知道呢\NYou never know.
+Dialogue: 0,0:27:53.44,0:27:54.91,Default,,0,0,0,,勒德莫斯夫人可能会赢\NMrs. Le DeMoss could win.
+Dialogue: 0,0:27:57.65,0:28:02.54,Default,,0,0,0,,因此 正如丹福斯女士所说 这其实全是好消息\NSo, as Ms. Danforth said, this is all actually good news.
+Dialogue: 0,0:28:02.87,0:28:04.91,Default,,0,0,0,,勒贝尔先生向你展示了笑颜\NMr. LeBail has smiled upon thee.
+Dialogue: 0,0:28:05.86,0:28:06.86,Default,,0,0,0,,赞美撒旦\NHail Satan.
+Dialogue: 0,0:28:07.29,0:28:08.68,Default,,0,0,0,,赞美撒旦\NHail Satan.
+Dialogue: 0,0:28:08.79,0:28:09.79,Default,,0,0,0,,赞美撒旦\NHail Satan.
+Dialogue: 0,0:28:12.53,0:28:13.36,Default,,0,0,0,,你\NDo you...
+Dialogue: 0,0:28:13.37,0:28:14.37,Default,,0,0,0,,你有什么问题吗？\Nhave any questions?
+Dialogue: 0,0:28:16.39,0:28:17.39,Default,,0,0,0,,我有\NI have
+Dialogue: 0,0:28:29.32,0:28:30.87,Default,,0,0,0,,能给我一支烟吗？\NCan I have a cigarette?
+Dialogue: 0,0:28:31.84,0:28:32.84,Default,,0,0,0,,不\NNo.
+Dialogue: 0,0:28:37.53,0:28:40.42,Default,,0,0,0,,你妹妹的出现真是个意外\NYour sister's existence was quite a surprise.
+Dialogue: 0,0:28:41.00,0:28:45.18,Default,,0,0,0,,你告诉勒多马斯家族你没有家人 然而 费丝在这里\NYou told the Le Domas that you had no family, and yet, here is faith.
+Dialogue: 0,0:28:47.06,0:28:50.94,Default,,0,0,0,,格蕾丝（赞美）和费丝（信念） 他妈的爱尔兰天主教名字\NGrace and faith, fucking Irish Catholics.
+Dialogue: 0,0:28:52.54,0:28:53.50,Default,,0,0,0,,听着\NListen.
+Dialogue: 0,0:28:54.14,0:28:55.89,Default,,0,0,0,,咱们赶紧结束吧\NWe can make this real quick,
+Dialogue: 0,0:28:55.91,0:28:58.83,Default,,0,0,0,,因为我他妈的才不要你的席位\Nbecause I don't want your fucking chair.
+Dialogue: 0,0:29:00.11,0:29:01.61,Default,,0,0,0,,我想我没有说清楚\NI suppose I wasn't clear.
+Dialogue: 0,0:29:01.91,0:29:05.75,Default,,0,0,0,,至高席位控制议会 议会控制着\NThe high seat controls the council, and the council controls...
+Dialogue: 0,0:29:06.85,0:29:08.55,Default,,0,0,0,,嗯 一切\Nwell, everything.
+Dialogue: 0,0:29:09.79,0:29:10.79,Default,,0,0,0,,一切？\NEverything?
+Dialogue: 0,0:29:12.06,0:29:13.06,Default,,0,0,0,,整个世界\NThe world.
+Dialogue: 0,0:29:18.23,0:29:20.68,Default,,0,0,0,,那又怎样 我就得再抽一张牌之类的吗？\NSo what, I just have to pull another card or something?
+Dialogue: 0,0:29:20.69,0:29:21.91,Default,,0,0,0,,没有那个必要\NThat won't be necessary.
+Dialogue: 0,0:29:21.93,0:29:23.75,Default,,0,0,0,,把它想成双倍或全输的赌局吧\NThink of this as double or nothing.
+Dialogue: 0,0:29:24.12,0:29:26.03,Default,,0,0,0,,因为你从勒多马斯家族的捉迷藏游戏中\NBecause you survived Le Domas' game of
+Dialogue: 0,0:29:26.04,0:29:29.13,Default,,0,0,0,,幸存下来 你将再次玩那个游戏\Nhide and seek, you will play that game again.
+Dialogue: 0,0:29:29.23,0:29:30.02,Default,,0,0,0,,才不要\NNo!
+Dialogue: 0,0:29:30.03,0:29:32.70,Default,,0,0,0,,这次 是和议会成员一起\NThis time, with the council members.
+Dialogue: 0,0:29:32.72,0:29:34.15,Default,,0,0,0,,他妈的小屁孩\NFucking baby shit bun.
+Dialogue: 0,0:29:34.27,0:29:36.11,Default,,0,0,0,,所以 我怎么赢？\NSo for me to win the seat?
+Dialogue: 0,0:29:36.66,0:29:37.66,Default,,0,0,0,,活到天亮\NSurvive until dawn.
+Dialogue: 0,0:29:38.98,0:29:40.39,Default,,0,0,0,,其他人呢？\NAnd the rest of them?
+Dialogue: 0,0:29:40.94,0:29:42.32,Default,,0,0,0,,这部分你很熟悉\NThis part will be familiar.
+Dialogue: 0,0:29:43.33,0:29:45.08,Default,,0,0,0,,他们将会杀死你\NThey will try to kill you.
+Dialogue: 0,0:29:45.69,0:29:48.37,Default,,0,0,0,,谁杀了你 赢得至高位\NWhoever does, wins the seat.
+Dialogue: 0,0:29:49.05,0:29:50.97,Default,,0,0,0,,现在 我们必须在天亮前填补这个空缺\NNow, we must fill the seat by dawn,
+Dialogue: 0,0:29:50.99,0:29:52.43,Default,,0,0,0,,否则勒贝尔先生就会...\Nor Mr. LeBail will be...
+Dialogue: 0,0:29:53.90,0:29:54.90,Default,,0,0,0,,非常不高兴\Nvery upset.
+Dialogue: 0,0:29:56.24,0:29:58.41,Default,,0,0,0,,- 获胜者将... - 太棒了\N- The winner will... - Ah! Fuck yeah!
+Dialogue: 0,0:30:01.03,0:30:02.03,Default,,0,0,0,,臭孩子\NYou silly.
+Dialogue: 0,0:30:03.07,0:30:04.07,Default,,0,0,0,,赞美撒旦\NHail Satan.
+Dialogue: 0,0:30:04.32,0:30:06.59,Default,,0,0,0,,获胜者将在黑神庙\NThe winner will be coronated in
+Dialogue: 0,0:30:06.60,0:30:08.89,Default,,0,0,0,,举行的特别仪式上加冕\Na special ceremony in the Black Temple.
+Dialogue: 0,0:30:08.91,0:30:11.43,Default,,0,0,0,,勒贝尔先生最虔诚的信徒们\NThe crème de la crème of Mr. LeBail's
+Dialogue: 0,0:30:11.45,0:30:12.98,Default,,0,0,0,,将悉数到场\Nfaithful will be in attendance.
+Dialogue: 0,0:30:13.11,0:30:14.53,Default,,0,0,0,,就这些\NThat's the whole thing.
+Dialogue: 0,0:30:16.13,0:30:17.61,Default,,0,0,0,,我不玩\NI'm not playing.
+Dialogue: 0,0:30:18.04,0:30:19.17,Default,,0,0,0,,哦 对不起\NOh, I'm sorry.
+Dialogue: 0,0:30:19.41,0:30:20.35,Default,,0,0,0,,还有一件事\NThat's the other thing.
+Dialogue: 0,0:30:20.37,0:30:22.24,Default,,0,0,0,,我不玩\NI'M NOT PLAYING!
+Dialogue: 0,0:30:22.78,0:30:23.82,Default,,0,0,0,,你必须参赛\NYou have to compete.
+Dialogue: 0,0:30:25.80,0:30:27.25,Default,,0,0,0,,我还是不玩\NI'm still not playing.
+Dialogue: 0,0:30:27.81,0:30:28.81,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:30:29.18,0:30:30.67,Default,,0,0,0,,普鲁内拉 杀了那个妹妹\NPrunella, kill the sister.
+Dialogue: 0,0:30:34.61,0:30:35.70,Default,,0,0,0,,不 不 不\NNO! NO! NO!
+Dialogue: 0,0:30:35.71,0:30:36.04,Default,,0,0,0,,操你妈的\NFUCK!
+Dialogue: 0,0:30:36.05,0:30:37.05,Default,,0,0,0,,别伤害她\NDON'T HURT HER!
+Dialogue: 0,0:30:42.81,0:30:44.00,Default,,0,0,0,,你可以把这个拿掉\NYou can take that off.
+Dialogue: 0,0:30:49.93,0:30:50.75,Default,,0,0,0,,听着\NListen!
+Dialogue: 0,0:30:50.77,0:30:52.96,Default,,0,0,0,,你们看起来都是好人\NYou guys seem like good people!
+Dialogue: 0,0:30:52.98,0:30:55.48,Default,,0,0,0,,而且我甚至都不知道自己为什么会在这里\NAnd I don't even know why I'm here!
+Dialogue: 0,0:30:55.60,0:30:59.10,Default,,0,0,0,,我们大概有七年没见过了\NWe haven't seen each other in, like, seven years!
+Dialogue: 0,0:30:59.55,0:31:00.55,Default,,0,0,0,,为什么不见面？\NWhy not?
+Dialogue: 0,0:31:01.87,0:31:03.78,Default,,0,0,0,,这很复杂\NIt's complicated.
+Dialogue: 0,0:31:03.80,0:31:05.02,Default,,0,0,0,,好手段啊 蠢货\NNice leverage, moron.
+Dialogue: 0,0:31:05.03,0:31:07.03,Default,,0,0,0,,她根本不在乎那个女的\NThis thing doesn't even care about the other thing.
+Dialogue: 0,0:31:07.10,0:31:08.92,Default,,0,0,0,,你们两个合不来？\NYou two don't get along?
+Dialogue: 0,0:31:09.77,0:31:11.15,Default,,0,0,0,,我们闹翻了\NWe had a falling out.
+Dialogue: 0,0:31:11.81,0:31:12.81,Default,,0,0,0,,因为什么？\NAbout what?
+Dialogue: 0,0:31:13.27,0:31:14.92,Default,,0,0,0,,就因为她是个混蛋\NJust her being an asshole.
+Dialogue: 0,0:31:15.47,0:31:17.01,Default,,0,0,0,,听着 让我总结一下\NLook, allow me to wrap up.
+Dialogue: 0,0:31:17.23,0:31:20.25,Default,,0,0,0,,游戏将在下午2点31分准时开始\NThe game will begin at exactly 2:31 p.m.
+Dialogue: 0,0:31:20.27,0:31:22.94,Default,,0,0,0,,为遵守拉贝尔先生所指定的确切时间...\NIn observance of the exact time Mr.LaBelle...
+Dialogue: 0,0:31:24.48,0:31:25.81,Default,,0,0,0,,爸爸\NDaddy!
+Dialogue: 0,0:31:26.02,0:31:27.02,Default,,0,0,0,,（西班牙语）我的宝贝\NMi amor.
+Dialogue: 0,0:31:32.61,0:31:34.40,Default,,0,0,0,,嗯 天呐 你来了\NWell, holy shit, here you are.
+Dialogue: 0,0:31:35.03,0:31:36.03,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:31:36.96,0:31:39.23,Default,,0,0,0,,弗朗西丝卡·埃尔卡多 你个蠢荡妇\NFrancesca El Caído, you dumb slut.
+Dialogue: 0,0:31:39.76,0:31:40.76,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:31:41.13,0:31:43.66,Default,,0,0,0,,亚历克斯的前未婚妻\NAlex's ex-fiancee.
+Dialogue: 0,0:31:44.54,0:31:46.51,Default,,0,0,0,,我的戒指他妈在哪 婊子？\NWhere the fuck is my ring, bitch?
+Dialogue: 0,0:31:46.81,0:31:49.51,Default,,0,0,0,,在你偷走他之前 他买给我的\NHe bought it for me before you stole him.
+Dialogue: 0,0:31:52.07,0:31:55.22,Default,,0,0,0,,就在他爆炸之前 我把它扔向了他\NI threw it at him right before he exploded.
+Dialogue: 0,0:31:57.81,0:31:59.82,Default,,0,0,0,,你不过是个冷血的婊子\NYou're nothing but a cold-hearted whore.
+Dialogue: 0,0:32:00.15,0:32:04.39,Default,,0,0,0,,要知道 亚历克斯并不傻 但他确实他妈的太好骗了\NYou see, Alex wasn't stupid, but he sure was fucking gullible.
+Dialogue: 0,0:32:04.80,0:32:08.58,Default,,0,0,0,,你毁了我的生活\NYou ruined my life.
+Dialogue: 0,0:32:09.84,0:32:12.36,Default,,0,0,0,,而我他妈都不知道你是谁\NAnd I don't even know who the fuck you are.
+Dialogue: 0,0:32:13.26,0:32:14.53,Default,,0,0,0,,别生气 别生气\NOkay, No, no, no.
+Dialogue: 0,0:32:14.99,0:32:16.67,Default,,0,0,0,,女士们先生们 我们应该行动了\NLadies and gentlemen, we should get moving.
+Dialogue: 0,0:32:16.91,0:32:17.69,Default,,0,0,0,,佩妮拉\NPernilla.
+Dialogue: 0,0:32:18.49,0:32:19.24,Default,,0,0,0,,等等\NWait.
+Dialogue: 0,0:32:20.53,0:32:21.44,Default,,0,0,0,,我想动手\NI want to do it.
+Dialogue: 0,0:32:28.11,0:32:29.55,Default,,0,0,0,,不 不 不\NNo, no, no.
+Dialogue: 0,0:32:29.57,0:32:30.16,Default,,0,0,0,,我想\NI want to...
+Dialogue: 0,0:32:30.17,0:32:34.88,Default,,0,0,0,,我只是想让你知道 会是我抓住你\NI just want you to know it's going to be me who gets you.
+Dialogue: 0,0:32:35.41,0:32:37.08,Default,,0,0,0,,- 懂吗？ - 不 不 不\N- Okay? - No, no, no.
+Dialogue: 0,0:32:37.18,0:32:38.47,Default,,0,0,0,,不\NNo!
+Dialogue: 0,0:32:42.01,0:32:44.77,Default,,0,0,0,,不 不 不 我只是紧急联系人\NNo, no, no, I just an Emergency Contact!
+Dialogue: 0,0:32:49.47,0:32:51.55,Default,,0,0,0,,理事会成员必须使用一种\NThe council members must use a weapon that existed
+Dialogue: 0,0:32:51.56,0:32:54.10,Default,,0,0,0,,在其祖先与勒贝尔先生达成协议的时期内\Nduring the period in which their ancestor...
+Dialogue: 0,0:32:54.12,0:32:56.92,Default,,0,0,0,,就已存在的武器\N..made his or her bargain with Mr.LeBail.
+Dialogue: 0,0:32:58.16,0:33:00.62,Default,,0,0,0,,议会成员不得互相残杀\NThe council members are not allowed to kill each other.
+Dialogue: 0,0:33:01.41,0:33:05.49,Default,,0,0,0,,如果他们这样做了 即使是意外 勒贝尔先生也会生气\NIf they do, even by accident, Mr. LeBail will be angry.
+Dialogue: 0,0:33:05.64,0:33:09.41,Default,,0,0,0,,而那家有罪之人的整个家族都将受到惩罚\NAnd the offending family's entire bloodline will be punished.
+Dialogue: 0,0:33:09.84,0:33:12.13,Default,,0,0,0,,除此之外 百无禁忌\NBeyond that, anything goes.
+Dialogue: 0,0:33:17.45,0:33:19.75,Note,,0,0,0,,Borcolasky 原创听译校正\Nsubhd.tv
+Dialogue: 0,0:33:25.62,0:33:28.41,Default,,0,0,0,,我不想用血笔\NI... I don't want to use the blood pen.
+Dialogue: 0,0:33:29.72,0:33:31.49,Default,,0,0,0,,你至少可以把它消毒一下吧\NOr can you at least sterilize it.
+Dialogue: 0,0:33:32.98,0:33:34.04,Default,,0,0,0,,该死\NFuck's sake.
+Dialogue: 0,0:33:43.53,0:33:46.66,Default,,0,0,0,,家族成员可以从俱乐部房间观察过程\NThe families may observe the proceedings from the club room.
+Dialogue: 0,0:33:47.13,0:33:50.44,Default,,0,0,0,,万一有猎人不幸身亡\NIn the unlikely event that any of the hunters should perish,
+Dialogue: 0,0:33:50.46,0:33:52.65,Default,,0,0,0,,该家族继承序列中的下一位成员\Nthe next person in that family's line
+Dialogue: 0,0:33:52.66,0:33:55.58,Default,,0,0,0,,必须立即接替其位置 投入战斗\Nof succession must take their place on the field.
+Dialogue: 0,0:33:56.78,0:33:57.95,Default,,0,0,0,,祝你们好运\NBest of luck to you all.
+Dialogue: 0,0:33:58.46,0:34:00.24,Default,,0,0,0,,你不换衣服吗 兄弟？\NAren't you going to change, bro?
+Dialogue: 0,0:34:01.00,0:34:02.00,Default,,0,0,0,,为什么？\NWhy?
+Dialogue: 0,0:34:02.15,0:34:03.72,Default,,0,0,0,,我们谁都不需要出去\NNone of us are going to have to go out there.
+Dialogue: 0,0:34:03.74,0:34:05.14,Default,,0,0,0,,切斯特从孩子们刚会走路起就开始训练他们\NChester trained his kids since they could walk
+Dialogue: 0,0:34:05.15,0:34:06.67,Default,,0,0,0,,以防这一天真的到来\Nin case this day ever came.
+Dialogue: 0,0:34:06.68,0:34:08.04,Default,,0,0,0,,五分钟内就会结束\NThis will be over in five minutes.
+Dialogue: 0,0:34:08.06,0:34:08.69,Default,,0,0,0,,那里\NThere.
+Dialogue: 0,0:34:08.70,0:34:09.43,Default,,0,0,0,,最好是这样\NIt better be.
+Dialogue: 0,0:34:09.44,0:34:10.52,Default,,0,0,0,,我一小时后有个按摩\NI got a massage in an hour.
+Dialogue: 0,0:34:12.58,0:34:15.89,Default,,0,0,0,,这位女孩将从第九洞果岭开始比赛\NThe girl will begin the game on the ninth hole green.
+Dialogue: 0,0:34:16.32,0:34:18.00,Default,,0,0,0,,猎手们 就位\NHunters, take your places.
+Dialogue: 0,0:34:22.85,0:34:26.26,Default,,0,0,0,,游戏马上开始 十 \NThe game will begin in ten,
+Dialogue: 0,0:34:26.28,0:34:29.22,Default,,0,0,0,,九 八 七\Nnine, eight, seven,
+Dialogue: 0,0:34:30.14,0:34:33.13,Default,,0,0,0,,六 五 四\Nsix, five, four,
+Dialogue: 0,0:34:33.57,0:34:36.95,Default,,0,0,0,,三 二 一\Nthree, two, one.
+Dialogue: 0,0:34:47.34,0:34:48.77,Default,,0,0,0,,没钥匙怎么开\NThere are no fucking keys.
+Dialogue: 0,0:34:48.79,0:34:50.45,Default,,0,0,0,,哦 我是不是忘记给你们钥匙了？\NOh, did I forget to put the keys in there?
+Dialogue: 0,0:34:50.46,0:34:52.31,Default,,0,0,0,,操 你作弊\NFuck. Cheaters!
+Dialogue: 0,0:34:52.50,0:34:53.39,Default,,0,0,0,,开车\NGo!
+Dialogue: 0,0:34:57.53,0:34:59.69,Default,,0,0,0,,- 白痴 - 这群傻瓜\N- Idiots - Spoof you, Suckers.
+Dialogue: 0,0:35:23.97,0:35:24.63,Default,,0,0,0,,费丝\NFaith
+Dialogue: 0,0:35:24.65,0:35:25.51,Default,,0,0,0,,嗯\NYeah
+Dialogue: 0,0:35:25.74,0:35:27.18,Default,,0,0,0,,费丝 快起来\NFaith, wake up!
+Dialogue: 0,0:35:28.31,0:35:29.37,Default,,0,0,0,,求你了 停下\NPlease, stop it.
+Dialogue: 0,0:35:29.93,0:35:30.70,Default,,0,0,0,,快起来\NCome on.
+Dialogue: 0,0:35:31.72,0:35:32.95,Default,,0,0,0,,我们得起来 我们得赶紧走\NWe gotta get up. We gotta move.
+Dialogue: 0,0:35:32.96,0:35:33.37,Default,,0,0,0,,妈的\NShit!
+Dialogue: 0,0:35:33.38,0:35:34.22,Default,,0,0,0,,我们得起来\NWe gotta get up.
+Dialogue: 0,0:35:34.42,0:35:35.22,Default,,0,0,0,,操\NShit!
+Dialogue: 0,0:35:36.24,0:35:36.91,Default,,0,0,0,,操\NFuck!
+Dialogue: 0,0:35:37.13,0:35:38.07,Default,,0,0,0,,我了个天呐\NOh, God!
+Dialogue: 0,0:35:38.08,0:35:38.70,Default,,0,0,0,,他们来了\NThey're coming!
+Dialogue: 0,0:35:38.71,0:35:39.43,Default,,0,0,0,,他们来了\NThey're coming!
+Dialogue: 0,0:35:40.24,0:35:41.67,Default,,0,0,0,,为什么他们想伤害我？\NWhy do they want to hurt me?
+Dialogue: 0,0:35:41.69,0:35:42.80,Default,,0,0,0,,他们根本不在乎你\NThey don't give a shit about you.
+Dialogue: 0,0:35:42.81,0:35:43.93,Default,,0,0,0,,你在这儿只会拖我后腿\NYou're here to slow me down.
+Dialogue: 0,0:35:44.09,0:35:46.49,Default,,0,0,0,,如果你不按照我说的做 我们将会死\NIf you don't do exactly what I say, we are going to die.
+Dialogue: 0,0:35:46.53,0:35:47.50,Default,,0,0,0,,你明白了吗？\NDo you understand?
+Dialogue: 0,0:35:47.52,0:35:50.31,Default,,0,0,0,,所以我们夺回那个席位后 显然得共享\NSo we obviously share the seat when we get it back,
+Dialogue: 0,0:35:50.33,0:35:52.33,Default,,0,0,0,,但戒指该谁戴？\Nbut who gets to wear the ring?
+Dialogue: 0,0:35:52.59,0:35:55.41,Default,,0,0,0,,嗯 爸爸希望由我来负责 所以...\NWell, Dad wanted me to be the one in charge, so...
+Dialogue: 0,0:35:55.86,0:35:56.86,Default,,0,0,0,,放屁\NBullshit.
+Dialogue: 0,0:35:57.25,0:35:58.25,Default,,0,0,0,,他和我说过\NHe told me.
+Dialogue: 0,0:35:58.91,0:36:00.38,Default,,0,0,0,,嗯 他告诉我\NWell, he told me.
+Dialogue: 0,0:36:00.39,0:36:01.60,Default,,0,0,0,,我来戴戒指\NIt should be me.
+Dialogue: 0,0:36:03.21,0:36:04.27,Default,,0,0,0,,不 他没有说过\NNo, he didn't.
+Dialogue: 0,0:36:11.14,0:36:12.02,Default,,0,0,0,,我们需要去树林里\NWe're gonna get to the woods.
+Dialogue: 0,0:36:12.04,0:36:12.81,Default,,0,0,0,,我们需要去树林里\NWe're gonna go to the woods.
+Dialogue: 0,0:36:12.82,0:36:13.48,Default,,0,0,0,,等等 等等\NWait, wait, wait.
+Dialogue: 0,0:36:13.64,0:36:16.29,Default,,0,0,0,,如果有人在树林里等着我们怎么办？\NWhat if there's people waiting for us in the fucking woods?
+Dialogue: 0,0:36:16.60,0:36:17.20,Default,,0,0,0,,停下\NStop.
+Dialogue: 0,0:36:17.22,0:36:18.16,Default,,0,0,0,,这没什么好争论的\NIt's not a debate.
+Dialogue: 0,0:36:18.17,0:36:19.03,Default,,0,0,0,,我说的算\NI am in charge.
+Dialogue: 0,0:36:19.05,0:36:19.95,Default,,0,0,0,,哦 你说的算？\NOh, you're in charge?
+Dialogue: 0,0:36:19.96,0:36:21.76,Default,,0,0,0,,我之所以在这里 全都是你他妈的错\NIt's your fucking fault I'm here.
+Dialogue: 0,0:36:21.77,0:36:24.50,Default,,0,0,0,,我只是忘了把你从我的紧急联系人名单里移除\NAll I did was forget to remove you as my emergency contact.
+Dialogue: 0,0:36:24.69,0:36:25.81,Default,,0,0,0,,七年了\NIt's been seven years.
+Dialogue: 0,0:36:25.82,0:36:27.02,Default,,0,0,0,,你不认识其他人吗？\NYou don't know anybody else.
+Dialogue: 0,0:36:27.15,0:36:27.73,Default,,0,0,0,,好吧\NFine.
+Dialogue: 0,0:36:27.74,0:36:29.67,Default,,0,0,0,,谁杀了她 谁就能戴戒指\NWhoever kills her gets to wear the ring.
+Dialogue: 0,0:36:29.68,0:36:30.68,Default,,0,0,0,,我不同意\NI'm not agreeing to that.
+Dialogue: 0,0:36:32.11,0:36:33.65,Default,,0,0,0,,那他妈是什么\NWhat the fuck is that?
+Dialogue: 0,0:36:36.01,0:36:36.96,Default,,0,0,0,,我去\NGod!
+Dialogue: 0,0:36:37.03,0:36:38.03,Default,,0,0,0,,哦 妈的\NOh, shit.
+Dialogue: 0,0:36:38.64,0:36:39.69,Default,,0,0,0,,那是什么\NWhat is that?
+Dialogue: 0,0:36:42.75,0:36:43.54,Default,,0,0,0,,哇 等等\NWhoa, hold on.
+Dialogue: 0,0:36:43.55,0:36:45.37,Default,,0,0,0,,听着 我是万晨星 \NListen. This is Wan Chenxing.
+Dialogue: 0,0:36:45.38,0:36:46.65,Default,,0,0,0,,我们之前见过\NWe met earlier.
+Dialogue: 0,0:36:47.07,0:36:48.53,Default,,0,0,0,,哇 等等\NWhoa, hold on.
+Dialogue: 0,0:36:48.54,0:36:50.22,Default,,0,0,0,,有一个脱离这一切的方法\NThere's a way out of this.
+Dialogue: 0,0:36:50.30,0:36:53.70,Default,,0,0,0,,我让律师仔细查阅了章程 结果发现了一个漏洞\NI had my lawyers scour the bylaws and we found a loophole.
+Dialogue: 0,0:36:53.72,0:36:55.12,Default,,0,0,0,,我们所要做的就是...\NAll we have to do is...
+Dialogue: 0,0:36:56.00,0:36:57.15,Default,,0,0,0,,哦 天呐\NOh, my God!
+Dialogue: 0,0:36:59.47,0:37:00.48,Default,,0,0,0,,打得好\NNice shot.
+Dialogue: 0,0:37:01.24,0:37:02.32,Default,,0,0,0,,她在那\NThere she is.
+Dialogue: 0,0:37:02.40,0:37:03.40,Default,,0,0,0,,抓住她\NGet her.
+Dialogue: 0,0:37:07.25,0:37:09.45,Default,,0,0,0,,哦 天呐\NOh, my God.
+Dialogue: 0,0:37:13.90,0:37:14.90,Default,,0,0,0,,该死的\NGod damn it.
+Dialogue: 0,0:37:16.25,0:37:17.40,Default,,0,0,0,,斯基皮 打开屏幕\NSkippy, screens.
+Dialogue: 0,0:37:17.95,0:37:19.79,Default,,0,0,0,,他们本不该离开果岭的\NThey weren't supposed to make it off the green.
+Dialogue: 0,0:37:20.64,0:37:22.05,Default,,0,0,0,,把那破玩意儿给我\NGive me the fucking thing.
+Dialogue: 0,0:37:30.72,0:37:31.85,Default,,0,0,0,,该死的\NGod damn it.
+Dialogue: 0,0:37:31.86,0:37:33.42,Default,,0,0,0,,我们没有办法过去\NThere's no way we're getting over that.
+Dialogue: 0,0:37:34.71,0:37:36.32,Default,,0,0,0,,应该会有树可以爬的\NThere's gotta be a tree we could climb.
+Dialogue: 0,0:37:36.33,0:37:37.81,Default,,0,0,0,,哦 我们带着手铐爬树\NOh, we're gonna climb with handcuffs?
+Dialogue: 0,0:37:38.68,0:37:39.68,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:37:40.00,0:37:41.00,Default,,0,0,0,,好吧 好吧 操\NOkay, okay, fuck.
+Dialogue: 0,0:37:43.12,0:37:44.53,Default,,0,0,0,,好吧 打开它\NOkay, turn it on.
+Dialogue: 0,0:37:45.49,0:37:46.43,Default,,0,0,0,,这他妈是什么？\NWhat the fuck is this?
+Dialogue: 0,0:37:46.44,0:37:47.90,Default,,0,0,0,,不 只需按输入1\NNo, just press input one.
+Dialogue: 0,0:37:48.64,0:37:49.41,Default,,0,0,0,,对 不 没错\NYeah, no, it's right.
+Dialogue: 0,0:37:49.42,0:37:50.20,Default,,0,0,0,,告诉我那个该死的输入1\NShow me fucking input one.
+Dialogue: 0,0:37:50.22,0:37:51.82,Default,,0,0,0,,点击“开始” 然后点击“菜单” 再点击\NGo, press menu, and then go.
+Dialogue: 0,0:37:52.65,0:37:54.94,Default,,0,0,0,,你们他妈真是蠢透了\NMy, you're stupid fucking idiots.
+Dialogue: 0,0:37:56.79,0:37:58.19,Default,,0,0,0,,她们再他妈哪儿？\NWhere the fuck are they?
+Dialogue: 0,0:38:04.92,0:38:06.76,Default,,0,0,0,,格蕾丝 我们跑了好久了\NGrace, we've been running forever!
+Dialogue: 0,0:38:07.69,0:38:08.69,Default,,0,0,0,,操 嗷 操\NFuck, ow, fuck!
+Dialogue: 0,0:38:08.70,0:38:09.94,Default,,0,0,0,,你能慢点嘛？\NCan you just slow down, please?
+Dialogue: 0,0:38:09.96,0:38:12.04,Default,,0,0,0,,哦 对不起\NOh, I'm sorry.
+Dialogue: 0,0:38:12.13,0:38:12.96,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:38:12.98,0:38:14.78,Default,,0,0,0,,我不敢相信你把我卷入到这破事中\NI can't believe you dragged me into this shit.
+Dialogue: 0,0:38:14.79,0:38:16.00,Default,,0,0,0,,这是怎么发生的？\NHow does this even happen?
+Dialogue: 0,0:38:16.02,0:38:19.49,Default,,0,0,0,,你是说你不知道你老公信邪教？\NYou're telling me you didn't know your fiancé was in a devil cult?
+Dialogue: 0,0:38:20.87,0:38:21.91,Default,,0,0,0,,这似乎很难不注意到\NSeems kind of hard to miss.
+Dialogue: 0,0:38:21.92,0:38:25.80,Default,,0,0,0,,我猜你大概只顾着数钱了\NI mean, your attention must have been on all that money.
+Dialogue: 0,0:38:25.91,0:38:26.76,Default,,0,0,0,,什么？\NWhat?
+Dialogue: 0,0:38:27.01,0:38:28.30,Default,,0,0,0,,你什么意思？\NWhat does that mean?
+Dialogue: 0,0:38:28.31,0:38:30.12,Default,,0,0,0,,没什么 我只是说我的钱都是自己挣的\NNothing, I'm just saying that I work for my shit,
+Dialogue: 0,0:38:30.14,0:38:32.36,Default,,0,0,0,,我不需要靠有钱人来解决我的问题\Nand I don't need some rich dick to solve my problems.
+Dialogue: 0,0:38:34.32,0:38:35.25,Default,,0,0,0,,去你的\NFuck you.
+Dialogue: 0,0:38:35.26,0:38:35.83,Default,,0,0,0,,去你的\NFuck you.
+Dialogue: 0,0:38:35.85,0:38:36.92,Default,,0,0,0,,- 去你的 - 去你的\N- Fuck you. - Fuck you.
+Dialogue: 0,0:38:36.93,0:38:38.27,Default,,0,0,0,,好吧 德里克是做什么的\NOkay, what does Derek do?
+Dialogue: 0,0:38:39.41,0:38:40.41,Default,,0,0,0,,金融\NFinance.
+Dialogue: 0,0:38:40.80,0:38:42.10,Default,,0,0,0,,哦 那是我在追有钱人？\NOh, and I'm chasing Rich Dick?
+Dialogue: 0,0:38:42.98,0:38:45.40,Default,,0,0,0,,我们刚认识的时候 他还是个穷演员\NHe was a starving actor when we first met.
+Dialogue: 0,0:38:45.43,0:38:47.28,Default,,0,0,0,,饿肚子的演员 还有金融硕士学位？\NStarving actor with a fallback MBA?
+Dialogue: 0,0:38:51.69,0:38:53.29,Default,,0,0,0,,你以为我是编造了德里克这个人的吗？\NYou think I made up Derek?
+Dialogue: 0,0:38:53.30,0:38:54.55,Default,,0,0,0,,现在有点 对\NKinda now, yeah.
+Dialogue: 0,0:38:54.70,0:38:55.89,Default,,0,0,0,,你觉得我可悲\NYou think I'm pathetic.
+Dialogue: 0,0:38:56.11,0:38:58.27,Default,,0,0,0,,你就是见不得我混出头 而你没有\NYou just can't handle it that I made it and you didn't.
+Dialogue: 0,0:39:00.35,0:39:01.45,Default,,0,0,0,,格蕾丝\NGrace?
+Dialogue: 0,0:39:04.20,0:39:05.82,Default,,0,0,0,,躲起来没用\NThere's no use in hiding.
+Dialogue: 0,0:39:07.87,0:39:09.69,Default,,0,0,0,,我知道你觉得我们是坏人\NI know you think we're the bad guys here.
+Dialogue: 0,0:39:12.27,0:39:14.78,Default,,0,0,0,,但是没有好人坏人\NBut there are no good guys or bad guys.
+Dialogue: 0,0:39:17.09,0:39:18.58,Default,,0,0,0,,只是体制就是这样的\NThere's just the system.
+Dialogue: 0,0:39:20.70,0:39:22.81,Default,,0,0,0,,不知你是否意识到了\NWhether you realize it or not...
+Dialogue: 0,0:39:23.41,0:39:25.53,Default,,0,0,0,,你也是这个体制的一部分\Nyou're a part of it, too.
+Dialogue: 0,0:39:26.76,0:39:27.92,Default,,0,0,0,,你也是其中的一分子\NYou contribute to it.
+Dialogue: 0,0:39:27.94,0:39:29.20,Default,,0,0,0,,你在助长它\NHow you enable it.
+Dialogue: 0,0:39:31.08,0:39:32.65,Default,,0,0,0,,我并不比你们更邪恶\NI'm no more evil than you are.
+Dialogue: 0,0:39:34.96,0:39:38.70,Default,,0,0,0,,我们不过是某个远比我们宏大的东西的一颗螺丝钉\NWe just a small part of something that is much bigger than us.
+Dialogue: 0,0:39:39.77,0:39:41.80,Default,,0,0,0,,我们能行 我们能行 我们能行 我们能行\NWe can do it, we can do it, we can do it, we can do it.
+Dialogue: 0,0:39:43.89,0:39:45.93,Default,,0,0,0,,带着点尊严去死\NAnd die with a little dignity.
+Dialogue: 0,0:40:05.35,0:40:06.35,Default,,0,0,0,,手铐\NHandcuffs!
+Dialogue: 0,0:40:09.36,0:40:11.38,Default,,0,0,0,,快跑\NGo, go, go! Run, run, run!
+Dialogue: 0,0:40:19.86,0:40:20.56,Default,,0,0,0,,起来\NGet up.
+Dialogue: 0,0:40:22.47,0:40:23.84,Default,,0,0,0,,你真行\NOh my God.
+Dialogue: 0,0:40:24.25,0:40:25.96,Default,,0,0,0,,你可别搞砸了\NYou cannot fuck up like that.
+Dialogue: 0,0:40:27.04,0:40:28.90,Default,,0,0,0,,要让我们对爸爸所做的一切有意义\NThe only way to make what we did to dad mean
+Dialogue: 0,0:40:28.92,0:40:31.78,Default,,0,0,0,,唯一的办法就是把那个该死的席位夺回来\Nsomething is to win that fucking seat back.
+Dialogue: 0,0:40:32.21,0:40:33.21,Default,,0,0,0,,泰特斯\NTitus!
+Dialogue: 0,0:40:35.26,0:40:36.63,Default,,0,0,0,,你明白吗？\NDo you understand?
+Dialogue: 0,0:40:38.85,0:40:40.38,Default,,0,0,0,,这是唯一的方式\NThat is the only way it matters.
+Dialogue: 0,0:40:56.34,0:40:58.18,Default,,0,0,0,,让我们去那座楼找个电话\NLet's go to that building and look for a phone.
+Dialogue: 0,0:40:59.10,0:41:01.68,Default,,0,0,0,,我们在这待得越久 被发现的可能性就越大\NThe longer we're on this property, the better there are chances of finding us.
+Dialogue: 0,0:41:01.70,0:41:02.69,Default,,0,0,0,,我们要找方法离开这\NWe need to figure out a way to get out of here.
+Dialogue: 0,0:41:02.70,0:41:03.78,Default,,0,0,0,,翻过那个墙\NOver that wall.
+Dialogue: 0,0:41:04.07,0:41:05.47,Default,,0,0,0,,我们直接冲过去\NLet's just make a run for it.
+Dialogue: 0,0:41:05.48,0:41:06.61,Default,,0,0,0,,那会完全暴露\NIt's completely exposed.
+Dialogue: 0,0:41:07.21,0:41:08.39,Default,,0,0,0,,你太鲁莽了\NYou are too impulsive.
+Dialogue: 0,0:41:08.40,0:41:09.50,Default,,0,0,0,,你从不考虑周全\NYou never think things through.
+Dialogue: 0,0:41:09.52,0:41:11.03,Default,,0,0,0,,你看 他们也没地方躲\NLook, they don't have anywhere to hide either.
+Dialogue: 0,0:41:11.05,0:41:12.37,Default,,0,0,0,,你会害死我们俩的\NYou're gonna get us both killed.
+Dialogue: 0,0:41:12.49,0:41:15.50,Default,,0,0,0,,（西班牙语）现在轮到我了\NY ahora me toca, toca a mí.
+Dialogue: 0,0:41:16.57,0:41:19.67,Default,,0,0,0,,（西班牙语）丹福斯一家被我搞定了\NA los Danforth ya los jodí.
+Dialogue: 0,0:41:20.70,0:41:22.18,Default,,0,0,0,,（西班牙语）你觉得你能赢吗？妹子\N¿Qué vas a ganar, tía?
+Dialogue: 0,0:41:22.67,0:41:24.24,Default,,0,0,0,,（西班牙语）想的美\N¡Ni eso ni pollos en vinagre!
+Dialogue: 0,0:41:25.68,0:41:27.57,Default,,0,0,0,,（西班牙语）操白痴\NJoder, gilipollas.
+Dialogue: 0,0:41:30.79,0:41:31.79,Default,,0,0,0,,这太冒险了\NIt's too risky.
+Dialogue: 0,0:41:31.88,0:41:32.88,Default,,0,0,0,,这太冒险了\NIt's too risky.
+Dialogue: 0,0:41:32.99,0:41:34.67,Default,,0,0,0,,行 好吧 让我先好好想想\NJust, okay, just let me think this through.
+Dialogue: 0,0:41:34.68,0:41:36.20,Default,,0,0,0,,有时候 你得冒一次险\NSometimes you gotta take a risk.
+Dialogue: 0,0:41:41.62,0:41:42.74,Default,,0,0,0,,那是枪声吗？\NIs that gunfire?
+Dialogue: 0,0:41:45.71,0:41:47.63,Default,,0,0,0,,（西班牙语）终于 终于 终于\NPor fin, ya, ya, ya, por fin
+Dialogue: 0,0:41:54.43,0:41:55.54,Default,,0,0,0,,哦 找到他了\NOh, found him.
+Dialogue: 0,0:41:55.67,0:41:56.92,Default,,0,0,0,,谁他妈在射她们\NWho's fucking shooting them?
+Dialogue: 0,0:42:13.20,0:42:14.35,Default,,0,0,0,,你爸真他妈是个废物\NYour dad fucking sucks.
+Dialogue: 0,0:42:15.90,0:42:16.50,Default,,0,0,0,,他妈的\NShit.
+Dialogue: 0,0:42:16.52,0:42:17.58,Default,,0,0,0,,他从不练习\NHe never practices.
+Dialogue: 0,0:42:17.59,0:42:20.35,Default,,0,0,0,,别让她跑了\NIf she gets away, I swear to fucking God.
+Dialogue: 0,0:42:22.59,0:42:24.43,Default,,0,0,0,,{\an8}（她们在第三洞的球道上）
+Dialogue: 0,0:42:26.05,0:42:27.33,Default,,0,0,0,,你确定你要这么干吗？\NAre you sure you want to do that?
+Dialogue: 0,0:42:27.34,0:42:28.23,Default,,0,0,0,,我只是\NI was just...
+Dialogue: 0,0:42:38.25,0:42:39.25,Default,,0,0,0,,操\NOh Fuck!
+Dialogue: 0,0:42:42.90,0:42:44.10,Default,,0,0,0,,他射的越来越准了\NHe's getting better.
+Dialogue: 0,0:42:49.60,0:42:50.90,Default,,0,0,0,,别他妈的冒险了\NNo more fucking risk!
+Dialogue: 0,0:42:52.66,0:42:53.85,Default,,0,0,0,,我有个主意\NI have an idea.
+Dialogue: 0,0:42:53.97,0:42:54.73,Default,,0,0,0,,（西班牙语）操\N¡Joder!
+Dialogue: 0,0:43:00.37,0:43:01.88,Default,,0,0,0,,（西班牙语）现在轮到我了\NAhora que sí que me toca a mí
+Dialogue: 0,0:43:08.65,0:43:10.02,Default,,0,0,0,,（西班牙语）搞什么鬼？\N¿Qué diablos es?
+Dialogue: 0,0:43:14.99,0:43:16.71,Default,,0,0,0,,（西班牙语）妈的 妈的 妈的\N¡Mierda, mierda, mierda!
+Dialogue: 0,0:43:26.49,0:43:27.85,Default,,0,0,0,,（西班牙语）操\N¡Coño!
+Dialogue: 0,0:43:42.76,0:43:44.29,Default,,0,0,0,,哦我的天呐\NOh my God!
+Dialogue: 0,0:43:44.35,0:43:46.10,Default,,0,0,0,,走 走 走 走\NLet's go, let's go, let's go, let's go!
+Dialogue: 0,0:43:46.48,0:43:46.99,Default,,0,0,0,,混蛋\NFucker!
+Dialogue: 0,0:43:47.00,0:43:47.80,Default,,0,0,0,,哦我的天呐\NOh my God!
+Dialogue: 0,0:43:47.82,0:43:49.22,Default,,0,0,0,,别看 别看\NDon't look at it, don't look at it!
+Dialogue: 0,0:43:50.45,0:43:51.88,Default,,0,0,0,,不 不 不 不 不\NNo, no, no, no, no.
+Dialogue: 0,0:43:54.54,0:43:55.60,Default,,0,0,0,,（西班牙语）命真硬啊\N¡De esta libré
+Dialogue: 0,0:43:57.84,0:43:58.82,Default,,0,0,0,,你还好吗？\NOkay？
+Dialogue: 0,0:43:59.26,0:43:59.76,Default,,0,0,0,,好吧\NOkay
+Dialogue: 0,0:44:00.09,0:44:01.62,Default,,0,0,0,,（西班牙语）狗娘养的\N¡Hijo de la gran puta!
+Dialogue: 0,0:44:06.50,0:44:08.26,Default,,0,0,0,,操\NFuck!
+Dialogue: 0,0:44:26.41,0:44:27.41,Default,,0,0,0,,好\NOkay.
+Dialogue: 0,0:44:28.47,0:44:30.04,Default,,0,0,0,,好 我们找到个电话\NOkay. We've got to find a phone.
+Dialogue: 0,0:44:31.49,0:44:33.44,Default,,0,0,0,,血都流下来了\NYou're leaving a trail of blood behind.
+Dialogue: 0,0:44:33.46,0:44:34.46,Default,,0,0,0,,我们需要坐下来\NWe need to sit down.
+Dialogue: 0,0:44:35.91,0:44:36.63,Default,,0,0,0,,快点\NCome on.
+Dialogue: 0,0:44:36.79,0:44:37.51,Default,,0,0,0,,坐在这\NSit here.
+Dialogue: 0,0:44:40.73,0:44:41.73,Default,,0,0,0,,坐下\NSit.
+Dialogue: 0,0:44:42.58,0:44:43.58,Default,,0,0,0,,操\NFuck.
+Dialogue: 0,0:44:45.97,0:44:46.73,Default,,0,0,0,,哦\NOh.
+Dialogue: 0,0:44:47.83,0:44:49.15,Default,,0,0,0,,好的 先从小的拔\NAlright, let's do the little one.
+Dialogue: 0,0:44:49.24,0:44:49.96,Default,,0,0,0,,一\NOne.
+Dialogue: 0,0:44:49.98,0:44:50.98,Default,,0,0,0,,二\NTwo.
+Dialogue: 0,0:44:52.24,0:44:53.24,Default,,0,0,0,,三\NThree.
+Dialogue: 0,0:44:54.20,0:44:55.60,Default,,0,0,0,,看着我\NJust focus on me.
+Dialogue: 0,0:44:56.32,0:44:56.93,Default,,0,0,0,,准备好了吗？\NReady?
+Dialogue: 0,0:44:56.95,0:44:58.56,Default,,0,0,0,,好家伙 你现在还兼职当护士？\NOkay, what are you, a part-time nurse too?
+Dialogue: 0,0:44:58.58,0:45:00.37,Default,,0,0,0,,或许是吧\NI don't know, maybe I am.
+Dialogue: 0,0:45:01.86,0:45:05.26,Default,,0,0,0,,你毕业后干什么了\NSo, what did you do after you graduated?
+Dialogue: 0,0:45:06.46,0:45:07.46,Default,,0,0,0,,哦\NOh.
+Dialogue: 0,0:45:10.93,0:45:12.81,Default,,0,0,0,,我 呃...我没读完\NI, um, I didn't finish.
+Dialogue: 0,0:45:12.95,0:45:14.13,Default,,0,0,0,,我不得不退学\NI had to drop out.
+Dialogue: 0,0:45:14.56,0:45:15.66,Default,,0,0,0,,真的？\NSeriously?
+Dialogue: 0,0:45:15.74,0:45:17.49,Default,,0,0,0,,是啊 然后我去端盘子\NYeah, then I waited tables.
+Dialogue: 0,0:45:17.51,0:45:19.13,Default,,0,0,0,,说了那么多“追随梦想”的大道理 结果就是这？\NAfter all that follow your dreams shit?
+Dialogue: 0,0:45:19.24,0:45:20.92,Default,,0,0,0,,是啊 有时候梦想就是实现不了\NYeah, well sometimes dreams don't work out.
+Dialogue: 0,0:45:22.71,0:45:24.07,Default,,0,0,0,,然后我遇到了亚历克斯\NAnd then I met Alex.
+Dialogue: 0,0:45:24.14,0:45:25.66,Default,,0,0,0,,那个梦想也没实现\NAnd that dream didn't work out either.
+Dialogue: 0,0:45:29.92,0:45:30.63,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:45:30.77,0:45:31.77,Default,,0,0,0,,会有点疼\NIt's gonna burn.
+Dialogue: 0,0:45:35.51,0:45:36.51,Default,,0,0,0,,好了\NAll right.
+Dialogue: 0,0:45:40.70,0:45:42.40,Default,,0,0,0,,你知道吗 我找过你\NI tried to find you, you know.
+Dialogue: 0,0:45:43.49,0:45:44.93,Default,,0,0,0,,我想邀请你参加婚礼\NI wanted to invite you to a wedding.
+Dialogue: 0,0:45:49.43,0:45:50.58,Default,,0,0,0,,我不会来的\NI wouldn't have come.
+Dialogue: 0,0:45:52.06,0:45:53.88,Default,,0,0,0,,我知道你不会来 但我想让你知道\NI know, but I wanted you to know
+Dialogue: 0,0:45:53.89,0:45:55.45,Default,,0,0,0,,我是真心想邀请你的\Nthat I wanted you there.
+Dialogue: 0,0:46:00.29,0:46:02.48,Default,,0,0,0,,嗯 你绝对没法让我穿上那些\NWell, there's no fucking way you would have got me
+Dialogue: 0,0:46:02.49,0:46:04.76,Default,,0,0,0,,丑得要死的伴娘裙 所以\Nin one of those ugly-ass bridesmaids' dresses, so...
+Dialogue: 0,0:46:05.69,0:46:06.69,Default,,0,0,0,,好了 好了\NAlright, alright.
+Dialogue: 0,0:46:07.59,0:46:08.94,Default,,0,0,0,,喝点？\NShot for the pain?
+Dialogue: 0,0:46:08.96,0:46:09.96,Default,,0,0,0,,耶\NYeah.
+Dialogue: 0,0:46:13.98,0:46:16.78,Default,,0,0,0,,虽然没什么能减轻跟你在一起的痛苦\NAlthough nothing's gonna numb the pain of being with you.
+Dialogue: 0,0:46:19.87,0:46:20.96,Default,,0,0,0,,为了活到黎明\NTo surviving till dawn.
+Dialogue: 0,0:46:21.87,0:46:22.87,Default,,0,0,0,,再一次\NAgain.
+Dialogue: 0,0:47:00.16,0:47:01.22,Default,,0,0,0,,快点 这边\NCome on, this way!
+Dialogue: 0,0:47:11.64,0:47:13.88,Default,,0,0,0,,听着 我们...我们得跟他正面硬刚\NListen, we... we're gonna have to fight him.
+Dialogue: 0,0:47:13.94,0:47:14.60,Default,,0,0,0,,我们能对付他\NBut we can take it.
+Dialogue: 0,0:47:14.64,0:47:14.94,Default,,0,0,0,,打他吗？\NFight him?
+Dialogue: 0,0:47:15.06,0:47:16.12,Default,,0,0,0,,我们必须这么做\NWe gonna do.
+Dialogue: 0,0:47:16.14,0:47:16.50,Default,,0,0,0,,好吧\NIt's okay.
+Dialogue: 0,0:47:16.58,0:47:17.18,Default,,0,0,0,,我们能行的\NWe can take it.
+Dialogue: 0,0:47:17.18,0:47:19.02,Default,,0,0,0,,打架的时候 我们一直是彼此的后盾\NWe've always had each other's backs in the fight.
+Dialogue: 0,0:47:19.04,0:47:20.04,Default,,0,0,0,,好吗？\NOkay?
+Dialogue: 0,0:47:21.26,0:47:22.26,Default,,0,0,0,,我们能做到的\NWe can do this.
+Dialogue: 0,0:47:27.44,0:47:28.44,Default,,0,0,0,,现在是最后的机会了\NIt's now or never.
+Dialogue: 0,0:47:30.74,0:47:31.48,Default,,0,0,0,,你别动\NYou hold still.
+Dialogue: 0,0:47:31.70,0:47:32.70,Default,,0,0,0,,你才别动\NYou hold still.
+Dialogue: 0,0:48:01.84,0:48:03.38,Default,,0,0,0,,你们无处可藏了!\NYou can't hide!
+Dialogue: 0,0:48:19.12,0:48:19.98,Default,,0,0,0,,操\NFuck!
+Dialogue: 0,0:48:20.30,0:48:22.88,Default,,0,0,0,,老天 要是换我上 她早就死透了\NOh my God, if it was me out there, she'd be dead.
+Dialogue: 0,0:48:23.27,0:48:24.32,Default,,0,0,0,,是啊 当然是你了\NYes, of course, it'd be you.
+Dialogue: 0,0:48:24.32,0:48:24.44,Default,,0,0,0,,来吧 宝贝\NCome on, baby.
+Dialogue: 0,0:48:24.52,0:48:25.56,Default,,0,0,0,,快点 快点 快点\NCome on, come on, come on.
+Dialogue: 0,0:48:26.44,0:48:27.44,Default,,0,0,0,,走\NGo!
+Dialogue: 0,0:48:28.16,0:48:29.24,Default,,0,0,0,,抓住那个婊子\NGet that bitch!
+Dialogue: 0,0:48:42.50,0:48:42.92,Default,,0,0,0,,你\NYou!
+Dialogue: 0,0:48:43.02,0:48:46.28,Default,,0,0,0,,我们需要一些酒杯 因为我们要干杯了\NWe are gonna need some glasses, cause we're about to have a toast.
+Dialogue: 0,0:48:54.32,0:48:55.32,Default,,0,0,0,,哈 哈 哈 哈 哈\NHa ha ha ha ha!
+Dialogue: 0,0:48:57.96,0:48:58.96,Default,,0,0,0,,啊哈\NAh!
+Dialogue: 0,0:49:07.60,0:49:08.77,Default,,0,0,0,,不 不 不 不 不\NNo, no, no, no, no!
+Dialogue: 0,0:49:18.24,0:49:19.48,Default,,0,0,0,,这他妈是什么？\NWhat the fuck?
+Dialogue: 0,0:49:22.40,0:49:23.40,Default,,0,0,0,,沐浴时间\NBath time!
+Dialogue: 0,0:49:25.08,0:49:26.58,Default,,0,0,0,,哦 不 嘿 嘿 嘿\NNo, no, hey, hey, hey!
+Dialogue: 0,0:49:26.92,0:49:27.92,Default,,0,0,0,,啊\NAh!
+Dialogue: 0,0:49:48.20,0:49:49.56,Default,,0,0,0,,你要干什么？\NWhat are you doing?
+Dialogue: 0,0:49:49.71,0:49:50.97,Default,,0,0,0,,他可能会有手机\NHe might have a phone.
+Dialogue: 0,0:50:17.69,0:50:18.29,Default,,0,0,0,,天呐\NJesus!
+Dialogue: 0,0:50:18.38,0:50:18.98,Default,,0,0,0,,操\NFuck!
+Dialogue: 0,0:50:19.08,0:50:19.78,Default,,0,0,0,,我的天\NOh god!
+Dialogue: 0,0:50:20.08,0:50:21.08,Default,,0,0,0,,妈的\NShit!
+Dialogue: 0,0:50:55.08,0:50:58.20,Default,,0,0,0,,宝贝 你能帮我吗 求你了\NDookie, Dookie, can you help me,please?
+Dialogue: 0,0:50:58.24,0:50:59.44,Default,,0,0,0,,不 你自己可以的\NNo, you got this.
+Dialogue: 0,0:50:59.50,0:51:00.06,Default,,0,0,0,,你做的很好\NYou're doing great.
+Dialogue: 0,0:51:00.22,0:51:00.76,Default,,0,0,0,,我就不行\NI'm not.
+Dialogue: 0,0:51:00.90,0:51:01.90,Default,,0,0,0,,我只会碍事\NI'll just get in the way.
+Dialogue: 0,0:51:10.51,0:51:11.51,Default,,0,0,0,,哦 看\NOh, look!
+Dialogue: 0,0:51:11.84,0:51:12.84,Default,,0,0,0,,你做到了\NYou did it!
+Dialogue: 0,0:51:13.65,0:51:14.65,Default,,0,0,0,,我谢谢你啊\NThanks for your help.
+Dialogue: 0,0:51:16.32,0:51:17.44,Default,,0,0,0,,他死了\NHe's gone.
+Dialogue: 0,0:51:19.08,0:51:20.16,Default,,0,0,0,,对你的损失我很抱歉\NI'm so sorry for your loss.
+Dialogue: 0,0:51:21.36,0:51:22.36,Default,,0,0,0,,拉詹先生\NMr. Rajan?
+Dialogue: 0,0:51:22.82,0:51:23.82,Default,,0,0,0,,他死了\NHe's gone.
+Dialogue: 0,0:51:26.84,0:51:32.04,Default,,0,0,0,,拉詹先生 令兄既已仙逝 您可以上场了\NMr. Rajan, as your brother has left this mortal plane, you may take the field.
+Dialogue: 0,0:51:35.26,0:51:36.26,Default,,0,0,0,,我必须上场吗？\NDo I have to?
+Dialogue: 0,0:51:37.47,0:51:41.07,Default,,0,0,0,,在所有继承审判中 您的家庭必须由最年长的成员\NYour family must be represented by the eldest member or legally
+Dialogue: 0,0:51:41.08,0:51:43.56,Default,,0,0,0,,或依法指定的家主代表\Nappointed head of household in all trials of succession.
+Dialogue: 0,0:51:44.26,0:51:46.88,Default,,0,0,0,,根据第2条第3款C项\NPer Article 2, Section 3, Subsection C.
+Dialogue: 0,0:51:47.87,0:51:50.96,Default,,0,0,0,,若不从 则意味着失去勒贝尔先生的庇护\NFailure to do so would mean forfeiture of Mr. LeBail's favor.
+Dialogue: 0,0:51:54.08,0:51:56.38,Default,,0,0,0,,- 你是说...嗯 - 恐怕是的\N- You mean, um... - I'm afraid so.
+Dialogue: 0,0:52:01.12,0:52:02.12,Default,,0,0,0,,我的老婆怎么样？\NWhat about my wife?
+Dialogue: 0,0:52:03.57,0:52:06.95,Default,,0,0,0,,你是要放弃拉詹家族族长的身份吗？\NAre you saying you want to abdicate your status as head of the Rajan family?
+Dialogue: 0,0:52:07.37,0:52:08.67,Default,,0,0,0,,并且让我老婆狩猎\NAnd make my wife hunt?
+Dialogue: 0,0:52:11.41,0:52:12.15,Default,,0,0,0,,可以\NYes.
+Dialogue: 0,0:52:12.84,0:52:14.62,Default,,0,0,0,,操你妈的\N[克罗地亚语]Jebem ti mater da ti jebem.
+Dialogue: 0,0:52:14.67,0:52:17.21,Default,,0,0,0,,操你祖宗十八代\N[克罗地亚语]I u pičku maternu i u sto pičke materne.
+Dialogue: 0,0:52:17.27,0:52:18.37,Default,,0,0,0,,你个畜生\N[克罗地亚语]Gade jedan gade!
+Dialogue: 0,0:52:18.41,0:52:20.13,Default,,0,0,0,,咒你不得好死\N[克罗地亚语]Crko da bog da!
+Dialogue: 0,0:52:20.16,0:52:21.24,Default,,0,0,0,,混蛋\NMotherfucker!
+Dialogue: 0,0:52:22.12,0:52:23.40,Default,,0,0,0,,请您在上面签个名\NI'll just need you to sign that.
+Dialogue: 0,0:52:23.51,0:52:25.33,Default,,0,0,0,,马杜 如果你签那个\NMadhu, if you sign that...
+Dialogue: 0,0:52:26.98,0:52:28.59,Default,,0,0,0,,我会让你死得很惨\NI will make you very dead.
+Dialogue: 0,0:52:30.35,0:52:31.66,Default,,0,0,0,,我也不想这样做\NThis is hard for me too.
+Dialogue: 0,0:52:35.30,0:52:36.30,Default,,0,0,0,,不管了\NFuck it.
+Dialogue: 0,0:52:40.60,0:52:41.60,Default,,0,0,0,,好吧 没问题\NOkie dokie.
+Dialogue: 0,0:52:43.39,0:52:45.18,Default,,0,0,0,,请吧 女士\NMa'am, if you please.
+Dialogue: 0,0:52:49.98,0:52:50.98,Default,,0,0,0,,好的 没问题\NOkie dokie.
+Dialogue: 0,0:52:55.88,0:52:57.62,Default,,0,0,0,,911 你有什么紧急情况\N911, what's your emergency?
+Dialogue: 0,0:52:57.94,0:53:01.28,Default,,0,0,0,,我需要帮助 我和我姐姐正在被...\NI need help, my sister and I are being...
+Dialogue: 0,0:53:01.66,0:53:06.32,Default,,0,0,0,,我们现在在丹福斯赌场 高尔夫球场 或者说那个综合设施里\NWe're at the Danforth Casino, golf course, whatever, compound.
+Dialogue: 0,0:53:06.68,0:53:08.02,Default,,0,0,0,,有人要杀我们\NPeople are trying to kill us.
+Dialogue: 0,0:53:08.10,0:53:10.78,Default,,0,0,0,,抱歉女士 您能说慢点 并重复一下吗\NI'm sorry ma'am, could you slow down and repeat yourself?
+Dialogue: 0,0:53:12.43,0:53:14.51,Default,,0,0,0,,我决定监控大院内所有外拨电话\NI decided to capture all the outgoing calls on the compound
+Dialogue: 0,0:53:14.51,0:53:16.96,Default,,0,0,0,,以防他们设法弄到电话\Njust in case they managed to get their hands on a phone.
+Dialogue: 0,0:53:17.19,0:53:17.85,Default,,0,0,0,,怎么做的？\NHow?
+Dialogue: 0,0:53:18.46,0:53:19.70,Default,,0,0,0,,我们拥有这家电话公司\NWe own the phone company.
+Dialogue: 0,0:53:20.39,0:53:22.22,Default,,0,0,0,,而且他们全都是崇拜魔鬼的人\NAnd they're all devil worshippers.
+Dialogue: 0,0:53:22.81,0:53:25.44,Default,,0,0,0,,我知道听起来很荒唐 但我们真的需要帮助\NI know it sounds insane, but we need help.
+Dialogue: 0,0:53:25.86,0:53:29.26,Default,,0,0,0,,我们现在在丹福斯度假村 请派人过来\NWe're at the Danforth Resort, please send someone.
+Dialogue: 0,0:53:30.13,0:53:31.22,Default,,0,0,0,,好的 我知道了\NYes, I understand.
+Dialogue: 0,0:53:31.66,0:53:32.82,Default,,0,0,0,,我们会立即派人过去帮忙\NWe will send help right away.
+Dialogue: 0,0:53:33.20,0:53:34.52,Default,,0,0,0,,你能赶到正门吗？\NCan you make it to the main gate?
+Dialogue: 0,0:53:35.08,0:53:36.08,Default,,0,0,0,,好的 我们会过去的\NYeah, we'll be there.
+Dialogue: 0,0:53:36.40,0:53:36.80,Default,,0,0,0,,好的\NOk.
+Dialogue: 0,0:53:37.22,0:53:38.22,Default,,0,0,0,,好的\NOk.
+Dialogue: 0,0:53:39.60,0:53:40.60,Default,,0,0,0,,好的\NOk.
+Dialogue: 0,0:53:54.10,0:53:55.43,Default,,0,0,0,,你相信吗？\NAre you sure about this?
+Dialogue: 0,0:53:55.55,0:53:56.55,Default,,0,0,0,,是的 我确信\NYeah, I'm sure.
+Dialogue: 0,0:53:57.45,0:53:58.59,Default,,0,0,0,,我不会伤害你的\NI'm not here to hurt you.
+Dialogue: 0,0:53:59.63,0:54:00.03,Default,,0,0,0,,噢\NOh.
+Dialogue: 0,0:54:00.23,0:54:01.23,Default,,0,0,0,,你听到了吗 费丝\NDo you hear that Faith?
+Dialogue: 0,0:54:01.27,0:54:03.07,Default,,0,0,0,,那个拿剑的女人不是来伤害我们的\NThe lady with the sword isn't here to hurt us.
+Dialogue: 0,0:54:03.17,0:54:03.25,Default,,0,0,0,,对的\NRight.
+Dialogue: 0,0:54:03.65,0:54:08.45,Default,,0,0,0,,我可不想跟你打打杀杀\NI have no desire to get into some punchy, kicky situation with you.
+Dialogue: 0,0:54:09.62,0:54:10.66,Default,,0,0,0,,有办法解决这个问题\NThere's a way out of this.
+Dialogue: 0,0:54:12.59,0:54:13.59,Default,,0,0,0,,我不是来杀你的\NI'm not here to kill you.
+Dialogue: 0,0:54:16.67,0:54:17.67,Default,,0,0,0,,我来这\NI'm here...
+Dialogue: 0,0:54:20.87,0:54:21.87,Default,,0,0,0,,提出个交易\Nto offer you a deal.
+Dialogue: 0,0:54:25.85,0:54:26.69,Default,,0,0,0,,好吧 怎么说\NAlright, what is it?
+Dialogue: 0,0:54:26.77,0:54:28.45,Default,,0,0,0,,我让我的律师仔细查阅了章程\NI had my lawyers scour the bylaws.
+Dialogue: 0,0:54:28.57,0:54:31.99,Default,,0,0,0,,我认为其他成员不知道这个 如果你嫁给一个议会成员\NI don't think the other council members know this, but if you marry into a high
+Dialogue: 0,0:54:32.02,0:54:36.57,Default,,0,0,0,,如果你嫁给我儿子 我们得到席位 而你也能活下去\Ncouncil family, if you marry my son, we get the seat and you get to live.
+Dialogue: 0,0:54:37.99,0:54:38.43,Default,,0,0,0,,胡说\NBullshit!
+Dialogue: 0,0:54:38.76,0:54:40.99,Default,,0,0,0,,我向拉贝尔先生发誓\NI swear to Mr. LaBelle.
+Dialogue: 0,0:54:42.24,0:54:43.24,Default,,0,0,0,,她同意\NShe says yes.
+Dialogue: 0,0:54:43.31,0:54:43.97,Default,,0,0,0,,不会再狩猎了\NNo more Hunt.
+Dialogue: 0,0:54:44.13,0:54:44.75,Default,,0,0,0,,不会再狩猎了\NNo more Hunt.
+Dialogue: 0,0:54:45.11,0:54:47.63,Default,,0,0,0,,听着 我知道你第一段婚姻结局不太好\NAnd look, I know your first marriage didn't end well.
+Dialogue: 0,0:54:47.92,0:54:50.30,Default,,0,0,0,,但我儿子承福不像亚历克斯\NBut my Cheng-Fu isn't like Alex.
+Dialogue: 0,0:54:50.80,0:54:52.57,Default,,0,0,0,,虽然他是个傻子 但是他很善良\NHe's an idiot, but he's kind.
+Dialogue: 0,0:54:52.89,0:54:56.87,Default,,0,0,0,,如果丹福斯家族不再在幕后操控 世界会好得多\NAnd the world will be far better off without the Danforths pulling the strings.
+Dialogue: 0,0:54:57.17,0:54:57.45,Default,,0,0,0,,格蕾丝\NGrace.
+Dialogue: 0,0:54:57.70,0:54:59.33,Default,,0,0,0,,泰特斯是个变态疯子\NTitus is a psychopath.
+Dialogue: 0,0:54:59.57,0:55:01.17,Default,,0,0,0,,他姐姐控制不了他\NHis sister won't be able to control him.
+Dialogue: 0,0:55:01.20,0:55:03.55,Default,,0,0,0,,世界会比现在更快走向末日\NAnd the world will go to hell faster than it already is.
+Dialogue: 0,0:55:05.07,0:55:06.07,Default,,0,0,0,,但你是个好人\NBut you're a good person.
+Dialogue: 0,0:55:06.55,0:55:07.55,Default,,0,0,0,,当然不是\NOf course not.
+Dialogue: 0,0:55:07.79,0:55:08.99,Default,,0,0,0,,但这只是程度上的差别罢了\NBut it's a matter of degrees.
+Dialogue: 0,0:55:09.19,0:55:12.38,Default,,0,0,0,,好吧 那我就这么嫁给了一个陌生人\NRight, okay, so I'm just married to some stranger.
+Dialogue: 0,0:55:12.68,0:55:13.79,Default,,0,0,0,,- 对 但是 - 太好了\N- Yes, but... - Great!
+Dialogue: 0,0:55:14.21,0:55:15.36,Default,,0,0,0,,你们不必像夫妻一样生活\NYou don't have to live as a couple.
+Dialogue: 0,0:55:15.38,0:55:16.54,Default,,0,0,0,,你可以做任何你想做的事\NYou can do whatever you want.
+Dialogue: 0,0:55:16.59,0:55:17.47,Default,,0,0,0,,对 她会做的\NYeah, she'll do it.
+Dialogue: 0,0:55:17.57,0:55:18.57,Default,,0,0,0,,不\NNo.
+Dialogue: 0,0:55:18.61,0:55:19.01,Default,,0,0,0,,不\NNo.
+Dialogue: 0,0:55:19.07,0:55:19.35,Default,,0,0,0,,什么？\NWhat?
+Dialogue: 0,0:55:19.63,0:55:21.11,Default,,0,0,0,,不...这也太容易了吧\NNo, this seems too easy.
+Dialogue: 0,0:55:21.19,0:55:22.67,Default,,0,0,0,,我什么都不用做吗？\NWhat, I wouldn't have to do anything?
+Dialogue: 0,0:55:24.13,0:55:25.13,Default,,0,0,0,,是的...\NWell...
+Dialogue: 0,0:55:26.18,0:55:27.70,Default,,0,0,0,,好吧 她必须做什么\NOkay, well, what would she have to do?
+Dialogue: 0,0:55:27.78,0:55:30.09,Default,,0,0,0,,严格来说 她算是组织的一员\NTechnically, she'd be part of the organization, but
+Dialogue: 0,0:55:30.09,0:55:32.85,Default,,0,0,0,,但她只需要做我们大家都要做的那些常规工作\Nshe'd just have to do the usual stuff we all have to do.
+Dialogue: 0,0:55:32.92,0:55:33.91,Default,,0,0,0,,不算太糟\NIt's not so bad.
+Dialogue: 0,0:55:33.91,0:55:34.15,Default,,0,0,0,,那是什么\NWhat's that?
+Dialogue: 0,0:55:34.35,0:55:35.35,Default,,0,0,0,,那些常规工作\NWhat's the usual stuff?
+Dialogue: 0,0:55:35.47,0:55:38.97,Default,,0,0,0,,我是说...你是说要献祭山羊 猪之类的？\NI mean... You mean sacrificing goats and shit and pigs?
+Dialogue: 0,0:55:38.99,0:55:40.47,Default,,0,0,0,,他妈的杀害无辜的人？\NFucking killing innocent people?
+Dialogue: 0,0:55:41.67,0:55:43.73,Default,,0,0,0,,出卖他妈的我的灵魂？\NSelling my fucking soul?
+Dialogue: 0,0:55:48.19,0:55:49.27,Default,,0,0,0,,嗯 那还是算了\NYeah, that's gonna be a no.
+Dialogue: 0,0:55:50.99,0:55:51.99,Default,,0,0,0,,他妈的\N[西语]Puta madre.
+Dialogue: 0,0:55:54.71,0:55:55.83,Default,,0,0,0,,滚开 伊格纳西奥\NFuck off, Ignacio!
+Dialogue: 0,0:55:56.23,0:55:57.51,Default,,0,0,0,,你这个该死的怪胎\NYou fucking weirdo!
+Dialogue: 0,0:55:57.51,0:55:58.67,Default,,0,0,0,,你知道你不能杀我\NYou know you can't kill me!
+Dialogue: 0,0:55:59.45,0:56:00.31,Default,,0,0,0,,说同意\NSay yes!
+Dialogue: 0,0:56:00.45,0:56:01.03,Default,,0,0,0,,现在\NRight now!
+Dialogue: 0,0:56:01.17,0:56:01.37,Default,,0,0,0,,让开\NMove!
+Dialogue: 0,0:56:01.53,0:56:03.41,Default,,0,0,0,,如果你不说 我会在他动手之前杀了你\NIf you don't, I have to kill you before he does!
+Dialogue: 0,0:56:03.43,0:56:04.07,Default,,0,0,0,,天呐\NJesus Christ!
+Dialogue: 0,0:56:04.21,0:56:04.87,Default,,0,0,0,,我同意了\NI'll do it!
+Dialogue: 0,0:56:04.93,0:56:06.07,Default,,0,0,0,,我会嫁给你那该死的儿子\NI'll marry your fucking son!
+Dialogue: 0,0:56:06.39,0:56:06.66,Default,,0,0,0,,晨\NChen!
+Dialogue: 0,0:56:06.79,0:56:07.29,Default,,0,0,0,,快点\NHurry up!
+Dialogue: 0,0:56:07.31,0:56:07.45,Default,,0,0,0,,让开\NMove!
+Dialogue: 0,0:56:07.71,0:56:08.81,Default,,0,0,0,,说 同意 天呐\NSay yes, Jesus!
+Dialogue: 0,0:56:09.17,0:56:10.17,Default,,0,0,0,,就说 同意\NJust say yes!
+Dialogue: 0,0:56:10.93,0:56:11.67,Default,,0,0,0,,快说\NDo it!
+Dialogue: 0,0:56:11.67,0:56:12.09,Default,,0,0,0,,是\NYeah!
+Dialogue: 0,0:56:12.21,0:56:12.63,Default,,0,0,0,,求你了\NPlease!
+Dialogue: 0,0:56:12.89,0:56:13.15,Default,,0,0,0,,晨\NChen!
+Dialogue: 0,0:56:13.33,0:56:14.07,Default,,0,0,0,,她会同意的\NShe'll do it!
+Dialogue: 0,0:56:14.07,0:56:15.63,Default,,0,0,0,,她会嫁给你那该死的儿子\NShe'll marry your fucking son!
+Dialogue: 0,0:56:15.89,0:56:17.03,Default,,0,0,0,,她必须说\NShe has to say it!
+Dialogue: 0,0:56:17.05,0:56:18.17,Default,,0,0,0,,你必须说\NYou have to say it!
+Dialogue: 0,0:56:18.27,0:56:19.27,Default,,0,0,0,,该死的\NGod damn it!
+Dialogue: 0,0:57:02.25,0:57:03.94,Default,,0,0,0,,为什么大家都看着我\NWhy is everyone looking at me?
+Dialogue: 0,0:57:16.94,0:57:17.94,Default,,0,0,0,,好吧...\NOkay, well...
+Dialogue: 0,0:57:18.40,0:57:19.92,Default,,0,0,0,,我得赶紧弄个新的来\NI'll need a fresh one of these, stat.
+Dialogue: 0,0:57:20.68,0:57:22.72,Default,,0,0,0,,还有 呃 给我件雨披之类的\NAnd, uh, give me a poncho or something.
+Dialogue: 0,0:57:22.86,0:57:23.86,Default,,0,0,0,,谢谢 珍\NThanks, Jen.
+Dialogue: 0,0:57:24.16,0:57:25.16,Default,,0,0,0,,对\NYeah.
+Dialogue: 0,0:57:32.03,0:57:33.03,Default,,0,0,0,,好的\NOkay.
+Dialogue: 0,0:57:37.12,0:57:40.77,Default,,0,0,0,,我真的不习惯有人在我面前自爆\NI'm really not used to people combusting all over me.
+Dialogue: 0,0:57:42.92,0:57:43.92,Default,,0,0,0,,对\NYeah.
+Dialogue: 0,0:57:44.14,0:57:45.14,Default,,0,0,0,,不\NNo.
+Dialogue: 0,0:57:46.31,0:57:47.31,Default,,0,0,0,,确实总是让人猝不及防\NIt's always surprising.
+Dialogue: 0,0:58:32.85,0:58:33.85,Default,,0,0,0,,你为什么拒绝了\NWhy did you say no?
+Dialogue: 0,0:58:35.82,0:58:36.82,Default,,0,0,0,,你本可以救我们\NYou could have saved us.
+Dialogue: 0,0:58:38.69,0:58:42.10,Default,,0,0,0,,因为我不想后半辈子都他妈地去杀人\NUh, because I don't want to spend the rest of my life fucking killing people.
+Dialogue: 0,0:58:42.64,0:58:43.64,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:58:44.27,0:58:46.10,Default,,0,0,0,,那个女人出卖了自己的灵魂\NThat lady sold her soul.
+Dialogue: 0,0:58:46.13,0:58:47.10,Default,,0,0,0,,我不会做同样的事\NI'm not gonna sell mine.
+Dialogue: 0,0:58:47.14,0:58:48.70,Default,,0,0,0,,我宁可去死 也不要那样活着\NI'd rather be dead than live like that.
+Dialogue: 0,0:58:49.78,0:58:51.40,Default,,0,0,0,,你想知道为什么我不想冒险吗\NYou wanna know why I don't take risks?
+Dialogue: 0,0:58:51.52,0:58:53.20,Default,,0,0,0,,因为我冒了一次险\NIt's because the one time... I did.
+Dialogue: 0,0:58:53.30,0:58:55.16,Default,,0,0,0,,我去了纽约 结果被耍了 然后\NI got fucked and moved to New York and I...
+Dialogue: 0,0:58:55.67,0:58:56.50,Default,,0,0,0,,我失去了你\Nand I lost you.
+Dialogue: 0,0:58:56.66,0:58:57.78,Default,,0,0,0,,你没有搬去纽约\NYou didn't move to New York.
+Dialogue: 0,0:58:57.84,0:58:58.84,Default,,0,0,0,,你抛弃了我\NYou left me.
+Dialogue: 0,0:58:58.92,0:59:00.28,Default,,0,0,0,,费丝 现在不是提这事的时候\NFaith, we can't do this right now.
+Dialogue: 0,0:59:00.76,0:59:01.94,Default,,0,0,0,,你本应该可以带我一起走的\NYou could have taken me with you.
+Dialogue: 0,0:59:01.96,0:59:02.96,Default,,0,0,0,,我当时18岁\NI was 18!
+Dialogue: 0,0:59:04.21,0:59:06.28,Default,,0,0,0,,那是一次千载难逢的奖学金机会\NIt was a once-iN - a-lifetime scholarship.
+Dialogue: 0,0:59:06.52,0:59:08.08,Default,,0,0,0,,- 你怎么会... - 我们是一个团队\N- How do you not... - We were a team.
+Dialogue: 0,0:59:10.62,0:59:12.22,Default,,0,0,0,,你本可以成为我的法定监护人\NYou could have become my legal guardian.
+Dialogue: 0,0:59:12.42,0:59:13.42,Default,,0,0,0,,你当时15岁？\NYou were 15?
+Dialogue: 0,0:59:13.93,0:59:15.54,Default,,0,0,0,,你不能照顾我吗？\NI couldn't take care of you?
+Dialogue: 0,0:59:15.91,0:59:16.98,Default,,0,0,0,,我可以帮助付房租\NI could have helped with rent.
+Dialogue: 0,0:59:17.00,0:59:17.49,Default,,0,0,0,,怎么帮\NHow?
+Dialogue: 0,0:59:17.80,0:59:18.98,Default,,0,0,0,,那里是纽约\NIt was New York.
+Dialogue: 0,0:59:19.00,0:59:20.02,Default,,0,0,0,,你是一个孩子\NYou were a kid.
+Dialogue: 0,0:59:20.22,0:59:21.54,Default,,0,0,0,,对 你的孩子妹妹\NYeah, your kid sister.
+Dialogue: 0,0:59:21.72,0:59:22.44,Default,,0,0,0,,我告诉过你\NI told you.
+Dialogue: 0,0:59:22.44,0:59:23.44,Default,,0,0,0,,我曾有个计划\NI had a plan.
+Dialogue: 0,0:59:23.56,0:59:25.74,Default,,0,0,0,,我会为我们两个打拼出更好的生活\NI was gonna make a better life for both of us.
+Dialogue: 0,0:59:25.76,0:59:27.26,Default,,0,0,0,,等我毕业了就把你接过来\NI was gonna bring you out once I graduated.
+Dialogue: 0,0:59:27.28,0:59:29.24,Default,,0,0,0,,你知道那个年纪 三年有多漫长吗？\NDo you know how long three years is at that age?
+Dialogue: 0,0:59:29.46,0:59:30.46,Default,,0,0,0,,费丝 你当时还好\NFaith, you were okay.
+Dialogue: 0,0:59:30.63,0:59:31.63,Default,,0,0,0,,你很安全\NYou were safe.
+Dialogue: 0,0:59:32.06,0:59:34.00,Default,,0,0,0,,格蕾丝...我们的养父母人不坏\NGrace... We had decent foster parents.
+Dialogue: 0,0:59:34.10,0:59:35.50,Default,,0,0,0,,你有个栖身之所\NYou had a roof over your head.
+Dialogue: 0,0:59:35.64,0:59:36.64,Default,,0,0,0,,格蕾丝\NGrace...
+Dialogue: 0,0:59:38.52,0:59:39.56,Default,,0,0,0,,你抛弃了我\NYou left me.
+Dialogue: 0,0:59:42.23,0:59:44.96,Default,,0,0,0,,我给你打了好几年电话\NI called you for years.
+Dialogue: 0,0:59:45.10,0:59:47.22,Default,,0,0,0,,你根本不接\NYou didn't wanna talk to me!
+Dialogue: 0,0:59:47.83,0:59:48.83,Default,,0,0,0,,我那时很生气\NI was mad.
+Dialogue: 0,0:59:48.98,0:59:51.18,Default,,0,0,0,,你伤透了我的心\NIt broke my fucking heart.
+Dialogue: 0,0:59:51.24,0:59:52.55,Default,,0,0,0,,在你伤透我的心之后\NAfter you broke mine.
+Dialogue: 0,0:59:55.91,0:59:57.99,Default,,0,0,0,,你还记得你对我说的最后一句话吗\NYou remember the last thing you said to me?
+Dialogue: 0,1:00:00.46,1:00:06.74,Default,,0,0,0,,我说 求你了 不要走 你说 我必须走\NI said, please don't go, and you said, I have to.
+Dialogue: 0,1:00:07.65,1:00:08.65,Default,,0,0,0,,没有其他选择\NThere's no other way.
+Dialogue: 0,1:00:13.14,1:00:14.14,Default,,0,0,0,,我他妈真的很抱歉\NI'm fucking sorry.
+Dialogue: 0,1:00:16.51,1:00:17.66,Default,,0,0,0,,我为你感到开心\NI'm happy for you.
+Dialogue: 0,1:00:18.84,1:00:21.03,Default,,0,0,0,,我为你和你完美的生活感到开心\NI'm very happy for you and your perfect life.
+Dialogue: 0,1:00:27.61,1:00:28.61,Default,,0,0,0,,德里克这个人是我编的\NI made up Derek.
+Dialogue: 0,1:00:32.24,1:00:37.25,Default,,0,0,0,,我住在布什维克 也不是什么社交媒体协调员\NI live in Bushwick, and I'm not a social media manager.
+Dialogue: 0,1:00:39.07,1:00:40.28,Default,,0,0,0,,你干什么的\NWhat do you do?
+Dialogue: 0,1:00:41.51,1:00:42.51,Default,,0,0,0,,我是个迎宾员\NI'm a hostess.
+Dialogue: 0,1:00:46.38,1:00:48.06,Default,,0,0,0,,严格来说 我是服务员 职级比你高\NTechnically, as a waitress, I outrank you.
+Dialogue: 0,1:00:50.74,1:00:53.24,Default,,0,0,0,,他们说我太好看了 所以让我当迎宾\NThey made me a hostess because they said I'm so pretty.
+Dialogue: 0,1:00:53.41,1:00:54.73,Default,,0,0,0,,是啊 但你拿不到小费\NYeah, but you don't get any tips.
+Dialogue: 0,1:00:55.40,1:00:57.20,Default,,0,0,0,,我收到很多小费 因为我真的很漂亮\NI get a lot of tips because I'm really pretty.
+Dialogue: 0,1:00:57.23,1:01:00.33,Default,,0,0,0,,哈 我不需要小费 因为我那个假男朋友德里克赚大钱\NWell, I don't need tips because my fake boyfriend Derek makes bank, so...
+Dialogue: 0,1:01:00.93,1:01:02.19,Default,,0,0,0,,对 对 对 对\NRight, right, right, right.
+Dialogue: 0,1:01:03.77,1:01:04.84,Default,,0,0,0,,上帝保佑德里克\NGod bless Derek.
+Dialogue: 0,1:01:06.41,1:01:07.41,Default,,0,0,0,,我们走吧\NLet's go.
+Dialogue: 0,1:01:09.60,1:01:10.60,Default,,0,0,0,,他们在哪儿？\NWhere are they?
+Dialogue: 0,1:01:16.08,1:01:17.08,Default,,0,0,0,,妈的 你能接那个电话吗\NShit, can you get that?
+Dialogue: 0,1:01:17.64,1:01:18.64,Default,,0,0,0,,可能是她们\NIt could be them.
+Dialogue: 0,1:01:21.84,1:01:22.42,Default,,0,0,0,,接\NAnswer it.
+Dialogue: 0,1:01:22.42,1:01:23.08,Default,,0,0,0,,我不想接\NI don't want to answer it.
+Dialogue: 0,1:01:23.30,1:01:25.52,Default,,0,0,0,,她们不能两次找到同一个911接线员\NThey can't get the same 911 operator twice.
+Dialogue: 0,1:01:25.84,1:01:26.84,Default,,0,0,0,,我他妈说什么\NThe fuck do I say?
+Dialogue: 0,1:01:27.01,1:01:28.02,Default,,0,0,0,,赶紧他妈的接就是了\NJust fucking answer it.
+Dialogue: 0,1:01:31.70,1:01:32.70,Default,,0,0,0,,911\N911.
+Dialogue: 0,1:01:33.90,1:01:34.90,Default,,0,0,0,,你有什么紧急情况\NWhat's your emergency?
+Dialogue: 0,1:01:35.28,1:01:35.98,Default,,0,0,0,,我们到了\NWe're here.
+Dialogue: 0,1:01:36.00,1:01:37.00,Default,,0,0,0,,警察在哪儿？\NWhere are the cops?
+Dialogue: 0,1:01:40.69,1:01:41.69,Default,,0,0,0,,你在哪儿？\NWhere are you?
+Dialogue: 0,1:01:42.06,1:01:43.68,Default,,0,0,0,,我们沿着墙走向正门\NWe're following a wall to the main gate.
+Dialogue: 0,1:01:43.76,1:01:44.87,Default,,0,0,0,,我没看到警车\NI don't see a cop car.
+Dialogue: 0,1:01:47.50,1:01:49.74,Default,,0,0,0,,警察在附近\NThe unit is close.
+Dialogue: 0,1:01:50.28,1:01:53.73,Default,,0,0,0,,待在大门附近 他们会看见你的\NJust wait there at the gate, and they will see you.
+Dialogue: 0,1:01:56.76,1:01:58.00,Default,,0,0,0,,你个婊子\NYou bitch.
+Dialogue: 0,1:01:59.25,1:02:00.25,Default,,0,0,0,,你看见她们了吗\NDid you see that?
+Dialogue: 0,1:02:00.28,1:02:01.28,Default,,0,0,0,,漂亮\NNice.
+Dialogue: 0,1:02:01.52,1:02:04.12,Default,,0,0,0,,所以 我们一听就知道是你的声音 他妈的蠢货\NSo, we knew it was your voice on the phone, fucking dumbass.
+Dialogue: 0,1:02:04.22,1:02:05.22,Default,,0,0,0,,对 白痴\NYeah, idiots.
+Dialogue: 0,1:02:05.44,1:02:06.58,Default,,0,0,0,,我们一直在监视你\NWe've been watching you.
+Dialogue: 0,1:02:06.72,1:02:07.72,Default,,0,0,0,,你真行\NGood for you.
+Dialogue: 0,1:02:07.80,1:02:09.47,Default,,0,0,0,,好吧 嗯 告诉我们怎么开门\NAll right, well, tell us how to open the gate.
+Dialogue: 0,1:02:09.49,1:02:11.41,Default,,0,0,0,,你只能在控制室操作\NWell, you can only do that from the control room.
+Dialogue: 0,1:02:11.98,1:02:12.98,Default,,0,0,0,,我们如何到那\NHow do we get there?
+Dialogue: 0,1:02:13.32,1:02:14.32,Default,,0,0,0,,对\NYeah.
+Dialogue: 0,1:02:14.68,1:02:19.22,Default,,0,0,0,,嗯 你回去 左转\NWell, you go back inside, you make a left.
+Dialogue: 0,1:02:19.64,1:02:24.06,Default,,0,0,0,,最右侧的那部电梯是唯一一部通往地下二层的电梯\NThe elevator on the far right is the only one that descends to the sub-basement.
+Dialogue: 0,1:02:24.24,1:02:26.08,Default,,0,0,0,,右转 进入控制室\NYou make a right, you go into the control room.
+Dialogue: 0,1:02:27.02,1:02:28.02,Default,,0,0,0,,当你进去的时候\NWhen you're inside...
+Dialogue: 0,1:02:29.86,1:02:31.34,Default,,0,0,0,,你自己想办法吧\Nyou figure it out yourself.
+Dialogue: 0,1:02:33.68,1:02:35.01,Default,,0,0,0,,告诉我们如何打开它\NTell us how to open it.
+Dialogue: 0,1:02:35.15,1:02:37.78,Default,,0,0,0,,我不告诉你\NI don't feel like it.
+Dialogue: 0,1:02:41.78,1:02:45.16,Default,,0,0,0,,告诉我们怎么开门 否则我们杀了你哥哥\NTell us how to open the gate, or we're gonna kill your brother.
+Dialogue: 0,1:02:46.67,1:02:47.67,Default,,0,0,0,,随便\NFine.
+Dialogue: 0,1:02:48.75,1:02:49.75,Default,,0,0,0,,杀了他\NKill him.
+Dialogue: 0,1:02:52.43,1:02:53.43,Default,,0,0,0,,我没在开玩笑\NI'm not fucking around.
+Dialogue: 0,1:02:53.57,1:02:54.57,Default,,0,0,0,,我也是\NYeah, me neither.
+Dialogue: 0,1:02:54.69,1:02:56.29,Default,,0,0,0,,他死了 至高位就是我的了\NHim out of the way, the seat's all mine.
+Dialogue: 0,1:02:58.04,1:02:59.48,Default,,0,0,0,,真是冷血\NWell, that's some cold blooded shit.
+Dialogue: 0,1:03:03.09,1:03:04.09,Default,,0,0,0,,那么 谁抛弃了谁？\NSo, who abandoned who?
+Dialogue: 0,1:03:04.79,1:03:05.79,Default,,0,0,0,,嗯？\NHmm?
+Dialogue: 0,1:03:06.24,1:03:06.91,Default,,0,0,0,,当年\NBack in the day.
+Dialogue: 0,1:03:07.17,1:03:07.85,Default,,0,0,0,,闭嘴\NShut up.
+Dialogue: 0,1:03:07.93,1:03:08.15,Default,,0,0,0,,哦\NOh.
+Dialogue: 0,1:03:08.41,1:03:09.25,Default,,0,0,0,,你 对吗？\NYou, right?
+Dialogue: 0,1:03:09.31,1:03:09.73,Default,,0,0,0,,你是姐姐\NYou're older.
+Dialogue: 0,1:03:10.26,1:03:11.91,Default,,0,0,0,,她今天一整天都在拖你后腿\NShe's just been holding you back all day.
+Dialogue: 0,1:03:12.50,1:03:14.05,Default,,0,0,0,,你知道她还会再次抛弃你的 对吧？\NYou know she's gonna leave you again, right?
+Dialogue: 0,1:03:14.07,1:03:15.07,Default,,0,0,0,,闭上你的狗嘴\NShut the fuck up!
+Dialogue: 0,1:03:17.73,1:03:18.79,Default,,0,0,0,,来打我啊\NFucking hit me!
+Dialogue: 0,1:03:24.98,1:03:25.82,Default,,0,0,0,,格蕾丝\NGrace!
+Dialogue: 0,1:03:25.85,1:03:26.13,Default,,0,0,0,,谁\NWho?
+Dialogue: 0,1:03:26.35,1:03:27.71,Default,,0,0,0,,对 对 撞死她\NYes, yes, run her down!
+Dialogue: 0,1:03:27.87,1:03:28.87,Default,,0,0,0,,这就是我的婊子\NThat's my bitch!
+Dialogue: 0,1:03:29.17,1:03:30.27,Default,,0,0,0,,滚出房间\NGet out of the room!
+Dialogue: 0,1:03:37.51,1:03:37.97,Default,,0,0,0,,什么？\NWhat?!
+Dialogue: 0,1:03:37.97,1:03:38.81,Default,,0,0,0,,什么？\NWhat?!
+Dialogue: 0,1:03:39.59,1:03:40.66,Default,,0,0,0,,我想她已经走了 老兄\NI think she's leaving, boss.
+Dialogue: 0,1:03:43.64,1:03:44.16,Default,,0,0,0,,操\NFuck!
+Dialogue: 0,1:03:46.63,1:03:47.63,Default,,0,0,0,,格蕾丝\NGrace?!
+Dialogue: 0,1:03:51.53,1:03:52.53,Default,,0,0,0,,费丝 快跑\NFaith, Go!
+Dialogue: 0,1:03:57.40,1:03:58.74,Default,,0,0,0,,你在干什么？\NWhat are you doing?
+Dialogue: 0,1:03:59.15,1:04:00.15,Default,,0,0,0,,快走\NGet out!
+Dialogue: 0,1:04:00.29,1:04:01.29,Default,,0,0,0,,跑\NRun!
+Dialogue: 0,1:04:16.51,1:04:17.59,Default,,0,0,0,,放弃吧 格蕾丝\NGive it up, Grace.
+Dialogue: 0,1:04:17.93,1:04:19.73,Default,,0,0,0,,这是最好的结局\NThis is for the best.
+Dialogue: 0,1:04:26.47,1:04:27.82,Default,,0,0,0,,滚吧你\NGet the fuck off her!
+Dialogue: 0,1:04:31.95,1:04:32.95,Default,,0,0,0,,快点\NCome on!
+Dialogue: 0,1:04:33.87,1:04:35.35,Default,,0,0,0,,一 二 三...\NOne, two, three, just...
+Dialogue: 0,1:04:36.07,1:04:37.07,Default,,0,0,0,,好吧 好吧\NOkay, alright.
+Dialogue: 0,1:04:39.79,1:04:40.79,Default,,0,0,0,,哦天呐\NOh my god!
+Dialogue: 0,1:04:40.91,1:04:42.23,Default,,0,0,0,,我们要上高尔夫球车\NWe're gonna get into a golf cart!
+Dialogue: 0,1:04:46.15,1:04:47.15,Default,,0,0,0,,快点\NCome on!
+Dialogue: 0,1:04:51.36,1:04:52.94,Default,,0,0,0,,走 走 走\NLet's go, let's go, let's go!
+Dialogue: 0,1:04:59.54,1:05:00.54,Default,,0,0,0,,杀了他\NKill him.
+Dialogue: 0,1:05:01.06,1:05:02.06,Default,,0,0,0,,我不在意\NI don't care.
+Dialogue: 0,1:05:02.95,1:05:04.36,Default,,0,0,0,,我是在拖延时间 白痴\NI was stalling, you idiot.
+Dialogue: 0,1:05:06.18,1:05:08.24,Default,,0,0,0,,我肯定对你做了不少事\NI surely did a number on you.
+Dialogue: 0,1:05:08.70,1:05:09.70,Default,,0,0,0,,你看——\NYou look at the...
+Dialogue: 0,1:05:10.70,1:05:13.02,Default,,0,0,0,,别他妈把我当小孩子\NStop treating me like I'm a fucking child.
+Dialogue: 0,1:05:37.26,1:05:37.78,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,1:05:37.80,1:05:40.33,Default,,0,0,0,,我准备好上场了\NI am ready to take the field.
+Dialogue: 0,1:05:42.28,1:05:43.86,Default,,0,0,0,,实际上你不被允许上场\NYou're not allowed to, actually.
+Dialogue: 0,1:05:44.75,1:05:45.75,Default,,0,0,0,,你放弃了\NYou abdicated.
+Dialogue: 0,1:05:46.58,1:05:48.22,Default,,0,0,0,,你不再是家族的族长了\NYou're no longer the head of your family.
+Dialogue: 0,1:05:48.76,1:05:50.44,Default,,0,0,0,,而且你的妻子控制着你所有的资产\NAnd your wife controls all of your assets.
+Dialogue: 0,1:05:51.26,1:05:54.79,Default,,0,0,0,,即使她选择不参与狩猎 她仍然代表你的家族\NEven though she's chosen not to hunt, she still represents your family.
+Dialogue: 0,1:05:56.69,1:05:57.30,Default,,0,0,0,,什么\NPardon?
+Dialogue: 0,1:05:58.32,1:05:59.32,Default,,0,0,0,,你一无所有\NYou own nothing.
+Dialogue: 0,1:06:07.38,1:06:08.48,Default,,0,0,0,,我想 呃\NI think, uh...
+Dialogue: 0,1:06:09.70,1:06:11.55,Default,,0,0,0,,我想我需要躺下\NI think I need to lie down.
+Dialogue: 0,1:06:11.57,1:06:13.25,Default,,0,0,0,,你兄弟的遗骸该送到哪里？\NWhere shall I send your brother's remains?
+Dialogue: 0,1:06:13.33,1:06:14.79,Default,,0,0,0,,送去你妈的屁眼里\NTo your mother's asshole.
+Dialogue: 0,1:06:15.51,1:06:17.26,Default,,0,0,0,,你这混蛋\NYou fuck.
+Dialogue: 0,1:06:18.04,1:06:19.04,Default,,0,0,0,,睡个好觉\NHave a nice nap.
+Dialogue: 0,1:06:22.13,1:06:23.13,Default,,0,0,0,,操你妈\NFuck you!
+Dialogue: 0,1:06:23.23,1:06:24.29,Default,,0,0,0,,操你妈\NFuck you!
+Dialogue: 0,1:06:24.49,1:06:27.23,Default,,0,0,0,,去你妈的 你这变态小杂种\NAnd fuck you, you creepy little fuck!
+Dialogue: 0,1:06:27.50,1:06:29.87,Default,,0,0,0,,我他妈的恨死你们了\NI fucking hate all of you!
+Dialogue: 0,1:06:34.14,1:06:35.28,Default,,0,0,0,,你也去死吧\NFuck you too.
+Dialogue: 0,1:06:38.33,1:06:39.13,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,1:06:39.85,1:06:41.26,Default,,0,0,0,,你一点都不难过\NThat's not at all sad.
+Dialogue: 0,1:06:42.42,1:06:43.42,Default,,0,0,0,,我准备好了\NI'm ready.
+Dialogue: 0,1:06:44.87,1:06:46.01,Default,,0,0,0,,给我那该死的笔\NGive me the fucking pen.
+Dialogue: 0,1:06:51.49,1:06:52.49,Default,,0,0,0,,快点\NCome on.
+Dialogue: 0,1:06:53.03,1:06:54.41,Default,,0,0,0,,快 跑 跑 跑\NCome on, run, run, run.
+Dialogue: 0,1:07:11.06,1:07:13.20,Default,,0,0,0,,跟你说了要跑\Ntold you to fucking run.
+Dialogue: 0,1:07:13.72,1:07:14.72,Default,,0,0,0,,坐下\NJust sit.
+Dialogue: 0,1:07:17.05,1:07:19.44,Default,,0,0,0,,让我帮你拔出来\NLet me...let me help pull it out.
+Dialogue: 0,1:07:19.58,1:07:20.58,Default,,0,0,0,,必须拔出来\NIt's gotta come out!
+Dialogue: 0,1:07:44.05,1:07:45.73,Default,,0,0,0,,我去给你找点止痛的东西\NI'm gonna find you something for the pain.
+Dialogue: 0,1:07:49.03,1:07:49.66,Default,,0,0,0,,哦\NOh!
+Dialogue: 0,1:07:49.85,1:07:50.94,Default,,0,0,0,,有辣椒喷雾\NThere's pepper spray.
+Dialogue: 0,1:07:51.74,1:07:53.15,Default,,0,0,0,,你不觉得\NYou don't think?
+Dialogue: 0,1:07:53.38,1:07:54.96,Default,,0,0,0,,你不感觉\NYou don't listen?
+Dialogue: 0,1:07:56.34,1:08:00.02,Default,,0,0,0,,所有选项摆在你面前 你偏偏次次都选最蠢的那个\NOut of all the options in front of you, you always manage to pick the dumbest one.
+Dialogue: 0,1:08:00.32,1:08:01.32,Default,,0,0,0,,真是令人印象深刻\NIt's actually impressive.
+Dialogue: 0,1:08:01.58,1:08:02.64,Default,,0,0,0,,你怎么做到的\NHow do you do it?
+Dialogue: 0,1:08:02.72,1:08:03.72,Default,,0,0,0,,我救了你\NI saved you.
+Dialogue: 0,1:08:03.81,1:08:05.50,Default,,0,0,0,,你本来可以自救的\NYou could have saved yourself.
+Dialogue: 0,1:08:06.04,1:08:07.45,Default,,0,0,0,,你本可以去找救援\NYou could have gotten help.
+Dialogue: 0,1:08:07.70,1:08:09.50,Default,,0,0,0,,我照顾不了我们俩\NI can't take care of both of us.
+Dialogue: 0,1:08:09.52,1:08:10.54,Default,,0,0,0,,我真的做不到\NI can't do it.
+Dialogue: 0,1:08:10.56,1:08:11.24,Default,,0,0,0,,哦 都是我的错\NOh, it's all my fault.
+Dialogue: 0,1:08:11.30,1:08:11.48,Default,,0,0,0,,我知道\NI know.
+Dialogue: 0,1:08:11.54,1:08:12.16,Default,,0,0,0,,我真是个累赘\NI'm such a burden.
+Dialogue: 0,1:08:12.28,1:08:13.00,Default,,0,0,0,,你还真是个孩子\NYou're a fucking child!
+Dialogue: 0,1:08:13.28,1:08:15.00,Default,,0,0,0,,我他妈来这里唯一的原因就是你\NThe only reason I'm fucking here is because of you,
+Dialogue: 0,1:08:15.02,1:08:16.94,Default,,0,0,0,,而现在我他妈要死在这里也是因为你\Nand now I'm gonna fucking die here because of you!
+Dialogue: 0,1:08:17.44,1:08:19.70,Default,,0,0,0,,要不是我 你几小时前就死了\NYou would have died hours ago if it wasn't for me.
+Dialogue: 0,1:08:19.78,1:08:22.98,Default,,0,0,0,,哦 抱歉我没跑掉把你扔下 但这事儿更像你的作风\NOh, I'm sorry I didn't run away and abandon you, but that's more your thing.
+Dialogue: 0,1:08:24.90,1:08:27.49,Default,,0,0,0,,我离开是对的\NI was right to fucking leave.
+Dialogue: 0,1:08:28.22,1:08:30.43,Default,,0,0,0,,我真希望你他妈从没找到我\NAnd I wish you never goddamn found me.
+Dialogue: 0,1:08:42.21,1:08:43.21,Default,,0,0,0,,你说得对\NYou're right.
+Dialogue: 0,1:08:44.22,1:08:45.22,Default,,0,0,0,,我应该跑的\NI should have run.
+Dialogue: 0,1:08:48.05,1:08:49.05,Default,,0,0,0,,祝你好运\NGood luck.
+Dialogue: 0,1:08:49.69,1:08:50.69,Default,,0,0,0,,滚吧\NAnd fuck off.
+Dialogue: 0,1:09:33.50,1:09:35.07,Default,,0,0,0,,费丝 等等\NFaith, wait!
+Dialogue: 0,1:09:35.50,1:09:36.50,Default,,0,0,0,,嗨 贱人\NHi, cunt.
+Dialogue: 0,1:09:43.07,1:09:44.05,Default,,0,0,0,,再见 贱人\NBye, cunt.
+Dialogue: 0,1:09:44.07,1:09:45.07,Default,,0,0,0,,操\NFuck.
+Dialogue: 0,1:09:48.55,1:09:49.55,Default,,0,0,0,,真的？\NReally?
+Dialogue: 0,1:09:50.62,1:09:54.88,Default,,0,0,0,,操你妈\NFuck.
+Dialogue: 0,1:10:25.21,1:10:26.79,Default,,0,0,0,,又一个人了\NAll alone again?
+Dialogue: 0,1:10:27.52,1:10:28.52,Default,,0,0,0,,哈？\NHuh?
+Dialogue: 0,1:10:29.72,1:10:31.22,Default,,0,0,0,,以为你能搞我\NThought you could fuck with me.
+Dialogue: 0,1:10:35.10,1:10:36.20,Default,,0,0,0,,你姐姐呢\NWhere's your sister?
+Dialogue: 0,1:10:36.22,1:10:37.47,Default,,0,0,0,,她走了\NShe's gone!
+Dialogue: 0,1:10:37.52,1:10:39.96,Default,,0,0,0,,她现在正在带警察过来\NShe's probably bringing the cops right now!
+Dialogue: 0,1:10:49.93,1:10:51.95,Default,,0,0,0,,我们掌管着警察\NWe own the cops.
+Dialogue: 0,1:11:09.70,1:11:10.70,Default,,0,0,0,,该死\NGoddammit!
+Dialogue: 0,1:11:12.14,1:11:14.58,Default,,0,0,0,,你他妈在哪儿 婊子？\NWhere the fuck are you, whore?
+Dialogue: 0,1:11:15.24,1:11:17.08,Default,,0,0,0,,我要把你撕碎\NI'm gonna tear you apart!
+Dialogue: 0,1:11:28.48,1:11:29.48,Default,,0,0,0,,你个臭婊子\N[西语]¡Hija de puta!
+Dialogue: 0,1:11:38.72,1:11:40.90,Default,,0,0,0,,拖累你姐姐 是你这辈子做过的\NSlowing your sister down is the only significant
+Dialogue: 0,1:11:40.90,1:11:43.26,Default,,0,0,0,,也是你以后唯一能做到的有意义的事\Nthing you've ever done and will ever do.
+Dialogue: 0,1:11:45.89,1:11:47.15,Default,,0,0,0,,你连个人都算不上\NYou're not even a person.
+Dialogue: 0,1:11:47.90,1:11:49.46,Default,,0,0,0,,只是一堆器官和\NIt's just a collection of organs and...
+Dialogue: 0,1:11:49.90,1:11:53.38,Default,,0,0,0,,加上一堆毫无意义的想法...勉强拼凑成个人形\Nmeaningless opinions... approximating a person.
+Dialogue: 0,1:12:50.04,1:12:53.26,Default,,0,0,0,,我一直期盼着这一刻\NI've been dreaming about this moment.
+Dialogue: 0,1:12:53.82,1:12:55.68,Default,,0,0,0,,你显然不清楚自己现在在哪\NYou obviously don't know where you are.
+Dialogue: 0,1:12:55.92,1:12:57.28,Default,,0,0,0,,这是我的地盘\NThis is my house.
+Dialogue: 0,1:12:58.88,1:13:00.51,Default,,0,0,0,,而庄家永远都赢\NAnd the house always wins.
+Dialogue: 0,1:13:09.80,1:13:11.90,Default,,0,0,0,,这句话你憋多久了？\NHow long have you been saving that one for?
+Dialogue: 0,1:13:11.92,1:13:14.05,Default,,0,0,0,,他妈的混蛋\NFucking douchebag.
+Dialogue: 0,1:13:23.57,1:13:24.79,Default,,0,0,0,,这是我母亲的裙子\NThis was my mother's dress.
+Dialogue: 0,1:13:24.82,1:13:27.30,Default,,0,0,0,,她唯一的心愿就是让我幸福\NAll she ever wanted was for me to be happy.
+Dialogue: 0,1:13:27.67,1:13:29.79,Default,,0,0,0,,而亚历克斯让我幸福\NAnd Alex made me happy.
+Dialogue: 0,1:13:29.88,1:13:30.88,Default,,0,0,0,,闭嘴\NShut up.
+Dialogue: 0,1:13:32.64,1:13:34.00,Default,,0,0,0,,你疯了\NYou're fucking crazy.
+Dialogue: 0,1:13:48.37,1:13:50.23,Default,,0,0,0,,我现在就要杀了你\NI'm gonna kill you now.
+Dialogue: 0,1:13:54.41,1:13:56.08,Default,,0,0,0,,你偷走了他\NYou stole him.
+Dialogue: 0,1:13:56.83,1:13:58.12,Default,,0,0,0,,你改变了他\NYou changed him.
+Dialogue: 0,1:13:58.16,1:14:00.32,Default,,0,0,0,,姐 他根本不爱你\NDude, he didn't fucking love you.
+Dialogue: 0,1:14:50.59,1:14:51.05,Default,,0,0,0,,泰特斯\NTitus!
+Dialogue: 0,1:14:51.68,1:14:52.68,Default,,0,0,0,,泰特斯 停下\NTitus, stop!
+Dialogue: 0,1:14:53.40,1:14:55.13,Default,,0,0,0,,泰特斯 你他妈在干什么\NTitus, what the fuck are you doing?
+Dialogue: 0,1:14:55.16,1:14:56.20,Default,,0,0,0,,我要杀了这女孩\NI'm killing this girl!
+Dialogue: 0,1:14:56.44,1:14:58.82,Default,,0,0,0,,天呐 泰特斯 我们没时间陪你...\NJesus Christ, Titus, we don't have time...!
+Dialogue: 0,1:15:16.04,1:15:17.04,Default,,0,0,0,,泰特斯 等等\NTitus, wait!
+Dialogue: 0,1:15:20.87,1:15:21.95,Default,,0,0,0,,我们可以利用她\NWe can use her.
+Dialogue: 0,1:15:25.31,1:15:26.31,Default,,0,0,0,,费丝\NFaith!
+Dialogue: 0,1:15:30.46,1:15:31.46,Default,,0,0,0,,费丝\NFaith!
+Dialogue: 0,1:15:32.88,1:15:36.58,Default,,0,0,0,,格蕾丝 我知道你在外面\NGrace, I know you're out there.
+Dialogue: 0,1:15:36.86,1:15:40.20,Default,,0,0,0,,我抓到了你妹妹 格蕾丝\NI have your sister, Grace.
+Dialogue: 0,1:15:41.46,1:15:45.86,Default,,0,0,0,,别担心 她...嗯 她好得很\NDon't you worry, she's doing... well, she's doing just peachy.
+Dialogue: 0,1:15:49.21,1:15:49.99,Default,,0,0,0,,说话\NGo on
+Dialogue: 0,1:15:51.22,1:15:52.22,Default,,0,0,0,,格蕾丝\NGrace?
+Dialogue: 0,1:15:53.60,1:15:54.60,Default,,0,0,0,,格蕾丝\NGrace?
+Dialogue: 0,1:15:54.70,1:15:55.70,Default,,0,0,0,,好啊\NYeah.
+Dialogue: 0,1:15:56.43,1:16:00.66,Default,,0,0,0,,如果你在接下来的十分钟内不回到大厅 她就会死\NIf you don't return to the lobby within the next ten minutes, she dies.
+Dialogue: 0,1:16:00.98,1:16:02.50,Default,,0,0,0,,格蕾丝 别管我\NGrace, just leave me.
+Dialogue: 0,1:16:02.72,1:16:03.28,Default,,0,0,0,,格蕾丝 别管我\NGrace, just leave me.
+Dialogue: 0,1:16:03.28,1:16:05.42,Default,,0,0,0,,她死后 我会找到你 格蕾丝\NAfter she's dead, I'm gonna find you, Grace,
+Dialogue: 0,1:16:05.42,1:16:07.48,Default,,0,0,0,,不管你在哪儿 我都会杀了你\Nwherever you are, and I'm gonna kill you.
+Dialogue: 0,1:16:07.56,1:16:13.40,Default,,0,0,0,,如果你想救你的妹妹 滚到大厅来\NSo, if you want to save your sister, get your ass to the lobby.
+Dialogue: 0,1:16:20.56,1:16:21.13,Default,,0,0,0,,嘿\NHey.
+Dialogue: 0,1:16:22.49,1:16:24.58,Default,,0,0,0,,在我杀了你姐姐后\NAfter I kill your sister...
+Dialogue: 0,1:16:26.00,1:16:27.70,Default,,0,0,0,,我和你好好玩玩\N...you and I are gonna have more fun.
+Dialogue: 0,1:16:29.98,1:16:31.12,Default,,0,0,0,,把她带去小屋\NTake her to the lodge.
+Dialogue: 0,1:16:41.86,1:16:46.22,Default,,0,0,0,,Borcolasky 原创听译校正\Nsubhd.tv
+Dialogue: 0,1:17:43.71,1:17:45.29,Default,,0,0,0,,回来第二轮了 婊子\NBack for round two, bitch!
+Dialogue: 0,1:17:45.41,1:17:46.41,Default,,0,0,0,,对\NYeah.
+Dialogue: 0,1:17:48.69,1:17:50.21,Default,,0,0,0,,替我向亚历克斯问好\NSay hi to Alex for me.
+Dialogue: 0,1:17:55.02,1:17:56.20,Default,,0,0,0,,她他妈在这里\NShe's fucking here.
+Dialogue: 0,1:17:56.84,1:17:58.20,Default,,0,0,0,,哦 天呐\NOh, Christ!
+Dialogue: 0,1:17:58.49,1:18:00.60,Default,,0,0,0,,帮帮我 你这混蛋\NHelp me, you fucking turd!
+Dialogue: 0,1:18:05.65,1:18:06.15,Default,,0,0,0,,费丝\NFaith!
+Dialogue: 0,1:18:07.33,1:18:08.33,Default,,0,0,0,,格蕾丝\NGrace?
+Dialogue: 0,1:18:20.02,1:18:21.48,Default,,0,0,0,,我妹妹在哪儿？\NWhere's my sister?
+Dialogue: 0,1:18:23.27,1:18:24.27,Default,,0,0,0,,我不知道\NI don't know.
+Dialogue: 0,1:18:24.82,1:18:26.21,Default,,0,0,0,,我不玩了\NI'm not playing anymore.
+Dialogue: 0,1:18:27.32,1:18:28.70,Default,,0,0,0,,我是个无辜的旁观者\NI'm an innocent bystander.
+Dialogue: 0,1:18:29.11,1:18:31.12,Default,,0,0,0,,哦 妈的 妈的 妈的\NOh shit, shit, shit!
+Dialogue: 0,1:18:32.44,1:18:33.16,Default,,0,0,0,,操\NFuck!
+Dialogue: 0,1:18:33.30,1:18:34.30,Default,,0,0,0,,格蕾丝\NGrace?
+Dialogue: 0,1:18:36.50,1:18:37.50,Default,,0,0,0,,格蕾丝\NGrace?
+Dialogue: 0,1:18:37.54,1:18:38.54,Default,,0,0,0,,费丝\NFaith!
+Dialogue: 0,1:18:42.12,1:18:42.72,Default,,0,0,0,,费丝\NFaith!
+Dialogue: 0,1:18:54.31,1:18:55.31,Default,,0,0,0,,费丝\NFaith!
+Dialogue: 0,1:18:56.48,1:18:57.41,Default,,0,0,0,,她在哪儿？\NWhere is she?
+Dialogue: 0,1:18:57.57,1:18:58.41,Default,,0,0,0,,我不知道\NI don't know.
+Dialogue: 0,1:18:58.57,1:18:59.23,Default,,0,0,0,,我不知道\NI don't know.
+Dialogue: 0,1:18:59.35,1:19:00.97,Default,,0,0,0,,告诉我她在哪儿？\NTell me where she is!
+Dialogue: 0,1:19:00.97,1:19:01.97,Default,,0,0,0,,我不...\NI don't...
+Dialogue: 0,1:19:03.44,1:19:05.73,Default,,0,0,0,,告诉我她在哪儿？\NTell me where she is.
+Dialogue: 0,1:19:05.81,1:19:06.15,Default,,0,0,0,,啊!\NAh!
+Dialogue: 0,1:19:06.23,1:19:06.59,Default,,0,0,0,,天呐\NGod!
+Dialogue: 0,1:19:06.67,1:19:07.67,Default,,0,0,0,,啊!\NAh!
+Dialogue: 0,1:19:10.72,1:19:12.24,Default,,0,0,0,,让我们起舞吧 婊子\NLet's dance, puta!
+Dialogue: 0,1:19:12.47,1:19:13.47,Default,,0,0,0,,妈的\NShit.
+Dialogue: 0,1:19:35.32,1:19:35.91,Default,,0,0,0,,操\NFuck.
+Dialogue: 0,1:19:59.40,1:20:00.48,Default,,0,0,0,,快给我出来格蕾丝\NGet out of there, Grace!
+Dialogue: 0,1:20:00.48,1:20:00.76,Default,,0,0,0,,格蕾丝\NGrace!
+Dialogue: 0,1:20:00.76,1:20:00.90,Default,,0,0,0,,格蕾丝\NGrace!
+Dialogue: 0,1:20:00.90,1:20:01.34,Default,,0,0,0,,操\NFuck you!
+Dialogue: 0,1:20:01.58,1:20:03.82,Default,,0,0,0,,那块玻璃虽然有两英寸厚\NThat glass may be two inches thick, but I can still
+Dialogue: 0,1:20:03.83,1:20:05.72,Default,,0,0,0,,但我照样能把你妹妹的脑浆喷得满窗都是\Nblow your sister's brains all over this window.
+Dialogue: 0,1:20:05.90,1:20:05.96,Default,,0,0,0,,格蕾丝\NGrace!
+Dialogue: 0,1:20:05.98,1:20:07.10,Default,,0,0,0,,你只有三秒钟\NYou only have three seconds.
+Dialogue: 0,1:20:07.44,1:20:09.10,Default,,0,0,0,,- 三... - 别这么做\N- Three... - Don't do it!
+Dialogue: 0,1:20:09.48,1:20:09.96,Default,,0,0,0,,二...\NTwo...
+Dialogue: 0,1:20:10.11,1:20:11.79,Default,,0,0,0,,别听他的\NDon't listen to him!
+Dialogue: 0,1:20:13.88,1:20:15.14,Default,,0,0,0,,- 一... - 行\N- One... - Okay!
+Dialogue: 0,1:20:15.20,1:20:15.40,Default,,0,0,0,,很好\NOkay!
+Dialogue: 0,1:20:15.40,1:20:15.68,Default,,0,0,0,,停手\NStop!
+Dialogue: 0,1:20:15.80,1:20:15.96,Default,,0,0,0,,停手\NStop!
+Dialogue: 0,1:20:16.04,1:20:16.56,Default,,0,0,0,,我出来\NI'll come out!
+Dialogue: 0,1:20:16.58,1:20:17.04,Default,,0,0,0,,我出来\NI'll come out!
+Dialogue: 0,1:20:17.22,1:20:17.66,Default,,0,0,0,,不要\NNo!
+Dialogue: 0,1:20:17.94,1:20:18.32,Default,,0,0,0,,格蕾丝\NGrace!
+Dialogue: 0,1:20:18.96,1:20:19.44,Default,,0,0,0,,不要出来\NDon't!
+Dialogue: 0,1:20:19.94,1:20:20.94,Default,,0,0,0,,格蕾丝\NGrace!
+Dialogue: 0,1:20:21.50,1:20:23.18,Default,,0,0,0,,如果你嫁给我 格蕾丝...\NIf you marry me... Grace!
+Dialogue: 0,1:20:23.34,1:20:24.34,Default,,0,0,0,,不要\NNo!
+Dialogue: 0,1:20:25.50,1:20:26.30,Default,,0,0,0,,看着我\NLook at me!
+Dialogue: 0,1:20:26.44,1:20:29.67,Default,,0,0,0,,我宁可死也不愿让你失去灵魂\NI would rather die than you lose your soul!
+Dialogue: 0,1:20:31.30,1:20:35.00,Default,,0,0,0,,那个女人说 这一切都有漏洞\NThat woman, she said there's a loophole to all this.
+Dialogue: 0,1:20:37.11,1:20:45.39,Default,,0,0,0,,她说 如果我们结婚 你就能得到席位 而我也能活下去\NShe said if we get married, you get your seat, and I get to live.
+Dialogue: 0,1:20:54.19,1:20:57.64,Default,,0,0,0,,不知道我们能不能在天亮前把她弄出来\NDon't know if we'll be able to get her out before dawn.
+Dialogue: 0,1:21:00.85,1:21:01.47,Default,,0,0,0,,去他的\NFuck it.
+Dialogue: 0,1:21:01.68,1:21:02.99,Default,,0,0,0,,我接受你的求婚\NI accept your proposal.
+Dialogue: 0,1:21:03.05,1:21:04.05,Default,,0,0,0,,不\NNo!
+Dialogue: 0,1:21:09.89,1:21:10.31,Default,,0,0,0,,好的\NOkay.
+Dialogue: 0,1:21:11.64,1:21:12.23,Default,,0,0,0,,好\NOkay, Good.
+Dialogue: 0,1:21:12.84,1:21:13.84,Default,,0,0,0,,很好\NGood.
+Dialogue: 0,1:21:15.14,1:21:17.41,Default,,0,0,0,,我得先得到一些保证 这样我才放心\NI'm going to need some assurances first so I know
+Dialogue: 0,1:21:17.41,1:21:20.21,Default,,0,0,0,,我出来的时候 你可别把我们俩都杀了\Nyou're not just going to kill us both when I come out.
+Dialogue: 0,1:21:20.36,1:21:22.36,Default,,0,0,0,,我向你发誓...哦 别向我发誓\NI swear to you... Oh, don't swear to me!
+Dialogue: 0,1:21:22.73,1:21:23.86,Default,,0,0,0,,他妈的白痴\NFucking shit for brains!
+Dialogue: 0,1:21:23.94,1:21:25.29,Default,,0,0,0,,向勒贝尔先生发誓\NSwear to Mr. LeBail!
+Dialogue: 0,1:21:28.32,1:21:33.20,Default,,0,0,0,,我向勒贝尔先生发誓 不会伤害你或你妹妹\NI swear to Mr. LeBail that no harm shall come to you or your sister.
+Dialogue: 0,1:21:50.28,1:21:51.52,Default,,0,0,0,,你不能\NYou can't...
+Dialogue: 0,1:21:54.99,1:21:55.99,Default,,0,0,0,,我很抱歉\NI'm so sorry.
+Dialogue: 0,1:22:18.84,1:22:21.13,Default,,0,0,0,,我会让人把你需要的一切都拿来\NI'll have everything you need brought in.
+Dialogue: 0,1:22:22.04,1:22:23.51,Default,,0,0,0,,做好准备\NGet ready.
+Dialogue: 0,1:22:25.99,1:22:28.01,Default,,0,0,0,,参加加冕典礼的宾客已经陆续抵达\NThe guests are already arriving for coronation.
+Dialogue: 0,1:23:42.10,1:23:44.04,Default,,0,0,0,,我想我们不妨干杯庆祝一下\NI thought maybe we could have a toast.
+Dialogue: 0,1:23:45.45,1:23:46.72,Default,,0,0,0,,我们就要成为一家人了\NWe're about to become family.
+Dialogue: 0,1:24:03.16,1:24:04.52,Default,,0,0,0,,格蕾丝 我从没想伤害你\NGrace, I never wanted to hurt you.
+Dialogue: 0,1:24:05.96,1:24:07.16,Default,,0,0,0,,但是我必须遵守规则\NBut I had to follow the rules.
+Dialogue: 0,1:24:08.68,1:24:10.49,Default,,0,0,0,,听着 我们时间不多了\NListen, we don't have a lot of time.
+Dialogue: 0,1:24:11.98,1:24:12.98,Default,,0,0,0,,所以我就直说了\NSo I'm just gonna say it.
+Dialogue: 0,1:24:16.62,1:24:17.33,Default,,0,0,0,,我害怕\NI'm scared.
+Dialogue: 0,1:24:18.43,1:24:19.43,Default,,0,0,0,,我哥哥\NIt's my brother.
+Dialogue: 0,1:24:21.95,1:24:23.21,Default,,0,0,0,,我不明白\NI didn't understand...
+Dialogue: 0,1:24:24.53,1:24:25.97,Default,,0,0,0,,他到底是谁\Nwho he really is.
+Dialogue: 0,1:24:28.10,1:24:29.49,Default,,0,0,0,,我花了一辈子\NI spent my whole life...
+Dialogue: 0,1:24:30.04,1:24:31.53,Default,,0,0,0,,寻找他身上的优点\Nsearching for the good in him.
+Dialogue: 0,1:24:33.69,1:24:34.71,Default,,0,0,0,,你知道我找到了什么\NYou know what I found?
+Dialogue: 0,1:24:37.89,1:24:38.89,Default,,0,0,0,,什么都没有\NNothing.
+Dialogue: 0,1:24:40.73,1:24:43.39,Default,,0,0,0,,他妈什么也没有\NAbsolutely fucking nothing.
+Dialogue: 0,1:24:44.16,1:24:46.27,Default,,0,0,0,,我以为我能控制住他\NI thought I could keep him in check.
+Dialogue: 0,1:24:47.41,1:24:48.41,Default,,0,0,0,,但他已经失控了\NBut he's lost it.
+Dialogue: 0,1:24:49.79,1:24:51.35,Default,,0,0,0,,格蕾丝 我需要你的帮助\NGrace, I need your help.
+Dialogue: 0,1:24:52.96,1:24:54.98,Default,,0,0,0,,我们必须一起努力控制他\NWe have to try to control him together.
+Dialogue: 0,1:24:55.51,1:24:57.65,Default,,0,0,0,,拥有一个席位不见得就是坏事\NHaving a seat doesn't have to be bad.
+Dialogue: 0,1:24:59.14,1:25:01.22,Default,,0,0,0,,想想我们能用那种权力做多少好事\NThink about all the good we could do with that power.
+Dialogue: 0,1:25:01.98,1:25:03.90,Default,,0,0,0,,但我需要你在我身边\NBut I need you at my side.
+Dialogue: 0,1:25:04.36,1:25:05.36,Default,,0,0,0,,嘿 格蕾丝\NHey, Grace.
+Dialogue: 0,1:25:06.43,1:25:07.95,Default,,0,0,0,,你不像我们\NYou're not like us.
+Dialogue: 0,1:25:09.69,1:25:10.97,Default,,0,0,0,,你有希望\NYou have hope.
+Dialogue: 0,1:25:16.17,1:25:17.49,Default,,0,0,0,,我现在没有\NI don't now.
+Dialogue: 0,1:25:21.92,1:25:23.07,Default,,0,0,0,,是你夺走了它\NYou took it from me.
+Dialogue: 0,1:25:32.21,1:25:33.21,Default,,0,0,0,,我们很擅长这个\NWe are good at that.
+Dialogue: 0,1:25:50.78,1:25:51.78,Default,,0,0,0,,来点姐妹时间\NA little girl time.
+Dialogue: 0,1:25:58.40,1:26:00.40,Default,,0,0,0,,谢谢你让我看清了你的真面目\NThank you for showing me who you really are.
+Dialogue: 0,1:26:01.55,1:26:02.50,Default,,0,0,0,,泰特斯 听我解释...\NTitus, it's not a ...
+Dialogue: 0,1:26:05.00,1:26:06.00,Default,,0,0,0,,泰特斯 停下\NTitus, stop.
+Dialogue: 0,1:26:08.54,1:26:09.78,Default,,0,0,0,,你想控制我\NYou want to control me.
+Dialogue: 0,1:26:09.90,1:26:10.28,Default,,0,0,0,,不\NNo.
+Dialogue: 0,1:26:10.77,1:26:12.06,Default,,0,0,0,,你想要所有的权力\NYou want all the power for yourself.
+Dialogue: 0,1:26:12.22,1:26:12.44,Default,,0,0,0,,不\NNo.
+Dialogue: 0,1:26:12.72,1:26:13.36,Default,,0,0,0,,你想\NYou do.
+Dialogue: 0,1:26:13.48,1:26:13.96,Default,,0,0,0,,你就是这么想的\NYou do.
+Dialogue: 0,1:26:14.08,1:26:15.06,Default,,0,0,0,,你总是这样\NYou always do.
+Dialogue: 0,1:26:15.10,1:26:15.94,Default,,0,0,0,,你总是这样\NYou always do.
+Dialogue: 0,1:26:16.00,1:26:17.00,Default,,0,0,0,,泰特斯 停下 求你了\NTitus stop, please!
+Dialogue: 0,1:26:17.08,1:26:18.08,Default,,0,0,0,,看着我 格蕾丝\NLook at me, Grace.
+Dialogue: 0,1:26:18.40,1:26:19.46,Default,,0,0,0,,看着我 格蕾丝\NGrace, look at me!
+Dialogue: 0,1:26:20.52,1:26:21.96,Default,,0,0,0,,再来一次 还是看着我\NAnother take or look at me?
+Dialogue: 0,1:26:22.02,1:26:23.60,Default,,0,0,0,,我要你看到这个 格蕾丝\NI want you to see this, Grace.
+Dialogue: 0,1:26:23.88,1:26:24.88,Default,,0,0,0,,我要你看到这个\NI want you to see this.
+Dialogue: 0,1:26:25.00,1:26:25.63,Default,,0,0,0,,格蕾丝\NGrace!
+Dialogue: 0,1:26:27.00,1:26:28.38,Default,,0,0,0,,我要你看到我是谁\NI want you to see who I am.
+Dialogue: 0,1:26:28.38,1:26:32.81,Default,,0,0,0,,我要你看清楚 我不是一个可以被人掌控的人\NI want you to see that I am not a man who can be controlled.
+Dialogue: 0,1:26:33.94,1:26:34.90,Default,,0,0,0,,你提到了规则\NYou mentioned the rules.
+Dialogue: 0,1:26:35.38,1:26:38.08,Default,,0,0,0,,规则里没有关于杀害家族成员的内容\NThere's nothing in the rules about killing a family member.
+Dialogue: 0,1:26:56.87,1:26:58.57,Default,,0,0,0,,现在来试试控制我啊\NTry to keep me in check now.
+Dialogue: 0,1:27:00.18,1:27:01.18,Default,,0,0,0,,试试看\NJust try it.
+Dialogue: 0,1:27:16.37,1:27:17.89,Default,,0,0,0,,我告诉过你 会是我抓住你\NI told you it would be me who got you.
+Dialogue: 0,1:27:26.55,1:27:27.59,Default,,0,0,0,,我们祭坛见\NI'll see you at the altar.
+Dialogue: 0,1:29:38.19,1:29:40.94,Default,,0,0,0,,你不能...这么做\NYou can't...do this
+Dialogue: 0,1:29:42.45,1:29:43.55,Default,,0,0,0,,我必须这么做\NI have to.
+Dialogue: 0,1:29:43.94,1:29:44.94,Default,,0,0,0,,没有别的办法\NThere's no other way.
+Dialogue: 0,1:29:50.91,1:29:51.91,Default,,0,0,0,,没事的\NIt's okay.
+Dialogue: 0,1:30:04.84,1:30:05.84,Default,,0,0,0,,谢姆·汉普拉\NShem HaMephorash!
+Dialogue: 0,1:30:07.42,1:30:09.14,Default,,0,0,0,,我他妈什么都看不见\NI can't see shit move.
+Dialogue: 0,1:30:10.68,1:30:13.06,Default,,0,0,0,,至高无上的撒旦路西法之名\NNomine satani Lucifer excelsis.
+Dialogue: 0,1:30:13.18,1:30:16.49,Default,,0,0,0,,奉我们伟大而永恒的恩主之名\NIn the name of our great and eternal benefactor,
+Dialogue: 0,1:30:16.49,1:30:19.70,Default,,0,0,0,,请现身 赐福予众人\Ncome forth and bestow your blessing upon these.
+Dialogue: 0,1:30:19.78,1:30:27.02,Default,,0,0,0,,以撒旦 路西法 巴利尔 利维坦之名 现身并作证\NIn the names of Satan, Lucifer, Baliel, Leviathan, come forth and bear witness.
+Dialogue: 0,1:30:27.48,1:30:28.52,Default,,0,0,0,,撒旦万岁\NHail Satan.
+Dialogue: 0,1:30:28.88,1:30:30.34,Default,,0,0,0,,撒旦万岁\NHail Satan!
+Dialogue: 0,1:30:31.01,1:30:32.26,Default,,0,0,0,,欢迎 各位\NWelcome, everyone.
+Dialogue: 0,1:30:33.24,1:30:34.88,Default,,0,0,0,,我很高兴有这么多人能来\NI'm pleased so many of you could make it.
+Dialogue: 0,1:30:35.60,1:30:40.96,Default,,0,0,0,,不仅在这个美好的早晨举行加冕仪式 我们还有一场婚礼\NNot only do we have our coronation this fine morning, we also have a wedding.
+Dialogue: 0,1:30:41.90,1:30:43.48,Default,,0,0,0,,我们的福杯满盈\NOur cup runneth over.
+Dialogue: 0,1:31:14.12,1:31:15.12,Default,,0,0,0,,泰特斯\NTitus.
+Dialogue: 0,1:31:31.07,1:31:32.13,Default,,0,0,0,,请伸出你的手\NYour hand, please.
+Dialogue: 0,1:31:57.13,1:32:00.96,Default,,0,0,0,,既然你们的誓言是出于本意 且受撒旦之力所驱使\NYour vows being made by intent, by the power of Satan,
+Dialogue: 0,1:32:00.96,1:32:03.95,Default,,0,0,0,,我现在宣布你们彼此归属\NI now confer the possession of each other upon you.
+Dialogue: 0,1:32:04.81,1:32:06.65,Default,,0,0,0,,泰特斯·切斯特·丹福斯\NTitus Chester Danforth.
+Dialogue: 0,1:32:06.92,1:32:09.48,Default,,0,0,0,,你愿意娶这位女士 并承诺与她共度今生与来世吗？\NDo you take this woman, in this world and the next?
+Dialogue: 0,1:32:09.77,1:32:10.94,Default,,0,0,0,,哪怕是下地狱的烈火？\NUnto the fires of hell?
+Dialogue: 0,1:32:10.96,1:32:11.96,Default,,0,0,0,,我愿意\NI do.
+Dialogue: 0,1:32:20.14,1:32:24.97,Default,,0,0,0,,而你 格蕾丝·伊丽莎白·麦考利·勒多马斯 愿意接受这个男人\NAnd do you, Grace Elizabeth MacCaullay Le Domas, take this man to be yours?
+Dialogue: 0,1:32:25.72,1:32:28.77,Default,,0,0,0,,在肉体和精神上 并承诺与他共度今生与来世吗？\NIn flesh and spirit, in this world and the next?
+Dialogue: 0,1:32:29.26,1:32:30.59,Default,,0,0,0,,哪怕是下地狱的烈火？\NUnto the fires of hell?
+Dialogue: 0,1:32:32.59,1:32:33.59,Default,,0,0,0,,我愿意\NI do.
+Dialogue: 0,1:32:50.03,1:32:53.69,Default,,0,0,0,,他在地狱中锻造之物 任凭凡人休想拆解\NWhat he hath forged in hell, let no mortal tear asunder.
+Dialogue: 0,1:32:54.57,1:32:57.09,Default,,0,0,0,,主啊 我们奉你的名祈求\NWe ask this in thy name, O Lord.
+Dialogue: 0,1:32:58.48,1:33:00.91,Default,,0,0,0,,我现在宣布你们结为夫妻\NI now pronounce you man and wife.
+Dialogue: 0,1:33:03.08,1:33:04.08,Default,,0,0,0,,你可以亲吻新娘了\NYou may kiss the bride.
+Dialogue: 0,1:33:36.14,1:33:40.83,Default,,0,0,0,,泰特斯·丹福斯 特此授予利贝西亚议会至高席位\NTitus Danforth, is hereby granted the high seat of the council of Libecia.
+Dialogue: 0,1:33:48.06,1:33:48.74,Default,,0,0,0,,撒旦万岁\NHail Satan.
+Dialogue: 0,1:33:48.78,1:33:50.34,Default,,0,0,0,,撒旦万岁\NHail Satan!
+Dialogue: 0,1:33:50.90,1:33:51.74,Default,,0,0,0,,撒旦万岁\NHail Satan!
+Dialogue: 0,1:33:51.82,1:33:52.72,Default,,0,0,0,,撒旦万岁\NHail Satan!
+Dialogue: 0,1:33:52.72,1:33:53.80,Default,,0,0,0,,撒旦万岁\NHail Satan!
+Dialogue: 0,1:34:09.46,1:34:10.49,Default,,0,0,0,,搞什么\NWhat the fuck?
+Dialogue: 0,1:34:33.69,1:34:37.81,Default,,0,0,0,,杀死自己的家族成员不违反规则\NIt's not against the rules to kill a family member.
+Dialogue: 0,1:34:38.50,1:34:39.53,Default,,0,0,0,,感谢你的提醒\NThank you for that
+Dialogue: 0,1:34:42.39,1:34:46.01,Default,,0,0,0,,是我抓住了你\NIt's me who got you.
+Dialogue: 0,1:35:14.45,1:35:15.84,Default,,0,0,0,,他妈发生了什么\Nthe fuck is happening?
+Dialogue: 0,1:35:33.10,1:35:34.56,Default,,0,0,0,,跪下\NGet on your knees!
+Dialogue: 0,1:35:40.08,1:35:41.36,Default,,0,0,0,,舍姆·哈姆·法拉什\NShem HaMephorash.
+Dialogue: 0,1:35:42.52,1:35:43.92,Default,,0,0,0,,舍姆·哈姆·法拉什\NShem HaMephorash.
+Dialogue: 0,1:35:46.77,1:35:47.97,Default,,0,0,0,,舍姆·哈姆·法拉什\NShem HaMephorash.
+Dialogue: 0,1:35:48.12,1:35:49.27,Default,,0,0,0,,舍姆·哈姆·法拉什\NShem HaMephorash.
+Dialogue: 0,1:35:57.90,1:35:59.58,Default,,0,0,0,,这意味着我可以为所欲为 对吧\NThis means I can do whatever I want, right?
+Dialogue: 0,1:35:59.68,1:36:00.68,Default,,0,0,0,,对的\NThat is correct.
+Dialogue: 0,1:36:02.60,1:36:03.60,Default,,0,0,0,,哈\NHuh.
+Dialogue: 0,1:36:14.73,1:36:16.20,Default,,0,0,0,,我可以领导这个组织\NI could lead this organization.
+Dialogue: 0,1:36:17.43,1:36:19.23,Default,,0,0,0,,我可以改变世界\NI could change the world.
+Dialogue: 0,1:36:25.14,1:36:31.61,Default,,0,0,0,,因此 作为我担任最高委员会主席后的第一项举措\NSo as my first act as the head of your high council
+Dialogue: 0,1:36:33.34,1:36:36.67,Default,,0,0,0,,我特此宣布将我自己从\NI hereby remove myself from
+Dialogue: 0,1:36:36.87,1:36:41.04,Default,,0,0,0,,这个委员会 以及这整个他妈的组织中移除\Nthe council and this entire fucking organization!
+Dialogue: 0,1:36:43.79,1:36:44.86,Default,,0,0,0,,兄弟 她可以那样做吗\NBro, can she even do that?
+Dialogue: 0,1:36:45.61,1:36:49.27,Default,,0,0,0,,出人意料的是 章程对此几乎只字未提\NThere's surprisingly little language about this in the bylaws, since no one believed
+Dialogue: 0,1:36:49.27,1:36:51.31,Default,,0,0,0,,因为没有人相信会有人愿意主动放弃如此大的权力\Nanyone would ever willingly give away so much power.
+Dialogue: 0,1:36:51.55,1:36:53.91,Default,,0,0,0,,好吧 但然后谁得到那个该死的席位\NOkay, but then who gets the fucking seat?
+Dialogue: 0,1:36:54.27,1:36:55.67,Default,,0,0,0,,黎明前谁戴着戒指就是谁\NWhoever's wearing the ring by dawn.
+Dialogue: 0,1:36:56.09,1:36:57.09,Default,,0,0,0,,黎明什么时候\NWhen's dawn?
+Dialogue: 0,1:36:59.18,1:37:01.25,Default,,0,0,0,,大约三分钟后\NIn three minutes, give or take.
+Dialogue: 0,1:37:03.61,1:37:05.75,Default,,0,0,0,,但只有议会家族还是\NBut it's just the council families or...
+Dialogue: 0,1:37:06.53,1:37:07.53,Default,,0,0,0,,严格来说任何人\NLiterally anyone.
+Dialogue: 0,1:37:09.07,1:37:13.15,Default,,0,0,0,,而你说如果黎明前没人戴戒指 勒贝尔先生会\NAnd you said if no one's wearing the ring by dawn, Mr. LeBail would be...
+Dialogue: 0,1:37:13.71,1:37:14.71,Default,,0,0,0,,非常不高兴\NVery upset.
+Dialogue: 0,1:37:16.05,1:37:17.65,Default,,0,0,0,,非常不高兴\NVery upset.
+Dialogue: 0,1:37:30.57,1:37:34.33,Default,,0,0,0,,去吃屎吧 你们这些近亲繁殖的混蛋\NChoke on it, you inbred fucks!
+Dialogue: 0,1:37:48.58,1:37:50.25,Default,,0,0,0,,我来了 我的上帝\NI'm coming, my lord!
+Dialogue: 0,1:37:50.34,1:37:52.11,Default,,0,0,0,,舍姆·哈姆·法拉什\NShem HaMephorash!
+Dialogue: 0,1:37:52.99,1:37:53.78,Default,,0,0,0,,撒旦万岁\NHail Satan!
+Dialogue: 0,1:37:53.96,1:37:54.96,Default,,0,0,0,,开战\NFire!
+Dialogue: 0,1:37:58.08,1:37:59.62,Default,,0,0,0,,操 操 操 操\NFuck, fuck, fuck, fuck!
+Dialogue: 0,1:38:00.43,1:38:01.67,Default,,0,0,0,,哦 哇\NOh, wow!
+Dialogue: 0,1:38:02.79,1:38:03.93,Default,,0,0,0,,我会杀了你的\NI'll kill you.
+Dialogue: 0,1:38:08.66,1:38:09.66,Default,,0,0,0,,操...\NFucking...
+Dialogue: 0,1:38:12.14,1:38:14.70,Default,,0,0,0,,总得有人把这一切付之一炬\NSomeone had to burn it all down.
+Dialogue: 0,1:38:15.90,1:38:17.94,Default,,0,0,0,,你很擅长毁掉一切\NYou are good at destroying things.
+Dialogue: 0,1:38:33.10,1:38:34.10,Default,,0,0,0,,你自由了\NYou're free.
+Dialogue: 0,1:38:36.80,1:38:37.80,Default,,0,0,0,,嗯\NMhm.
+Dialogue: 0,1:38:37.82,1:38:38.82,Default,,0,0,0,,再见\NSee ya.
+Dialogue: 0,1:38:39.10,1:38:40.10,Default,,0,0,0,,拜\NBye.
+Dialogue: 0,1:38:41.68,1:38:42.88,Default,,0,0,0,,你好呀\NHi, yeah.
+Dialogue: 0,1:38:44.40,1:38:45.98,Default,,0,0,0,,嘿 对 别看那里\NHey, yeah, don't look there.
+Dialogue: 0,1:38:52.79,1:38:53.79,Default,,0,0,0,,哎哟\NOops
+Dialogue: 0,1:40:35.93,1:40:37.07,Default,,0,0,0,,操 太爽了\NFuck yeah!
+Dialogue: 0,1:40:37.74,1:40:39.53,Default,,0,0,0,,我还活着 婊子们\NI'm alive, bitches!
+Dialogue: 0,1:40:40.46,1:40:41.56,Default,,0,0,0,,我们成功了\NWe made it!
+Dialogue: 0,1:40:41.66,1:40:43.30,Default,,0,0,0,,我们做到了\NWe made it!
+Dialogue: 0,1:40:43.35,1:40:45.05,Default,,0,0,0,,我了个大草\NHoly fucking shit!
+Dialogue: 0,1:40:45.23,1:40:48.22,Default,,0,0,0,,我已经脱离了组织 所以才幸免于难\NI've renounced my pack, so I've been spared too!
+Dialogue: 0,1:40:48.77,1:40:49.45,Default,,0,0,0,,让我们他妈的开派对\NLet's fucking party!
+Dialogue: 0,1:40:51.07,1:40:52.35,Default,,0,0,0,,天\NJesus Christ!
+Dialogue: 0,1:41:17.67,1:41:18.31,Default,,0,0,0,,咩\NMeow.
+Dialogue: 0,1:41:20.26,1:41:21.28,Default,,0,0,0,,我们能走了吗\NCan we go?
+Dialogue: 0,1:41:22.06,1:41:22.70,Default,,0,0,0,,咩\NMeow.
+Dialogue: 0,1:41:22.86,1:41:23.86,Default,,0,0,0,,好的\NOkay.
+Dialogue: 0,1:41:52.02,1:41:53.30,Default,,0,0,0,,哈 火箭筒\NHah..Rocket launcher.
+Dialogue: 0,1:42:01.05,1:42:02.43,Default,,0,0,0,,快 我们走\NCome on, let's go!
+Dialogue: 0,1:42:32.96,1:42:33.96,Default,,0,0,0,,我爱你\NI love you.
+Dialogue: 0,1:42:37.30,1:42:38.30,Default,,0,0,0,,我也爱你\NI love you too.
+Dialogue: 0,1:42:42.17,1:42:43.17,Default,,0,0,0,,我想你了\NI missed you.
+Dialogue: 0,1:42:45.08,1:42:47.90,Default,,0,0,0,,是啊 不过你知道 以后我不必再这么想了\NYeah, well, you know, I'm not gonna have to anymore.
+Dialogue: 0,1:42:48.00,1:42:49.68,Default,,0,0,0,,你会他妈烦死我的\NYou're gonna get really fucking sick of me.
+Dialogue: 0,1:42:53.03,1:42:54.03,Default,,0,0,0,,保证\NPromise?
+Dialogue: 0,1:42:58.88,1:42:59.88,Default,,0,0,0,,我保证\NI do.
+Dialogue: 0,1:43:18.16,1:43:19.12,Default,,0,0,0,,你打算怎么处理那只山羊\NWhat are you gonna do with the goat?
+Dialogue: 0,1:43:19.14,1:43:20.14,Default,,0,0,0,,我不知道\NI don't know.
+Dialogue: 0,1:43:20.18,1:43:22.18,Default,,0,0,0,,你这周打算结几次婚\NHow many times are you gonna get married this week?
+Dialogue: 0,1:43:23.00,1:43:24.00,Default,,0,0,0,,太快了\NIt's too soon.
+Dialogue: 0,1:43:24.32,1:43:25.14,Default,,0,0,0,,肯定破纪录了\NIt's gotta be a record.
+Dialogue: 0,1:43:25.14,1:43:26.14,Default,,0,0,0,,哦\NOh.
+Dialogue: 0,1:43:26.22,1:43:27.30,Default,,0,0,0,,我们要去医院\NWe're gonna go to the hospital.
+Dialogue: 0,1:43:28.50,1:43:29.50,Default,,0,0,0,,我要去洗个澡\NI need a bath.
+Dialogue: 0,1:43:29.62,1:43:30.62,Default,,0,0,0,,我也感觉快臭了\NI stink too
+Dialogue: 0,1:43:32.34,1:43:35.30,Default,,0,0,0,,Borcolasky 原创听译校正\Nsubhd.tv
