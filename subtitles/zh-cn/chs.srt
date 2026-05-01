@@ -5,282 +5,227 @@
 2
 00:00:24,250 --> 00:00:33,040
 {\an7}<i>♪ 今晚你属于我 ♪
-♪ Tonight you're mine completely ♪</i>
 
 3
 00:00:34,450 --> 00:00:42,080
 {\an7}<i>♪ 你把爱给得温柔如蜜 ♪
-♪ You give your love so sweetly ♪</i>
 
 4
 00:00:43,760 --> 00:00:53,670
 {\an7}<i>♪ 今夜你眼里有爱的光辉 ♪
-♪ Tonight the light of love is in your eyes ♪</i>
 
 5
 00:00:55,110 --> 00:01:03,630
 {\an7}<i>♪ 但明天你还会爱我吗？ ♪
-♪ Will you still love me tomorrow? ♪</i>
 
 6
 00:01:19,040 --> 00:01:21,260
 请稍等...
-One minute...
 
 7
 00:01:21,270 --> 00:01:23,810
 快派个人去那里
-Get somebody down there
 
 8
 00:01:26,500 --> 00:01:28,300
 女士 您还好吗？
-Ma'am, are you okay?
 
 9
 00:01:28,540 --> 00:01:29,740
 您能听见我说话吗？
-Can you hear me?
 
 10
 00:01:30,730 --> 00:01:32,080
-南草坪上有人受伤 
-I got someone on the south lawn,
+南草坪上有人受伤
 
 11
 00:01:32,100 --> 00:01:34,210
 我们需要急救人员立刻过来
-we need paramedics over here right away
 
 12
 00:01:34,590 --> 00:01:36,560
 收到
-Copy that.
 
 13
 00:01:36,580 --> 00:01:39,330
 天呐 你这是怎么了？
-Jesus Christ, what happened to you?
 
 14
 00:01:42,190 --> 00:01:45,290
-- 婆家 - 你说是婆家吗？
-- In-laws. - Did you say in-laws?
+- 婆家
+- 你说是婆家吗？
 
 15
 00:01:46,180 --> 00:01:48,400
 你的婆家怎么了？女士
-What about your in-laws, ma'am?
 
 16
 00:01:51,240 --> 00:01:52,940
 嘿 嘿 嘿 别昏过去
-Hey, hey, hey, stay with us.
 
 17
 00:01:52,960 --> 00:01:54,730
 睁眼看着我
-Just keep your eyes on me.
 
 18
 00:01:55,110 --> 00:01:56,510
 放松
-Take it easy.
 
 19
 00:01:56,530 --> 00:01:57,950
 慢慢呼吸
-Slow, steady breaths.
 
 20
 00:01:58,780 --> 00:02:00,130
 哇 哇 哇
-Whoa, whoa, whoa!
 
 21
 00:02:00,380 --> 00:02:01,540
 她倒下了
-She's down!
 
 22
 00:02:01,550 --> 00:02:02,890
 把担架抬过来
-Get that stretcher over here!
 
 23
 00:02:05,230 --> 00:02:07,650
 先把她抬上去 数到三一起抬
-Get her loaded up. On my count, one hand down.
 
 24
 00:02:07,670 --> 00:02:08,910
 情况危急
-Critical condition.
 
 25
 00:02:09,030 --> 00:02:09,960
 准备好了吗？
-Ready?
 
 26
 00:02:09,970 --> 00:02:12,030
 一 二 三
-One, two, three!
 
 27
 00:02:17,390 --> 00:02:18,900
 一 二 抬
-One, two... Up!
 
 28
 00:02:24,240 --> 00:02:25,520
 挺住
-Stay with us.
 
 29
 00:02:38,230 --> 00:02:39,020
 她还活着么？
-She in?
 
 30
 00:02:39,030 --> 00:02:40,020
 是
-Yeah.
 
 31
 00:02:42,070 --> 00:02:44,040
 给她测一下生命体征
-Let's get a set of vitals on her.
 
 32
 00:02:44,300 --> 00:02:45,560
 我这就给她接氧气
-I'm gonna get oxygen on.
 
 33
 00:02:46,460 --> 00:02:47,680
 氧气面罩已戴好
-Mask's on.
 
 34
 00:02:48,490 --> 00:02:49,750
 我要检查一下瞳孔
-I'm gonna check pupils.
 
 35
 00:02:50,190 --> 00:02:51,420
 体位性低血压
-Orthostatic.
 
 36
 00:02:56,690 --> 00:02:57,630
 血压测不出
-I don't have a pressure.
 
 37
 00:02:57,650 --> 00:02:58,650
 瞳孔无反应
-No pupil response.
 
 38
 00:02:58,940 --> 00:02:59,940
 检测脉搏
-Let's check her pulse.
 
 39
 00:03:00,400 --> 00:03:01,380
 无脉博
-No pulse.
 
 40
 00:03:01,410 --> 00:03:02,460
 她发生了心脏骤停
-She's in cardiac arrest.
 
 41
 00:03:02,470 --> 00:03:03,470
 开始胸外按压
-Starting compressions.
 
 42
 00:03:04,940 --> 00:03:05,620
 充电中
-Charging.
 
 43
 00:03:05,640 --> 00:03:06,640
 200焦耳
-Two hundred.
 
 44
 00:03:07,300 --> 00:03:08,030
 准备
-Ready.
 
 45
 00:03:08,050 --> 00:03:09,190
 清场
-Clear.
 
 46
 00:03:12,630 --> 00:03:15,110
 正在运送一名体位性低血压的白人女性
-Ortho coming in with a Caucasian female.
 
 47
 00:03:15,120 --> 00:03:16,180
 年龄在二十五岁左右
-Mid to late twenties.
 
 48
 00:03:16,200 --> 00:03:17,200
 处于严重休克状态
-In severe shock.
 
 49
 00:03:17,210 --> 00:03:18,490
 多处撕裂伤
-Multiple lacerations.
 
 50
 00:03:18,750 --> 00:03:20,940
 左手中可能有枪伤
-Possible gunshot wound through the left hand.
 
 51
 00:03:20,950 --> 00:03:21,950
 子弹贯穿
-Through and through.
 
 52
 00:03:22,620 --> 00:03:23,720
 脉搏？
-Pulse.
 
 53
 00:03:23,730 --> 00:03:24,430
 无脉博
-No pulse.
 
 54
 00:03:24,450 --> 00:03:25,760
 我这就继续做胸外按压
-I'll get her compressions again.
 
 55
 00:03:25,880 --> 00:03:26,770
 充电中
-Charging.
 
 56
 00:03:26,780 --> 00:03:28,010
 200焦耳
-Two hundred.
 
 57
 00:03:28,030 --> 00:03:29,030
 清场
-Clear.
 
 58
 00:03:29,630 --> 00:03:32,040
@@ -290,17 +235,14 @@ Clear.
 59
 00:03:34,280 --> 00:03:35,360
 我来帮你检测
-I'll test you.
 
 60
 00:03:43,540 --> 00:03:45,410
 三 二 一
-Three, two, one.
 
 61
 00:03:45,420 --> 00:03:46,420
 你会明白的
-You'll see.
 
 62
 00:03:51,330 --> 00:03:59,910
@@ -316,607 +258,492 @@ Borcolasky（SubHD）
 64
 00:04:14,540 --> 00:04:16,060
 勒多马斯太太？
-Mrs. Le Domas?
 
 65
 00:04:16,750 --> 00:04:17,750
 我在哪里？
-Where am I?
 
 66
 00:04:18,320 --> 00:04:20,030
 您现在位于康涅狄格州的伍德伯里
-You're in Woodbury, Connecticut.
 
 67
 00:04:20,050 --> 00:04:21,580
 圣约翰医院
-St. John's Hospital.
 
 68
 00:04:22,300 --> 00:04:23,550
 为什么给我戴手铐
-Why am I handcuffed?
 
 69
 00:04:24,310 --> 00:04:26,390
-- 勒多马斯夫人 - 叫我麦考利小姐
-- Mrs. Le Domas. - It's Ms. MacCaullay.
+- 勒多马斯夫人
+- 叫我麦考利小姐
 
 70
 00:04:27,090 --> 00:04:30,230
 这里写着您嫁给了亚历克斯·勒多马斯
-It says here you married an Alex Le Domas.
 
 71
 00:04:31,490 --> 00:04:33,260
 那段婚姻没能维持下去
-It didn't work out.
 
 72
 00:04:33,650 --> 00:04:35,410
 我是罗杰·巴塞特警探
-I'm Detective Roger Bassett.
 
 73
 00:04:35,490 --> 00:04:37,560
 你有麻烦了 麦考利女士
-You're in some trouble, Ms. MacCaullay.
 
 74
 00:04:37,730 --> 00:04:40,250
 你现已被伍德伯里警察局拘留
-You're being detained by the Woodbury Police Department.
 
 75
 00:04:40,270 --> 00:04:42,800
 涉嫌纵火和谋杀
-Under suspicion of arson and murder.
 
 76
 00:04:42,820 --> 00:04:45,570
 扑灭大火后 他们在屋内发现了
-They found the remains of two people in the house
 
 77
 00:04:45,590 --> 00:04:47,690
 两具遗体
-after they put out the fire.
 
 78
 00:04:47,700 --> 00:04:50,500
 你的衣服上沾满了鲜血
-And your clothes were drenched in blood.
 
 79
 00:04:51,700 --> 00:04:53,440
 并且那不是你的血
-It wasn't yours.
 
 80
 00:04:53,580 --> 00:04:56,740
 如果你愿意做个陈述
-Now, if you'd care to make a statement.
 
 81
 00:04:57,340 --> 00:04:58,830
 能给我支烟吗
-Could you pass me a cigarette?
 
 82
 00:05:00,470 --> 00:05:02,470
 麦考利女士 这对你可没什么好处
-This is not going to go well for you, Ms. MacCaullay.
 
 83
 00:05:15,730 --> 00:05:17,970
 只要你配合 事情会好办很多
-Things would go a lot easier if you would just cooperate.
 
 84
 00:05:18,490 --> 00:05:19,710
 有人来看她
-She has a visitor.
 
 85
 00:05:19,730 --> 00:05:21,280
 你在等人吗？
-Are you expecting someone?
 
 86
 00:05:23,660 --> 00:05:24,800
 哦 天呐
-Oh, shit.
 
 87
 00:05:24,820 --> 00:05:25,820
 看看你
-Look at you.
 
 88
 00:05:27,220 --> 00:05:28,420
 你来这里干什么？
-What are you doing here?
 
 89
 00:05:28,440 --> 00:05:30,000
 嗯 我还是你的紧急联系人
-Well, I'm still your emergency contact.
 
 90
 00:05:31,190 --> 00:05:32,760
 谢了
-So, thanks for that.
 
 91
 00:05:33,060 --> 00:05:33,800
 你是谁？
-Who are you?
 
 92
 00:05:34,100 --> 00:05:35,040
 费丝·麦考利
-Faith MacCaullay.
 
 93
 00:05:35,060 --> 00:05:36,060
 你又是谁？
-Who are you?
 
 94
 00:05:36,630 --> 00:05:37,630
 一家人？
-Family?
 
 95
 00:05:39,290 --> 00:05:41,100
 生物学意义上 对 我们是姐妹
-Biologically speaking, yeah, we're sisters,
 
 96
 00:05:41,120 --> 00:05:43,000
 但我们不是一家人
-but we're not family.
 
 97
 00:05:45,280 --> 00:05:46,280
 好吧
-Okay.
 
 98
 00:05:46,310 --> 00:05:47,790
 我会给你们几分钟时间
-I'm going to give you a few minutes.
 
 99
 00:05:47,840 --> 00:05:49,520
 然后我会带你去警局
-Then I'm going to take you to the station.
 
 100
 00:05:50,210 --> 00:05:51,470
 做陈述
-Get that statement.
 
 101
 00:05:56,820 --> 00:05:57,820
 发生什么事了？
-What happened?
 
 102
 00:05:58,960 --> 00:06:00,290
 你不会信的
-You wouldn't believe me.
 
 103
 00:06:00,530 --> 00:06:02,260
 这话可能没错 但我大老远开车
-That's probably true, but I drove all
 
 104
 00:06:02,270 --> 00:06:03,940
 来到康涅狄格这个鬼地方
-the way out to bumfuck Connecticut,
 
 105
 00:06:03,960 --> 00:06:05,780
-- 所以... - 你从哪儿来的？
-- so... - Where'd you come from?
+- 所以...
+- 你从哪儿来的？
 
 106
 00:06:05,840 --> 00:06:07,150
 你的意思是我住在哪里吗？
-You mean, where do I live?
 
 107
 00:06:07,550 --> 00:06:08,550
 是的
-Sure.
 
 108
 00:06:11,360 --> 00:06:12,360
 默里山
-Murray Hill.
 
 109
 00:06:13,040 --> 00:06:14,040
 我现在在切尔西
-I'm in Chelsea.
 
 110
 00:06:14,280 --> 00:06:15,480
 酷
-Yeah, cool.
 
 111
 00:06:16,070 --> 00:06:17,850
 你在纽约住了多久了
-How long have you lived in New York?
 
 112
 00:06:18,690 --> 00:06:20,200
 我十八岁时搬过去的
-I moved out there when I was 18.
 
 113
 00:06:21,410 --> 00:06:22,550
 就像你一样
-Just like you.
 
 114
 00:06:24,150 --> 00:06:26,560
-- 你竟然从没想过... - 格蕾丝 得了吧
-- And you never thought... - Grace, come on.
+- 你竟然从没想过...
+- 格蕾丝 得了吧
 
 115
 00:06:26,800 --> 00:06:29,250
 很久以前你就说得很清楚了
-You made it very clear a long time ago that
 
 116
 00:06:29,260 --> 00:06:32,050
 你不想做我的姐姐 好吗？
-you're not interested in being my sister, okay?
 
 117
 00:06:32,070 --> 00:06:33,190
 我也是这么想的
-And the feeling's mutual.
 
 118
 00:06:33,200 --> 00:06:34,450
 我来这里不是为了重聚
-I'm not here for a reunion.
 
 119
 00:06:34,480 --> 00:06:35,690
 好 见到你我也很高兴
-Yeah, it's good to see you, too.
 
 120
 00:06:35,710 --> 00:06:36,470
 你好吗？
-How are you?
 
 121
 00:06:36,490 --> 00:06:37,690
-- 我他妈好极了 - 是吗？
-- I'm fucking amazing. - Yeah?
+- 我他妈好极了
+- 是吗？
 
 122
 00:06:37,700 --> 00:06:38,940
 真好极了
-Yeah, really good.
 
 123
 00:06:38,960 --> 00:06:40,510
 我现在做自媒体
-I'm a social media coordinator.
 
 124
 00:06:40,610 --> 00:06:42,510
 我住在一间超棒的一居室里
-I live in a kick-ass one bedroom and
 
 125
 00:06:42,520 --> 00:06:44,800
 还有个帅得要命的男朋友 叫德里克
-I have a hot-as-fuck boyfriend named Derek.
 
 126
 00:06:45,270 --> 00:06:48,150
-而且我不用靠跟你的亚历克斯·勒多马斯上床来得到这些
-And I didn't have to fuck Alex Le Domas to get it.
+而且我不用靠跟你的亚历
+克斯·勒多马斯上床来得到这些
 
 127
 00:06:48,240 --> 00:06:49,840
 全靠我自己的努力
-I did it all by myself.
 
 128
 00:06:51,320 --> 00:06:52,960
 你怎么知道亚历克斯
-How do you know about Alex?
 
 129
 00:06:53,980 --> 00:06:55,270
 有一次我在第七大道二十五街的
-I saw you together once at
 
 130
 00:06:55,290 --> 00:06:56,960
 全食超市看到你们在一起
-the Whole Foods on 25th and 7th.
 
 131
 00:06:59,010 --> 00:07:00,010
 他很高
-He's tall.
 
 132
 00:07:01,320 --> 00:07:02,770
 你本可以打个招呼的
-You could have said something.
 
 133
 00:07:03,120 --> 00:07:04,020
 为什么？
-Why?
 
 134
 00:07:04,080 --> 00:07:05,260
 我活的那么好
-I'm in a good place.
 
 135
 00:07:05,690 --> 00:07:06,820
 干嘛去见你这个唠叨鬼
-You're a negative person.
 
 136
 00:07:06,840 --> 00:07:08,240
 我才不是唠叨鬼
-I'm not a negative person.
 
 137
 00:07:08,260 --> 00:07:11,120
-- 尽管你抛弃了我 - 我没有抛弃你
-- And even though you abandoned me... - I did not abandon you.
+- 尽管你抛弃了我
+- 我没有抛弃你
 
 138
 00:07:11,130 --> 00:07:13,470
 我依然相信人性的善良
-I still believe in the fundamental goodness of humanity.
 
 139
 00:07:14,180 --> 00:07:16,940
 天呐 如果你知道我刚才经历了什么...
-Oh my God, if you knew what I'd just been through...
 
 140
 00:07:16,960 --> 00:07:17,890
 那就告诉我吧
-Then tell me.
 
 141
 00:07:17,910 --> 00:07:19,600
 我说过 你不会相信的
-I told you you wouldn't believe me.
 
 142
 00:07:21,770 --> 00:07:23,950
 好 你没事就好
-Alright, I'm glad you're okay.
 
 143
 00:07:24,610 --> 00:07:25,870
 还是这个苦瓜脸
-But you haven't changed.
 
 144
 00:07:25,890 --> 00:07:26,890
 那我走
-I'm just gonna go.
 
 145
 00:07:29,360 --> 00:07:30,600
 费丝 等一下
-Faith, wait.
 
 146
 00:07:35,580 --> 00:07:38,360
 婚礼结束后 亚历克斯告诉我 我得抽一张牌
-After the wedding, Alex tells me I have to pull a card.
 
 147
 00:07:39,870 --> 00:07:41,160
 玩上面写的任何游戏
-Play whatever game it says.
 
 148
 00:07:41,180 --> 00:07:42,530
 某种...
-Some kind of
 
 149
 00:07:44,250 --> 00:07:45,870
 入会仪式
-initiation ritual.
 
 150
 00:07:47,010 --> 00:07:48,530
 我起初觉得挺奇怪
-Which I thought was weird.
 
 151
 00:07:48,820 --> 00:07:51,170
 但我想让他们喜欢我
-But I wanted them to like me
 
 152
 00:07:51,180 --> 00:07:53,920
 毕竟他们要成为我的新家人了
-because they were gonna be my new family.
 
 153
 00:07:58,610 --> 00:07:59,610
 总之
-Anyway...
 
 154
 00:08:02,290 --> 00:08:03,540
 我抽到了捉迷藏
-I pull hide and seek.
 
 155
 00:08:05,180 --> 00:08:06,520
 然后 周围人立马安静了
-And it gets real quiet.
 
 156
 00:08:08,080 --> 00:08:09,310
 显然
-Because apparently...
 
 157
 00:08:12,600 --> 00:08:14,020
 那是一张坏牌
-That's the bad card.
 
 158
 00:08:16,980 --> 00:08:20,780
 他们以为必须把我献祭给魔鬼
-And they think they have to try to sacrifice me to the devil.
 
 159
 00:08:23,610 --> 00:08:25,020
 他们告诉我 有机会赢
-They told me I could win.
 
 160
 00:08:25,040 --> 00:08:27,310
 如果我能躲到天亮
-If I stayed hidden till dawn.
 
 161
 00:08:27,330 --> 00:08:28,330
 但他们认为
-But they thought...
 
 162
 00:08:29,330 --> 00:08:30,430
 如果我赢的话
-If I won...
 
 163
 00:08:31,930 --> 00:08:33,120
 他们会死
-They'd die.
 
 164
 00:08:36,630 --> 00:08:37,940
 然后他们开始猎杀我
-So they hunted me.
 
 165
 00:08:40,010 --> 00:08:41,110
 我
-I got...
 
 166
 00:08:41,850 --> 00:08:43,060
 手中枪了
-Shot through the hand.
 
 167
 00:08:43,470 --> 00:08:45,460
 被一个管家打得半死
-Beat to shit by a butler.
 
 168
 00:08:48,850 --> 00:08:50,030
 并且我的
-And my...
 
 169
 00:08:52,610 --> 00:08:54,740
 我的丈夫 刺伤了我
-My husband... Stabbed me.
 
 170
 00:08:57,400 --> 00:08:59,060
 但是我撑到了天亮
-But I made it till dawn.
 
 171
 00:09:01,610 --> 00:09:02,820
 我他妈赢了
-I fucking won.
 
 172
 00:09:07,190 --> 00:09:08,380
 所以
-So...
 
 173
 00:09:09,770 --> 00:09:11,180
 他们死了吗？
-Did they drop dead?
 
 174
 00:09:11,190 --> 00:09:12,190
 不
-No.
 
 175
 00:09:14,610 --> 00:09:15,890
 他们爆炸了
-They blew up.
 
 176
 00:09:17,590 --> 00:09:18,750
 爆炸了？
-They blew up.
 
 177
 00:09:19,550 --> 00:09:22,600
 在他们爆炸后 有个男人坐在椅子上
-And then after they blew up, there was a guy in a chair.
 
 178
 00:09:24,810 --> 00:09:26,290
 他朝我点了点头
-And he nodded at me.
 
 179
 00:09:28,020 --> 00:09:31,130
 椅子上的男人是谁？
-Who was the guy in the chair?
 
 180
 00:09:32,470 --> 00:09:33,470
 我不知道
-I don't know.
 
 181
 00:09:35,140 --> 00:09:37,180
 虽然他是透明的 但我非常确定他是...
-But he was see-through, so I'm pretty sure he was...
 
 182
 00:09:38,960 --> 00:09:39,960
 你懂的...
-You know...
 
 183
 00:09:47,890 --> 00:09:49,680
 你肯定要进监狱了
-You are so going to jail.
 
 184
 00:09:51,860 --> 00:09:52,860
 是的
-Yeah.
 
 185
 00:10:08,880 --> 00:10:12,750
@@ -925,7 +752,6 @@ Yeah.
 186
 00:10:17,540 --> 00:10:19,080
 批准停火
-Approve the ceasefire.
 
 187
 00:10:25,120 --> 00:10:26,100
@@ -934,47 +760,38 @@ Approve the ceasefire.
 188
 00:10:29,060 --> 00:10:30,460
 早上好 丹福斯先生
-Good morning, Mr. Danforth.
 
 189
 00:10:36,350 --> 00:10:38,050
 好久不见
-It's been a long time.
 
 190
 00:10:40,180 --> 00:10:41,320
 我有些消息
-I have some news.
 
 191
 00:10:46,910 --> 00:10:48,160
 出去
-Leave us.
 
 192
 00:10:54,120 --> 00:10:55,750
 勒多马斯家族没了
-The Le Domases are no more.
 
 193
 00:11:02,960 --> 00:11:03,960
 佩妮拉
-Pernilla.
 
 194
 00:11:11,300 --> 00:11:13,120
 你能把我的孩子叫来吗？
-Can you find my children?
 
 195
 00:11:13,530 --> 00:11:14,530
 当然
-Of course.
 
 196
 00:11:18,300 --> 00:11:20,020
 我转告其他人
-I'll inform the others.
 
 197
 00:11:20,670 --> 00:11:22,240
@@ -987,17 +804,14 @@ I'll inform the others.
 199
 00:11:42,550 --> 00:11:43,580
 喂
-Hello.
 
 200
 00:11:43,750 --> 00:11:45,860
 马上把我的律师都叫来
-Get all my lawyers here right now.
 
 201
 00:11:45,970 --> 00:11:47,080
 马上
-Right away.
 
 202
 00:11:49,290 --> 00:11:50,260
@@ -1006,72 +820,58 @@ Right away.
 203
 00:11:51,190 --> 00:11:53,590
 历经岁月沧桑的古老宅邸合集
-The collection of the weathered houses.
 
 204
 00:11:53,610 --> 00:11:54,790
 克洛特恩堡 夏洛特
-Clothurnburg. Charlotte.
 
 205
 00:11:54,800 --> 00:11:56,130
 （西班牙语）别弄他妈的头发了 卡门
-¡Deja el puto pelo, Carmen!
 
 206
 00:11:56,140 --> 00:11:56,770
 （西班牙语）操
-¡Coño!
 
 207
 00:11:56,780 --> 00:11:57,710
 这破玩意谁写的
-Who wrote this shit?
 
 208
 00:11:57,720 --> 00:11:59,790
 我就即兴发挥吧
-I'll just wing it.
 
 209
 00:11:59,800 --> 00:12:00,860
 我按自己的方式来
-I'll do my own thing.
 
 210
 00:12:00,880 --> 00:12:01,880
 像往常一样
-Like always.
 
 211
 00:12:09,770 --> 00:12:11,070
 （西班牙语）真见鬼
-¡Puta madre!
 
 212
 00:12:11,640 --> 00:12:13,830
 （西班牙语）真是他妈的大好事
-¡Me cago en esta puta!
 
 213
 00:12:13,850 --> 00:12:15,020
 （西班牙语）过来 卡蒂亚
-¡Ven ya, Katia!
 
 214
 00:12:15,030 --> 00:12:15,790
 （西班牙语）哦 天呐
-¡Ay, Dios!
 
 215
 00:12:15,800 --> 00:12:16,640
 嘿 好了
-Hey, all right.
 
 216
 00:12:16,660 --> 00:12:18,160
 告诉威廉 那人搞砸了
-Tell William the guy shot the jet.
 
 217
 00:12:18,180 --> 00:12:21,130
@@ -1080,52 +880,42 @@ Tell William the guy shot the jet.
 218
 00:12:29,090 --> 00:12:30,730
 轮到我了 混蛋
-It's my time, motherfucker.
 
 219
 00:12:32,190 --> 00:12:33,270
 本森
-Benson.
 
 220
 00:12:33,290 --> 00:12:35,350
 把我的刀给我
-Bring me my knife!
 
 221
 00:12:48,510 --> 00:12:49,970
 这是我们的机会
-This is our chance!
 
 222
 00:12:50,590 --> 00:12:52,360
 这是我们的机会
-This is our chance!
 
 223
 00:12:52,480 --> 00:12:53,660
 勒拜尔万岁
-Le Bail be praised!
 
 224
 00:12:53,900 --> 00:12:54,880
 耶
-Yeah!
 
 225
 00:12:55,440 --> 00:12:56,440
 开干
-Shot!
 
 226
 00:12:57,100 --> 00:12:58,660
 开干
-Shot!
 
 227
 00:12:59,250 --> 00:13:00,350
 开干
-Shot!
 
 228
 00:13:00,790 --> 00:13:02,770
@@ -1134,1057 +924,850 @@ Shot!
 229
 00:13:32,800 --> 00:13:33,800
 父亲
-Father
 
 230
 00:13:35,150 --> 00:13:36,920
 所以勒多马斯家族失败了
-So the Le Domas failed.
 
 231
 00:13:38,280 --> 00:13:39,730
 新娘活下来了
-The bride survived.
 
 232
 00:13:41,470 --> 00:13:42,630
 游戏继续
-The ball is in play.
 
 233
 00:13:47,590 --> 00:13:48,440
 不
-No.
 
 234
 00:13:48,580 --> 00:13:49,510
 那不公平
-That's not fair.
 
 235
 00:13:49,970 --> 00:13:51,050
 这是我们的
-It's... it's ours!
 
 236
 00:13:51,070 --> 00:13:52,150
 没关系
-It doesn't matter.
 
 237
 00:13:52,160 --> 00:13:53,270
 规则就是这样
-It's in the rules.
 
 238
 00:13:54,590 --> 00:13:55,970
 你们知道该做什么了吧
-You know what you have to do.
 
 239
 00:13:58,560 --> 00:13:59,420
 爸
-Dad.
 
 240
 00:14:00,610 --> 00:14:01,320
 求你了
-Please.
 
 241
 00:14:01,800 --> 00:14:03,800
 像个爷们
-Be a fucking man!
 
 242
 00:14:05,420 --> 00:14:06,420
 别忘了你姓丹福斯
-You're a Danforth.
 
 243
 00:14:11,490 --> 00:14:14,690
 这绝不能离开我们家族
-This... must never leave our family.
 
 244
 00:14:15,210 --> 00:14:16,680
 你必须夺回这个席位
-You must win the seat back.
 
 245
 00:14:18,760 --> 00:14:19,890
 我们会的
-We will.
 
 246
 00:14:21,270 --> 00:14:22,270
 我保证
-You have my word.
 
 247
 00:14:30,380 --> 00:14:31,390
 好吧...
-Well...
 
 248
 00:14:34,470 --> 00:14:35,730
 痛快点吧
-Get on with it.
 
 249
 00:15:24,210 --> 00:15:25,210
 泰特斯
-Titus.
 
 250
 00:15:28,030 --> 00:15:29,030
 结束了
-It's over.
 
 251
 00:15:39,030 --> 00:15:40,530
 对新娘来说还没结束
-Not for the bride.
 
 252
 00:15:45,050 --> 00:15:46,450
 好了 麦考利夫人
-All right, Mrs. MacCaullay.
 
 253
 00:15:46,890 --> 00:15:48,400
 我们给你拿些衣服
-We'll get you some clothes.
 
 254
 00:15:49,360 --> 00:15:52,280
 然后我们到警局继续谈话
-Then continue our conversation at the station.
 
 255
 00:15:53,110 --> 00:15:55,470
 我迫不及待想听你讲那只山羊的事
-I can't wait for you to tell me about that goat...
 
 256
 00:16:16,480 --> 00:16:18,590
 这一切都会是你的
-It's all gonna be yours.
 
 257
 00:16:18,980 --> 00:16:20,510
 去他妈的规则
-Fuck the rules!
 
 258
 00:16:48,240 --> 00:16:49,420
 求你了 求您了
-Please, please.
 
 259
 00:16:54,870 --> 00:16:57,060
 勒多马斯夫人
-Mrs. Le Domas!
 
 260
 00:17:06,150 --> 00:17:07,640
 这他妈什么情况
-What is going on
 
 261
 00:17:07,660 --> 00:17:09,660
 这事怎么又开始了
-This can't be happening again
 
 262
 00:17:21,880 --> 00:17:23,730
 听着 我得有武器
-Listen, I need a weapon.
 
 263
 00:17:23,810 --> 00:17:25,140
 我先回车里拿
-I'm going back to the car.
 
 264
 00:17:27,000 --> 00:17:29,000
 别抛弃我
-Do not leave me
 
 265
 00:17:29,730 --> 00:17:31,730
 好的 好的
-Okay, Okay
 
 266
 00:18:22,380 --> 00:18:23,900
 你伤到我了
-You hurting me!
 
 267
 00:18:24,050 --> 00:18:26,010
 你现在的捉迷藏水平也不咋样嘛
-Not so good at hide and seek now!
 
 268
 00:18:35,910 --> 00:18:39,810
 哦天呐 搞毛线啊
-Oh my God! What the fuck!
 
 269
 00:18:42,980 --> 00:18:43,980
 好了
-Okay.
 
 270
 00:18:44,000 --> 00:18:45,400
 可能还有更多的人来
-There could be more coming.
 
 271
 00:18:45,410 --> 00:18:46,760
 我得把手铐弄开
-I gotta get out of these cuffs.
 
 272
 00:18:46,770 --> 00:18:47,770
 还好吗？
-Okay?
 
 273
 00:18:48,010 --> 00:18:49,150
 搞什么鬼
-What the fuck?
 
 274
 00:18:50,160 --> 00:18:51,570
 搞什么鬼
-What the fuck?
 
 275
 00:18:59,200 --> 00:19:00,840
 我们得赶紧走
-We gotta get out of here and disappear.
 
 276
 00:19:01,910 --> 00:19:03,420
 你他妈在干什么？
-What the fuck are you doing?
 
 277
 00:19:03,430 --> 00:19:04,660
 我们可能需要打架
-We might have to fight.
 
 278
 00:19:04,670 --> 00:19:06,290
 穿着病号服我没法打架
-I can't fight in this gown.
 
 279
 00:19:06,300 --> 00:19:08,010
 没时间找新衣服了
-No time to look for new clothes.
 
 280
 00:19:08,450 --> 00:19:09,450
 你还要打架？
-You have to fight?
 
 281
 00:19:13,750 --> 00:19:14,810
 好的 好的
-Okay, okay.
 
 282
 00:19:27,680 --> 00:19:28,820
 快点 我们得走了
-Come on, we gotta go.
 
 283
 00:19:44,650 --> 00:19:46,090
 真是个乱摊子
-What a mess.
 
 284
 00:19:46,540 --> 00:19:48,520
 威尔金森先生显然想
-Looks like Mr. Wilkinson tried to.
 
 285
 00:19:48,540 --> 00:19:50,560
 在游戏开始前就杀了女孩
-Killed the girl before the game could begin.
 
 286
 00:19:51,100 --> 00:19:54,720
 并让他的整个血脉过早地走向灭亡
-And condemned his entire bloodline to a premature end.
 
 287
 00:19:55,130 --> 00:19:58,630
 嗯 这就是违反拉贝尔先生规则的下场
-Well, that's what happens when you break one of Mr. LaBelle's rules.
 
 288
 00:20:00,220 --> 00:20:01,220
 你好
-Hello there.
 
 289
 00:20:07,310 --> 00:20:09,090
 请问你是谁？
-And who might you be?
 
 290
 00:20:10,220 --> 00:20:13,480
 就在那一刻 我知道我们俩都会挺过去的
-And right then I knew that we were both going to make it.
 
 291
 00:20:15,240 --> 00:20:17,430
 因为我们有这一刻值得为之而活
-Because we had this moment to live for.
 
 292
 00:20:18,780 --> 00:20:20,190
 而如今 我们就在这里
-And here we are.
 
 293
 00:20:20,820 --> 00:20:21,970
 我们做到了
-We made it.
 
 294
 00:20:22,910 --> 00:20:24,230
 我爱你
-I love you so much.
 
 295
 00:20:25,570 --> 00:20:26,570
 马克
-Mark.
 
 296
 00:20:27,470 --> 00:20:29,330
 那天我们在化疗病房相遇
-When we met that day in the chemo ward.
 
 297
 00:20:29,640 --> 00:20:31,190
 女士们先生们
-Ladies and gentlemen.
 
 298
 00:20:31,380 --> 00:20:33,560
 我非常抱歉地告诉你们
-I am terribly sorry to tell you but I'm going
 
 299
 00:20:33,570 --> 00:20:36,560
 我不得不请你们所有人离开这里
-to have to ask you all to vacate the premises.
 
 300
 00:20:36,570 --> 00:20:38,730
 不幸的是 我们出现了煤气泄漏
-Unfortunately, we have a gas leak.
 
 301
 00:20:40,000 --> 00:20:42,580
 你他妈在开玩笑吗？
-Are you fucking kidding me?
 
 302
 00:20:44,180 --> 00:20:45,180
 她没有
-She's not.
 
 303
 00:20:45,200 --> 00:20:46,510
 请你赶紧滚出去
-Kindly get the fuck out.
 
 304
 00:20:46,520 --> 00:20:48,160
 此外请你礼貌点
-Besides, you could do way better.
 
 305
 00:20:49,960 --> 00:20:51,110
 各位请注意
-Attention ladies and gentlemen.
 
 306
 00:20:51,700 --> 00:20:52,700
 请根据指示...
-do on procedures...
 
 307
 00:20:56,390 --> 00:20:58,370
 这些人该回家了
-These people need to go home.
 
 308
 00:20:59,060 --> 00:21:00,460
 滚出去
-Get the fuck out.
 
 309
 00:21:01,200 --> 00:21:02,200
 滚出去
-Get the fuck out.
 
 310
 00:21:03,160 --> 00:21:05,840
 你为什么总觉得非得当个混蛋不可？
-Why do you always feel the need to be such a dick?
 
 311
 00:21:05,900 --> 00:21:07,500
 你但凡有点善意都意义非凡
-Your little grace goes a long way.
 
 312
 00:21:07,870 --> 00:21:09,030
 好吧 那很可笑
-Well, that was funny.
 
 313
 00:21:09,840 --> 00:21:11,940
 今天不是搞笑的日子
-Today is not the day for funny.
 
 314
 00:21:12,240 --> 00:21:15,530
 爸爸给我们一个任务 我不会让他失望
-Dad gave us a mission and I'm not going to let him down.
 
 315
 00:21:15,930 --> 00:21:16,930
 呦
-Yo!
 
 316
 00:21:16,940 --> 00:21:18,320
 表亲们
-Cousins!
 
 317
 00:21:18,340 --> 00:21:19,590
 已经过去多久了？
-How long has it been?
 
 318
 00:21:19,610 --> 00:21:20,940
 我先报个名
-I'm gonna sign it up.
 
 319
 00:21:20,950 --> 00:21:23,040
 好戏开场时来叫我
-Come get me when the fireworks start.
 
 320
 00:21:23,150 --> 00:21:24,150
 摸你鸡鸡
-Dick tap!
 
 321
 00:21:25,190 --> 00:21:27,320
 你不必跟他说话
-You don't have to speak to him.
 
 322
 00:21:27,340 --> 00:21:29,340
 别惹事 行吗？
-Just don't start anything, okay?
 
 323
 00:21:29,580 --> 00:21:30,580
 今天别惹事
-Not today.
 
 324
 00:21:31,450 --> 00:21:32,450
 该死的基普
-Fucking Kip.
 
 325
 00:21:43,300 --> 00:21:44,300
 我们非做不可
-It had to be done.
 
 326
 00:21:53,010 --> 00:21:55,110
 你伤心的时候看起来真像他
-You look just like him when you're sad.
 
 327
 00:22:01,100 --> 00:22:05,150
 我再说一遍 请保持冷静 有序地走向出口
-I'll repeat, please remain calm and proceed to the exits in an orderly fashion.
 
 328
 00:22:05,410 --> 00:22:08,690
 女士们先生们 收拾好你们的破烂 滚出去
-Ladies and gentlemen, pack up your shit and get the fuck out.
 
 329
 00:22:09,380 --> 00:22:10,380
 请快点
-Please.
 
 330
 00:22:17,390 --> 00:22:20,800
 委员会上次举行现场会议是什么时候？
-When was the last time the council actually convened in person?
 
 331
 00:22:20,820 --> 00:22:22,920
 1963年10月
-October, 1963.
 
 332
 00:22:25,030 --> 00:22:26,090
 我查过了
-I looked it up.
 
 333
 00:22:28,100 --> 00:22:30,140
 嗯 他们现在正前往小屋的路上
-Well, they're on their way to the lodge now.
 
 334
 00:23:10,660 --> 00:23:12,190
 开始了
-And so it begins.
 
 335
 00:23:15,860 --> 00:23:16,750
 哦 天呐
-Oh, man.
 
 336
 00:23:16,770 --> 00:23:17,780
 是啊
-Yeah.
 
 337
 00:23:17,800 --> 00:23:18,800
 伊格纳西奥
-Ignacio.
 
 338
 00:23:19,450 --> 00:23:20,070
 费利佩
-Felipe.
 
 339
 00:23:20,090 --> 00:23:21,670
 早上好 丹福斯夫人
-Buenos Días, Senora Danforth.
 
 340
 00:23:22,020 --> 00:23:23,380
 你一点没老
-You haven't aged a day.
 
 341
 00:23:25,350 --> 00:23:26,360
 弗朗西丝卡没来吗？
-No Francesca?
 
 342
 00:23:26,370 --> 00:23:28,330
 我原本以为她肯定想亲眼见证这一刻
-I thought for sure she'd want to be here for this.
 
 343
 00:23:28,410 --> 00:23:29,470
 她马上就来 相信我
-She'll be along, believe me.
 
 344
 00:23:29,480 --> 00:23:31,330
 她不会错过这个的
-She wouldn't miss this for the world.
 
 345
 00:23:31,350 --> 00:23:32,210
 真是件好事
-It's exciting...
 
 346
 00:23:32,220 --> 00:23:34,980
 嗯 对我来说真是件好事
-it's exciting for me.
 
 347
 00:23:35,300 --> 00:23:36,670
 对你来说不是
-It's terrifying for you.
 
 348
 00:23:36,890 --> 00:23:37,930
 对 还有你
-Yes, and you.
 
 349
 00:23:41,150 --> 00:23:42,150
 走吧 费利佩
-Vamos, Felipe.
 
 350
 00:23:45,890 --> 00:23:46,890
 乌苏拉
-Ursula.
 
 351
 00:23:47,430 --> 00:23:48,430
 泰特斯
-Titus.
 
 352
 00:23:48,680 --> 00:23:51,010
 你还记得我儿子吗？承福
-You remember my son? Cheng Fu
 
 353
 00:23:51,530 --> 00:23:53,530
 认识你承福 欢迎
-I know you, Chengfu. Welcome.
 
 354
 00:23:56,900 --> 00:23:58,370
 Wi-Fi密码是什么？
-What's the Wi-Fi password?
 
 355
 00:24:08,400 --> 00:24:09,140
 态度好点儿
-Be nice
 
 356
 00:24:15,650 --> 00:24:16,650
 马杜
-Madhu
 
 357
 00:24:16,660 --> 00:24:17,660
 维拉杰
-Viraj
 
 358
 00:24:17,680 --> 00:24:18,680
 玛蒂娜 欢迎
-Martina, welcome.
 
 359
 00:24:20,260 --> 00:24:22,070
 规则是什么？
-So how's this shit work?
 
 360
 00:24:22,080 --> 00:24:25,490
 大家马上到齐了 到时候律师会向大家说明一切
-Our guests will be arriving soon, and then the lawyer will explain everything.
 
 361
 00:24:25,650 --> 00:24:27,210
 啊 大律师
-Ah, lawyer.
 
 362
 00:24:27,280 --> 00:24:29,290
 跟这边这位漂亮笨蛋说话慢点
-Speak slow for this beautiful dum-dum over here.
 
 363
 00:24:29,300 --> 00:24:30,500
 爆破音
-Single-syllable words.
 
 364
 00:24:34,380 --> 00:24:36,930
 看来我们的贵宾要到了
-It appears our guest of honor is arriving.
 
 365
 00:24:58,550 --> 00:24:59,750
 你好 格蕾丝
-Hello, Grace.
 
 366
 00:25:00,030 --> 00:25:01,210
 我是乌苏拉·丹福斯
-I'm Ursula Danforth.
 
 367
 00:25:01,670 --> 00:25:03,270
 这是我哥哥泰特斯
-This is my brother Titus.
 
 368
 00:25:04,250 --> 00:25:05,250
 欢迎来到我们家
-Welcome to our home.
 
 369
 00:25:08,180 --> 00:25:09,450
 父亲 我可以跟她说话吗
-May I speak to her, Father?
 
 370
 00:25:09,850 --> 00:25:10,940
 （西班牙语）可以 可以 去吧 费利佩
-Sí, sí, ándale, Felipe.
 
 371
 00:25:10,950 --> 00:25:12,060
 它伤不着你
-It can't hurt you.
 
 372
 00:25:13,490 --> 00:25:15,160
 你见到勒贝尔先生了吗？
-Did you see Mr. LeBail?
 
 373
 00:25:16,440 --> 00:25:17,490
 等一下
-One second.
 
 374
 00:25:17,500 --> 00:25:20,220
 在开始之前 我得先拍张自拍
-I just gotta take a quick selfie before we start.
 
 375
 00:25:20,580 --> 00:25:21,580
 呦
-Yo!
 
 376
 00:25:22,780 --> 00:25:25,060
 这女孩打败了勒多马斯家族
-This girl bested the Le Domases.
 
 377
 00:25:25,130 --> 00:25:26,290
 还有比尔·威尔金森
-And Bill Wilkinson.
 
 378
 00:25:26,570 --> 00:25:27,610
 我们能开始了吗？
-Can we start this, please?
 
 379
 00:25:27,770 --> 00:25:29,140
 切斯特他妈在哪儿？
-And where the fuck is Chester?
 
 380
 00:25:30,580 --> 00:25:32,780
 我们的父亲...去世了
-Our father... passed.
 
 381
 00:25:33,070 --> 00:25:33,990
 搞什么
-What the fuck?
 
 382
 00:25:34,000 --> 00:25:35,000
 什么？
-What?
 
 383
 00:25:35,990 --> 00:25:38,100
 昨晚 在睡梦中
-Last night, in his sleep.
 
 384
 00:25:39,280 --> 00:25:40,080
 等等 等等
-Wait, wait, wait.
 
 385
 00:25:40,090 --> 00:25:41,560
 那意味着你现在要参赛了
-So does that mean that you're playing now?
 
 386
 00:25:41,580 --> 00:25:44,070
 既然我们是双胞胎 那我们俩都会上场 对吧？
-As we are twins, we will both be taking the field, yes?
 
 387
 00:25:44,090 --> 00:25:45,110
 搞什么鬼？
-What the fuck?
 
 388
 00:25:45,110 --> 00:25:45,640
 不
-No.
 
 389
 00:25:45,660 --> 00:25:46,660
 多方便啊
-How convenient.
 
 390
 00:25:47,100 --> 00:25:49,340
-（西班牙语）我早就跟你说过 丹福斯一家都是阴险小人
-Te dije que los Danforths son unas víboras.
+（西班牙语）我早就跟你说过
+丹福斯一家都是阴险小人
 
 391
 00:25:49,350 --> 00:25:49,910
 （西班牙语）没事的
-Está bien.
 
 392
 00:25:49,920 --> 00:25:51,300
 （西班牙语）他们在耍诡计
-Y que iban a hacer trampas.
 
 393
 00:25:51,310 --> 00:25:52,090
 （西班牙语）行了 别担心
-Ya, no te preocupes
 
 394
 00:25:52,100 --> 00:25:54,940
 格蕾丝 我明白这对你来说一定很可怕
-Grace, I realize this must be terrifying for you.
 
 395
 00:25:55,900 --> 00:25:57,620
 但你来到这里 是因为一个非常特别
-But you are here for a very special,
 
 396
 00:25:57,630 --> 00:25:59,200
 非常令人兴奋的原因
-very exciting reason.
 
 397
 00:26:33,770 --> 00:26:36,550
 勒多马斯夫人 您可真是掀起了不小的风波
-You've caused quite a stir, Mrs. Le Domas.
 
 398
 00:26:36,810 --> 00:26:38,540
 我叫麦考利
-MacCaullay!
 
 399
 00:26:38,570 --> 00:26:42,660
 我是拉贝尔先生和拉贝尔组织的唯一律师
-I am the sole attorney for Mr. LaBelle and the LaBelle organization.
 
 400
 00:26:42,880 --> 00:26:45,870
-该组织由一个理事会领导 该理事会由六个家族的首领组成
-The organization is led by a council made up of the heads of six families,
+该组织由一个理事会领导
+该理事会由六个家族的首领组成
 
 401
 00:26:46,710 --> 00:26:48,000
 包括你的婆家
-including your in-laws.
 
 402
 00:26:48,660 --> 00:26:51,210
 现在德莫斯和威尔金森家族已经被消灭
-Now The DeMoss and Wilkinson families have been wiped out.
 
 403
 00:26:51,660 --> 00:26:54,550
 六大家族议会目前缩减到四个
-The council of six families is currently down to four.
 
 404
 00:26:55,500 --> 00:26:56,610
 你在这里的原因是
-The reason you're here is
 
 405
 00:26:56,630 --> 00:26:59,920
 你从勒德莫斯家的捉迷藏游戏中幸存下来
-that by surviving Le DeMoss' game of hide and seek,
 
 406
 00:26:59,940 --> 00:27:01,880
 你触发了我们组织章程中一条
-you triggered a very seldom use
 
 407
 00:27:01,890 --> 00:27:03,970
 极少被援引的条款
-clause in our organization's bylaws.
 
 408
 00:27:04,980 --> 00:27:06,630
 要知道 在理事会中
-You see, on the council there is
 
 409
 00:27:06,650 --> 00:27:08,630
 有一个席位的权力比其他席位更大
-one seat with more power than the others.
 
 410
 00:27:09,260 --> 00:27:10,100
 至高席位
-The high seat.
 
 411
 00:27:10,620 --> 00:27:14,020
 它配有这个权力徽章
-And it comes with this, sigil of power.
 
 412
 00:27:16,710 --> 00:27:20,420
 直到现在 那个席位由切斯特·丹福斯占据
-Until now, that seat was occupied by Chester Danforth.
 
 413
 00:27:21,470 --> 00:27:23,030
 我想你听说过他
-I presume you've heard of him.
 
 414
 00:27:23,620 --> 00:27:26,380
 因为你触发了那个条款 至高席位现在空缺了
-Because you triggered that clause, the high seat is
 
 415
 00:27:26,400 --> 00:27:30,430
 很多很多年来的第一次
-now vacant for the first time in many, many years.
 
 416
 00:27:30,530 --> 00:27:32,690
 而且 信不信由你
-And, believe it or not,
 
 417
 00:27:32,710 --> 00:27:35,150
 你获得了一个赢得至高席位的机会
-you've been given an opportunity to win the high seat.
 
 418
 00:27:36,660 --> 00:27:38,580
-能从游戏中幸存下来的人非常少 
-It's very rare that someone survives a game,
+能从游戏中幸存下来的人非常少
 
 419
 00:27:38,590 --> 00:27:40,520
 所以会获得这份奖励
-so it comes with this reward.
 
 420
 00:27:40,540 --> 00:27:42,350
 其余议会家族的首领们
-And the heads of the remaining council families
 
 421
 00:27:42,370 --> 00:27:44,200
 也会竭力争夺这个席位
-will try to win the seat for themselves.
 
 422
 00:27:44,210 --> 00:27:46,770
 或者就我们而言 夺回本应属于我们的东西
-Or in our case, take back what should still be ours.
 
 423
 00:27:46,790 --> 00:27:48,430
 这个条款真他妈蠢
-This clause is so fucking stupid.
 
 424
 00:27:48,440 --> 00:27:51,180
-啊 你是怕我们其中一个会取代你爸爸的位置 是吗？
-Ah, you're afraid one of us is going to take Daddy's place, eh?
+啊 你是怕我们其中一个
+会取代你爸爸的位置 是吗？
 
 425
 00:27:52,080 --> 00:27:53,230
 谁知道呢
-You never know.
 
 426
 00:27:53,440 --> 00:27:54,910
 勒德莫斯夫人可能会赢
-Mrs. Le DeMoss could win.
 
 427
 00:27:57,650 --> 00:28:02,540
 因此 正如丹福斯女士所说 这其实全是好消息
-So, as Ms. Danforth said, this is all actually good news.
 
 428
 00:28:02,870 --> 00:28:04,910
 勒贝尔先生向你展示了笑颜
-Mr. LeBail has smiled upon thee.
 
 429
 00:28:05,860 --> 00:28:06,860
 赞美撒旦
-Hail Satan.
 
 430
 00:28:07,290 --> 00:28:08,680
 赞美撒旦
-Hail Satan.
 
 431
 00:28:08,790 --> 00:28:09,790
 赞美撒旦
-Hail Satan.
 
 432
 00:28:12,530 --> 00:28:13,360
 你
-Do you...
 
 433
 00:28:13,370 --> 00:28:14,370
 你有什么问题吗？
-have any questions?
 
 434
 00:28:16,390 --> 00:28:17,390
 我有
-I have
 
 435
 00:28:29,320 --> 00:28:30,870
 能给我一支烟吗？
-Can I have a cigarette?
 
 436
 00:28:31,840 --> 00:28:32,840
 不
-No.
 
 437
 00:28:37,530 --> 00:28:40,420
 你妹妹的出现真是个意外
-Your sister's existence was quite a surprise.
 
 438
 00:28:41,000 --> 00:28:45,180
-你告诉勒多马斯家族你没有家人 然而 费丝在这里
-You told the Le Domas that you had no family, and yet, here is faith.
+你告诉勒多马斯家族你没有家人
+然而 费丝在这里
 
 439
 00:28:47,060 --> 00:28:50,730
 格蕾丝和费丝 他妈的爱尔兰天主教名字
-Grace and faith, fucking Irish Catholics.
 
 440
 00:28:50,740 --> 00:28:52,500
@@ -2193,1357 +1776,1093 @@ Grace and faith, fucking Irish Catholics.
 441
 00:28:52,540 --> 00:28:53,500
 听着
-Listen.
 
 442
 00:28:54,140 --> 00:28:55,890
 咱们赶紧结束吧
-We can make this real quick,
 
 443
 00:28:55,910 --> 00:28:58,830
 因为我他妈的才不要你的席位
-because I don't want your fucking chair.
 
 444
 00:29:00,110 --> 00:29:01,610
 我想我没有说清楚
-I suppose I wasn't clear.
 
 445
 00:29:01,910 --> 00:29:05,750
 至高席位控制议会 议会控制着
-The high seat controls the council, and the council controls...
 
 446
 00:29:06,850 --> 00:29:08,550
 嗯 一切
-well, everything.
 
 447
 00:29:09,790 --> 00:29:10,790
 一切？
-Everything?
 
 448
 00:29:12,060 --> 00:29:13,060
 整个世界
-The world.
 
 449
 00:29:18,230 --> 00:29:20,680
 那又怎样 我就得再抽一张牌之类的吗？
-So what, I just have to pull another card or something?
 
 450
 00:29:20,690 --> 00:29:21,910
 没有那个必要
-That won't be necessary.
 
 451
 00:29:21,930 --> 00:29:23,750
 把它想成双倍或全输的赌局吧
-Think of this as double or nothing.
 
 452
 00:29:24,120 --> 00:29:26,030
 因为你从勒多马斯家族的捉迷藏游戏中
-Because you survived Le Domas' game of
 
 453
 00:29:26,040 --> 00:29:29,130
 幸存下来 你将再次玩那个游戏
-hide and seek, you will play that game again.
 
 454
 00:29:29,230 --> 00:29:30,020
 才不要
-No!
 
 455
 00:29:30,030 --> 00:29:32,700
 这次 是和议会成员一起
-This time, with the council members.
 
 456
 00:29:32,720 --> 00:29:34,150
 他妈的小屁孩
-Fucking baby shit bun.
 
 457
 00:29:34,270 --> 00:29:36,110
 所以 我怎么赢？
-So for me to win the seat?
 
 458
 00:29:36,660 --> 00:29:37,660
 活到天亮
-Survive until dawn.
 
 459
 00:29:38,980 --> 00:29:40,390
 其他人呢？
-And the rest of them?
 
 460
 00:29:40,940 --> 00:29:42,320
 这部分你很熟悉
-This part will be familiar.
 
 461
 00:29:43,330 --> 00:29:45,080
 他们将会杀死你
-They will try to kill you.
 
 462
 00:29:45,690 --> 00:29:48,370
 谁杀了你 赢得至高位
-Whoever does, wins the seat.
 
 463
 00:29:49,050 --> 00:29:50,970
 现在 我们必须在天亮前填补这个空缺
-Now, we must fill the seat by dawn,
 
 464
 00:29:50,990 --> 00:29:52,430
 否则勒贝尔先生就会...
-or Mr. LeBail will be...
 
 465
 00:29:53,900 --> 00:29:54,900
 非常不高兴
-very upset.
 
 466
 00:29:56,240 --> 00:29:58,410
-- 获胜者将... - 太棒了
-- The winner will... - Ah! Fuck yeah!
+- 获胜者将...
+- 太棒了
 
 467
 00:30:01,030 --> 00:30:02,030
 臭孩子
-You silly.
 
 468
 00:30:03,070 --> 00:30:04,070
 赞美撒旦
-Hail Satan.
 
 469
 00:30:04,320 --> 00:30:06,590
 获胜者将在黑神庙
-The winner will be coronated in
 
 470
 00:30:06,600 --> 00:30:08,890
 举行的特别仪式上加冕
-a special ceremony in the Black Temple.
 
 471
 00:30:08,910 --> 00:30:11,430
 勒贝尔先生最虔诚的信徒们
-The crème de la crème of Mr. LeBail's
 
 472
 00:30:11,450 --> 00:30:12,980
 将悉数到场
-faithful will be in attendance.
 
 473
 00:30:13,110 --> 00:30:14,530
 就这些
-That's the whole thing.
 
 474
 00:30:16,130 --> 00:30:17,610
 我不玩
-I'm not playing.
 
 475
 00:30:18,040 --> 00:30:19,170
 哦 对不起
-Oh, I'm sorry.
 
 476
 00:30:19,410 --> 00:30:20,350
 还有一件事
-That's the other thing.
 
 477
 00:30:20,370 --> 00:30:22,240
 我不玩
-I'M NOT PLAYING!
 
 478
 00:30:22,780 --> 00:30:23,820
 你必须参赛
-You have to compete.
 
 479
 00:30:25,800 --> 00:30:27,250
 我还是不玩
-I'm still not playing.
 
 480
 00:30:27,810 --> 00:30:28,810
 好吧
-Okay.
 
 481
 00:30:29,180 --> 00:30:30,670
 普鲁内拉 杀了那个妹妹
-Prunella, kill the sister.
 
 482
 00:30:34,610 --> 00:30:35,700
 不 不 不
-NO! NO! NO!
 
 483
 00:30:35,710 --> 00:30:36,040
 操你妈的
-FUCK!
 
 484
 00:30:36,050 --> 00:30:37,050
 别伤害她
-DON'T HURT HER!
 
 485
 00:30:42,810 --> 00:30:44,000
 你可以把这个拿掉
-You can take that off.
 
 486
 00:30:49,930 --> 00:30:50,750
 听着
-Listen!
 
 487
 00:30:50,770 --> 00:30:52,960
 你们看起来都是好人
-You guys seem like good people!
 
 488
 00:30:52,980 --> 00:30:55,480
 而且我甚至都不知道自己为什么会在这里
-And I don't even know why I'm here!
 
 489
 00:30:55,600 --> 00:30:59,100
 我们大概有七年没见过了
-We haven't seen each other in, like, seven years!
 
 490
 00:30:59,550 --> 00:31:00,550
 为什么不见面？
-Why not?
 
 491
 00:31:01,870 --> 00:31:03,780
 这很复杂
-It's complicated.
 
 492
 00:31:03,800 --> 00:31:05,020
 好手段啊 蠢货
-Nice leverage, moron.
 
 493
 00:31:05,030 --> 00:31:07,030
 她根本不在乎那个女的
-This thing doesn't even care about the other thing.
 
 494
 00:31:07,100 --> 00:31:08,920
 你们两个合不来？
-You two don't get along?
 
 495
 00:31:09,770 --> 00:31:11,150
 我们闹翻了
-We had a falling out.
 
 496
 00:31:11,810 --> 00:31:12,810
 因为什么？
-About what?
 
 497
 00:31:13,270 --> 00:31:14,920
 就因为她是个混蛋
-Just her being an asshole.
 
 498
 00:31:15,470 --> 00:31:17,010
 听着 让我总结一下
-Look, allow me to wrap up.
 
 499
 00:31:17,230 --> 00:31:20,250
 游戏将在下午2点31分准时开始
-The game will begin at exactly 2:31 p.m.
 
 500
 00:31:20,270 --> 00:31:22,940
 为遵守拉贝尔先生所指定的确切时间...
-In observance of the exact time Mr.LaBelle...
 
 501
 00:31:24,480 --> 00:31:25,810
 爸爸
-Daddy!
 
 502
 00:31:26,020 --> 00:31:27,020
 （西班牙语）我的宝贝
-Mi amor.
 
 503
 00:31:32,610 --> 00:31:34,400
 嗯 天呐 你来了
-Well, holy shit, here you are.
 
 504
 00:31:35,030 --> 00:31:36,030
 好吧
-Okay.
 
 505
 00:31:36,960 --> 00:31:39,230
 弗朗西丝卡·埃尔卡多 你个蠢荡妇
-Francesca El Caído, you dumb slut.
 
 506
 00:31:39,760 --> 00:31:40,760
 好吧
-Okay.
 
 507
 00:31:41,130 --> 00:31:43,660
 亚历克斯的前未婚妻
-Alex's ex-fiancee.
 
 508
 00:31:44,540 --> 00:31:46,510
 我的戒指他妈在哪 婊子？
-Where the fuck is my ring, bitch?
 
 509
 00:31:46,810 --> 00:31:49,510
 在你偷走他之前 他买给我的
-He bought it for me before you stole him.
 
 510
 00:31:52,070 --> 00:31:55,220
 就在他爆炸之前 我把它扔向了他
-I threw it at him right before he exploded.
 
 511
 00:31:57,810 --> 00:31:59,820
 你不过是个冷血的婊子
-You're nothing but a cold-hearted whore.
 
 512
 00:32:00,150 --> 00:32:04,390
-要知道 亚历克斯并不傻 但他确实他妈的太好骗了
-You see, Alex wasn't stupid, but he sure was fucking gullible.
+要知道 亚历克斯并不傻
+但他确实他妈的太好骗了
 
 513
 00:32:04,800 --> 00:32:08,580
 你毁了我的生活
-You ruined my life.
 
 514
 00:32:09,840 --> 00:32:12,360
 而我他妈都不知道你是谁
-And I don't even know who the fuck you are.
 
 515
 00:32:13,260 --> 00:32:14,530
 别生气 别生气
-Okay, No, no, no.
 
 516
 00:32:14,990 --> 00:32:16,670
 女士们先生们 我们应该行动了
-Ladies and gentlemen, we should get moving.
 
 517
 00:32:16,910 --> 00:32:17,690
 佩妮拉
-Pernilla.
 
 518
 00:32:18,490 --> 00:32:19,240
 等等
-Wait.
 
 519
 00:32:20,530 --> 00:32:21,440
 我想动手
-I want to do it.
 
 520
 00:32:28,110 --> 00:32:29,550
 不 不 不
-No, no, no.
 
 521
 00:32:29,570 --> 00:32:30,160
 我想
-I want to...
 
 522
 00:32:30,170 --> 00:32:34,880
 我只是想让你知道 会是我抓住你
-I just want you to know it's going to be me who gets you.
 
 523
 00:32:35,410 --> 00:32:37,080
-- 懂吗？ - 不 不 不
-- Okay? - No, no, no.
+- 懂吗？
+- 不 不 不
 
 524
 00:32:37,180 --> 00:32:38,470
 不
-No!
 
 525
 00:32:42,010 --> 00:32:44,770
 不 不 不 我只是紧急联系人
-No, no, no, I just an Emergency Contact!
 
 526
 00:32:49,470 --> 00:32:51,550
 理事会成员必须使用一种
-The council members must use a weapon that existed
 
 527
 00:32:51,560 --> 00:32:54,100
 在其祖先与勒贝尔先生达成协议的时期内
-during the period in which their ancestor...
 
 528
 00:32:54,120 --> 00:32:56,920
 就已存在的武器
-..made his or her bargain with Mr.LeBail.
 
 529
 00:32:58,160 --> 00:33:00,620
 议会成员不得互相残杀
-The council members are not allowed to kill each other.
 
 530
 00:33:01,410 --> 00:33:05,490
-如果他们这样做了 即使是意外 勒贝尔先生也会生气
-If they do, even by accident, Mr. LeBail will be angry.
+如果他们这样做了 即使是意外
+勒贝尔先生也会生气
 
 531
 00:33:05,640 --> 00:33:09,410
 而那家有罪之人的整个家族都将受到惩罚
-And the offending family's entire bloodline will be punished.
 
 532
 00:33:09,840 --> 00:33:12,130
 除此之外 百无禁忌
-Beyond that, anything goes.
 
 533
 00:33:25,620 --> 00:33:28,410
 我不想用血笔
-I... I don't want to use the blood pen.
 
 534
 00:33:29,720 --> 00:33:31,490
 你至少可以把它消毒一下吧
-Or can you at least sterilize it.
 
 535
 00:33:32,980 --> 00:33:34,040
 该死
-Fuck's sake.
 
 536
 00:33:43,530 --> 00:33:46,660
 家族成员可以从俱乐部房间观察过程
-The families may observe the proceedings from the club room.
 
 537
 00:33:47,130 --> 00:33:50,440
 万一有猎人不幸身亡
-In the unlikely event that any of the hunters should perish,
 
 538
 00:33:50,460 --> 00:33:52,650
 该家族继承序列中的下一位成员
-the next person in that family's line
 
 539
 00:33:52,660 --> 00:33:55,580
 必须立即接替其位置 投入战斗
-of succession must take their place on the field.
 
 540
 00:33:56,780 --> 00:33:57,950
 祝你们好运
-Best of luck to you all.
 
 541
 00:33:58,460 --> 00:34:00,240
 你不换衣服吗 兄弟？
-Aren't you going to change, bro?
 
 542
 00:34:01,000 --> 00:34:02,000
 为什么？
-Why?
 
 543
 00:34:02,150 --> 00:34:03,720
 我们谁都不需要出去
-None of us are going to have to go out there.
 
 544
 00:34:03,740 --> 00:34:05,140
 切斯特从孩子们刚会走路起就开始训练他们
-Chester trained his kids since they could walk
 
 545
 00:34:05,150 --> 00:34:06,670
 以防这一天真的到来
-in case this day ever came.
 
 546
 00:34:06,680 --> 00:34:08,040
 五分钟内就会结束
-This will be over in five minutes.
 
 547
 00:34:08,060 --> 00:34:08,690
 那里
-There.
 
 548
 00:34:08,700 --> 00:34:09,430
 最好是这样
-It better be.
 
 549
 00:34:09,440 --> 00:34:10,520
 我一小时后有个按摩
-I got a massage in an hour.
 
 550
 00:34:12,580 --> 00:34:15,890
 这位女孩将从第九洞果岭开始比赛
-The girl will begin the game on the ninth hole green.
 
 551
 00:34:16,320 --> 00:34:18,000
 猎手们 就位
-Hunters, take your places.
 
 552
 00:34:22,850 --> 00:34:26,260
-游戏马上开始 十 
-The game will begin in ten,
+游戏马上开始 十
 
 553
 00:34:26,280 --> 00:34:29,220
 九 八 七
-nine, eight, seven,
 
 554
 00:34:30,140 --> 00:34:33,130
 六 五 四
-six, five, four,
 
 555
 00:34:33,570 --> 00:34:36,950
 三 二 一
-three, two, one.
 
 556
 00:34:47,340 --> 00:34:48,770
 没钥匙怎么开
-There are no fucking keys.
 
 557
 00:34:48,790 --> 00:34:50,450
 哦 我是不是忘记给你们钥匙了？
-Oh, did I forget to put the keys in there?
 
 558
 00:34:50,460 --> 00:34:52,310
 操 你作弊
-Fuck. Cheaters!
 
 559
 00:34:52,500 --> 00:34:53,390
 开车
-Go!
 
 560
 00:34:57,530 --> 00:34:59,690
-- 白痴 - 这群傻瓜
-- Idiots - Spoof you, Suckers.
+- 白痴
+- 这群傻瓜
 
 561
 00:35:23,970 --> 00:35:24,630
 费丝
-Faith
 
 562
 00:35:24,650 --> 00:35:25,510
 嗯
-Yeah
 
 563
 00:35:25,740 --> 00:35:27,180
 费丝 快起来
-Faith, wake up!
 
 564
 00:35:28,310 --> 00:35:29,370
 求你了 停下
-Please, stop it.
 
 565
 00:35:29,930 --> 00:35:30,700
 快起来
-Come on.
 
 566
 00:35:31,720 --> 00:35:32,950
 我们得起来 我们得赶紧走
-We gotta get up. We gotta move.
 
 567
 00:35:32,960 --> 00:35:33,370
 妈的
-Shit!
 
 568
 00:35:33,380 --> 00:35:34,220
 我们得起来
-We gotta get up.
 
 569
 00:35:34,420 --> 00:35:35,220
 操
-Shit!
 
 570
 00:35:36,240 --> 00:35:36,910
 操
-Fuck!
 
 571
 00:35:37,130 --> 00:35:38,070
 我了个天呐
-Oh, God!
 
 572
 00:35:38,080 --> 00:35:38,700
 他们来了
-They're coming!
 
 573
 00:35:38,710 --> 00:35:39,430
 他们来了
-They're coming!
 
 574
 00:35:40,240 --> 00:35:41,670
 为什么他们想伤害我？
-Why do they want to hurt me?
 
 575
 00:35:41,690 --> 00:35:42,800
 他们根本不在乎你
-They don't give a shit about you.
 
 576
 00:35:42,810 --> 00:35:43,930
 你在这儿只会拖我后腿
-You're here to slow me down.
 
 577
 00:35:44,090 --> 00:35:46,490
 如果你不按照我说的做 我们将会死
-If you don't do exactly what I say, we are going to die.
 
 578
 00:35:46,530 --> 00:35:47,500
 你明白了吗？
-Do you understand?
 
 579
 00:35:47,520 --> 00:35:50,310
 所以我们夺回那个席位后 显然得共享
-So we obviously share the seat when we get it back,
 
 580
 00:35:50,330 --> 00:35:52,330
 但戒指该谁戴？
-but who gets to wear the ring?
 
 581
 00:35:52,590 --> 00:35:55,410
 嗯 爸爸希望由我来负责 所以...
-Well, Dad wanted me to be the one in charge, so...
 
 582
 00:35:55,860 --> 00:35:56,860
 放屁
-Bullshit.
 
 583
 00:35:57,250 --> 00:35:58,250
 他和我说过
-He told me.
 
 584
 00:35:58,910 --> 00:36:00,380
 嗯 他告诉我
-Well, he told me.
 
 585
 00:36:00,390 --> 00:36:01,600
 我来戴戒指
-It should be me.
 
 586
 00:36:03,210 --> 00:36:04,270
 不 他没有说过
-No, he didn't.
 
 587
 00:36:11,140 --> 00:36:12,020
 我们需要去树林里
-We're gonna get to the woods.
 
 588
 00:36:12,040 --> 00:36:12,810
 我们需要去树林里
-We're gonna go to the woods.
 
 589
 00:36:12,820 --> 00:36:13,480
 等等 等等
-Wait, wait, wait.
 
 590
 00:36:13,640 --> 00:36:16,290
 如果有人在树林里等着我们怎么办？
-What if there's people waiting for us in the fucking woods?
 
 591
 00:36:16,600 --> 00:36:17,200
 停下
-Stop.
 
 592
 00:36:17,220 --> 00:36:18,160
 这没什么好争论的
-It's not a debate.
 
 593
 00:36:18,170 --> 00:36:19,030
 我说的算
-I am in charge.
 
 594
 00:36:19,050 --> 00:36:19,950
 哦 你说的算？
-Oh, you're in charge?
 
 595
 00:36:19,960 --> 00:36:21,760
 我之所以在这里 全都是你他妈的错
-It's your fucking fault I'm here.
 
 596
 00:36:21,770 --> 00:36:24,500
 我只是忘了把你从我的紧急联系人名单里移除
-All I did was forget to remove you as my emergency contact.
 
 597
 00:36:24,690 --> 00:36:25,810
 七年了
-It's been seven years.
 
 598
 00:36:25,820 --> 00:36:27,020
 你不认识其他人吗？
-You don't know anybody else.
 
 599
 00:36:27,150 --> 00:36:27,730
 好吧
-Fine.
 
 600
 00:36:27,740 --> 00:36:29,670
 谁杀了她 谁就能戴戒指
-Whoever kills her gets to wear the ring.
 
 601
 00:36:29,680 --> 00:36:30,680
 我不同意
-I'm not agreeing to that.
 
 602
 00:36:32,110 --> 00:36:33,650
 那他妈是什么
-What the fuck is that?
 
 603
 00:36:36,010 --> 00:36:36,960
 我去
-God!
 
 604
 00:36:37,030 --> 00:36:38,030
 哦 妈的
-Oh, shit.
 
 605
 00:36:38,640 --> 00:36:39,690
 那是什么
-What is that?
 
 606
 00:36:42,750 --> 00:36:43,540
 哇 等等
-Whoa, hold on.
 
 607
 00:36:43,550 --> 00:36:45,370
-听着 我是万晨星 
-Listen. This is Wan Chenxing.
+听着 我是万晨星
 
 608
 00:36:45,380 --> 00:36:46,650
 我们之前见过
-We met earlier.
 
 609
 00:36:47,070 --> 00:36:48,530
 哇 等等
-Whoa, hold on.
 
 610
 00:36:48,540 --> 00:36:50,220
 有一个脱离这一切的方法
-There's a way out of this.
 
 611
 00:36:50,300 --> 00:36:53,700
 我让律师仔细查阅了章程 结果发现了一个漏洞
-I had my lawyers scour the bylaws and we found a loophole.
 
 612
 00:36:53,720 --> 00:36:55,120
 我们所要做的就是...
-All we have to do is...
 
 613
 00:36:56,000 --> 00:36:57,150
 哦 天呐
-Oh, my God!
 
 614
 00:36:59,470 --> 00:37:00,480
 打得好
-Nice shot.
 
 615
 00:37:01,240 --> 00:37:02,320
 她在那
-There she is.
 
 616
 00:37:02,400 --> 00:37:03,400
 抓住她
-Get her.
 
 617
 00:37:07,250 --> 00:37:09,450
 哦 天呐
-Oh, my God.
 
 618
 00:37:13,900 --> 00:37:14,900
 该死的
-God damn it.
 
 619
 00:37:16,250 --> 00:37:17,400
 斯基皮 打开屏幕
-Skippy, screens.
 
 620
 00:37:17,950 --> 00:37:19,790
 他们本不该离开果岭的
-They weren't supposed to make it off the green.
 
 621
 00:37:20,640 --> 00:37:22,050
 把那破玩意儿给我
-Give me the fucking thing.
 
 622
 00:37:30,720 --> 00:37:31,850
 该死的
-God damn it.
 
 623
 00:37:31,860 --> 00:37:33,420
 我们没有办法过去
-There's no way we're getting over that.
 
 624
 00:37:34,710 --> 00:37:36,320
 应该会有树可以爬的
-There's gotta be a tree we could climb.
 
 625
 00:37:36,330 --> 00:37:37,810
 哦 我们带着手铐爬树
-Oh, we're gonna climb with handcuffs?
 
 626
 00:37:38,680 --> 00:37:39,680
 好吧
-Okay.
 
 627
 00:37:40,000 --> 00:37:41,000
 好吧 好吧 操
-Okay, okay, fuck.
 
 628
 00:37:43,120 --> 00:37:44,530
 好吧 打开它
-Okay, turn it on.
 
 629
 00:37:45,490 --> 00:37:46,430
 这他妈是什么？
-What the fuck is this?
 
 630
 00:37:46,440 --> 00:37:47,900
 不 只需按输入1
-No, just press input one.
 
 631
 00:37:48,640 --> 00:37:49,410
 对 不 没错
-Yeah, no, it's right.
 
 632
 00:37:49,420 --> 00:37:50,200
 告诉我那个该死的输入1
-Show me fucking input one.
 
 633
 00:37:50,220 --> 00:37:51,820
 点击“开始” 然后点击“菜单” 再点击
-Go, press menu, and then go.
 
 634
 00:37:52,650 --> 00:37:54,940
 你们他妈真是蠢透了
-My, you're stupid fucking idiots.
 
 635
 00:37:56,790 --> 00:37:58,190
 她们再他妈哪儿？
-Where the fuck are they?
 
 636
 00:38:04,920 --> 00:38:06,760
 格蕾丝 我们跑了好久了
-Grace, we've been running forever!
 
 637
 00:38:07,690 --> 00:38:08,690
 操 嗷 操
-Fuck, ow, fuck!
 
 638
 00:38:08,700 --> 00:38:09,940
 你能慢点嘛？
-Can you just slow down, please?
 
 639
 00:38:09,960 --> 00:38:12,040
 哦 对不起
-Oh, I'm sorry.
 
 640
 00:38:12,130 --> 00:38:12,960
 好吧
-Okay.
 
 641
 00:38:12,980 --> 00:38:14,780
 我不敢相信你把我卷入到这破事中
-I can't believe you dragged me into this shit.
 
 642
 00:38:14,790 --> 00:38:16,000
 这是怎么发生的？
-How does this even happen?
 
 643
 00:38:16,020 --> 00:38:19,490
 你是说你不知道你老公信邪教？
-You're telling me you didn't know your fiancé was in a devil cult?
 
 644
 00:38:20,870 --> 00:38:21,910
 这似乎很难不注意到
-Seems kind of hard to miss.
 
 645
 00:38:21,920 --> 00:38:25,800
 我猜你大概只顾着数钱了
-I mean, your attention must have been on all that money.
 
 646
 00:38:25,910 --> 00:38:26,760
 什么？
-What?
 
 647
 00:38:27,010 --> 00:38:28,300
 你什么意思？
-What does that mean?
 
 648
 00:38:28,310 --> 00:38:30,120
 没什么 我只是说我的钱都是自己挣的
-Nothing, I'm just saying that I work for my shit,
 
 649
 00:38:30,140 --> 00:38:32,360
 我不需要靠有钱人来解决我的问题
-and I don't need some rich dick to solve my problems.
 
 650
 00:38:34,320 --> 00:38:35,250
 去你的
-Fuck you.
 
 651
 00:38:35,260 --> 00:38:35,830
 去你的
-Fuck you.
 
 652
 00:38:35,850 --> 00:38:36,920
-- 去你的 - 去你的
-- Fuck you. - Fuck you.
+- 去你的
+- 去你的
 
 653
 00:38:36,930 --> 00:38:38,270
 好吧 德里克是做什么的
-Okay, what does Derek do?
 
 654
 00:38:39,410 --> 00:38:40,410
 金融
-Finance.
 
 655
 00:38:40,800 --> 00:38:42,100
 哦 那是我在追有钱人？
-Oh, and I'm chasing Rich Dick?
 
 656
 00:38:42,980 --> 00:38:45,400
 我们刚认识的时候 他还是个穷演员
-He was a starving actor when we first met.
 
 657
 00:38:45,430 --> 00:38:47,280
 饿肚子的演员 还有金融硕士学位？
-Starving actor with a fallback MBA?
 
 658
 00:38:51,690 --> 00:38:53,290
 你以为我是编造了德里克这个人的吗？
-You think I made up Derek?
 
 659
 00:38:53,300 --> 00:38:54,550
 现在有点 对
-Kinda now, yeah.
 
 660
 00:38:54,700 --> 00:38:55,890
 你觉得我可悲
-You think I'm pathetic.
 
 661
 00:38:56,110 --> 00:38:58,270
 你就是见不得我混出头 而你没有
-You just can't handle it that I made it and you didn't.
 
 662
 00:39:00,350 --> 00:39:01,450
 格蕾丝
-Grace?
 
 663
 00:39:04,200 --> 00:39:05,820
 躲起来没用
-There's no use in hiding.
 
 664
 00:39:07,870 --> 00:39:09,690
 我知道你觉得我们是坏人
-I know you think we're the bad guys here.
 
 665
 00:39:12,270 --> 00:39:14,780
 但是没有好人坏人
-But there are no good guys or bad guys.
 
 666
 00:39:17,090 --> 00:39:18,580
 只是体制就是这样的
-There's just the system.
 
 667
 00:39:20,700 --> 00:39:22,810
 不知你是否意识到了
-Whether you realize it or not...
 
 668
 00:39:23,410 --> 00:39:25,530
 你也是这个体制的一部分
-you're a part of it, too.
 
 669
 00:39:26,760 --> 00:39:27,920
 你也是其中的一分子
-You contribute to it.
 
 670
 00:39:27,940 --> 00:39:29,200
 你在助长它
-How you enable it.
 
 671
 00:39:31,080 --> 00:39:32,650
 我并不比你们更邪恶
-I'm no more evil than you are.
 
 672
 00:39:34,960 --> 00:39:38,700
-我们不过是某个远比我们宏大的东西的一颗螺丝钉
-We just a small part of something that is much bigger than us.
+我们不过是某个远比我
+们宏大的东西的一颗螺丝钉
 
 673
 00:39:39,770 --> 00:39:41,800
 我们能行 我们能行 我们能行 我们能行
-We can do it, we can do it, we can do it, we can do it.
 
 674
 00:39:43,890 --> 00:39:45,930
 带着点尊严去死
-And die with a little dignity.
 
 675
 00:40:05,350 --> 00:40:06,350
 手铐
-Handcuffs!
 
 676
 00:40:09,360 --> 00:40:11,380
 快跑
-Go, go, go! Run, run, run!
 
 677
 00:40:19,860 --> 00:40:20,560
 起来
-Get up.
 
 678
 00:40:22,470 --> 00:40:23,840
 你真行
-Oh my God.
 
 679
 00:40:24,250 --> 00:40:25,960
 你可别搞砸了
-You cannot fuck up like that.
 
 680
 00:40:27,040 --> 00:40:28,900
 要让我们对爸爸所做的一切有意义
-The only way to make what we did to dad mean
 
 681
 00:40:28,920 --> 00:40:31,780
 唯一的办法就是把那个该死的席位夺回来
-something is to win that fucking seat back.
 
 682
 00:40:32,210 --> 00:40:33,210
 泰特斯
-Titus!
 
 683
 00:40:35,260 --> 00:40:36,630
 你明白吗？
-Do you understand?
 
 684
 00:40:38,850 --> 00:40:40,380
 这是唯一的方式
-That is the only way it matters.
 
 685
 00:40:56,340 --> 00:40:58,180
 让我们去那座楼找个电话
-Let's go to that building and look for a phone.
 
 686
 00:40:59,100 --> 00:41:01,680
 我们在这待得越久 被发现的可能性就越大
-The longer we're on this property, the better there are chances of finding us.
 
 687
 00:41:01,700 --> 00:41:02,690
 我们要找方法离开这
-We need to figure out a way to get out of here.
 
 688
 00:41:02,700 --> 00:41:03,780
 翻过那个墙
-Over that wall.
 
 689
 00:41:04,070 --> 00:41:05,470
 我们直接冲过去
-Let's just make a run for it.
 
 690
 00:41:05,480 --> 00:41:06,610
 那会完全暴露
-It's completely exposed.
 
 691
 00:41:07,210 --> 00:41:08,390
 你太鲁莽了
-You are too impulsive.
 
 692
 00:41:08,400 --> 00:41:09,500
 你从不考虑周全
-You never think things through.
 
 693
 00:41:09,520 --> 00:41:11,030
 你看 他们也没地方躲
-Look, they don't have anywhere to hide either.
 
 694
 00:41:11,050 --> 00:41:12,370
 你会害死我们俩的
-You're gonna get us both killed.
 
 695
 00:41:12,490 --> 00:41:15,500
 （西班牙语）现在轮到我了
-Y ahora me toca, toca a mí.
 
 696
 00:41:16,570 --> 00:41:19,670
 （西班牙语）丹福斯一家被我搞定了
-A los Danforth ya los jodí.
 
 697
 00:41:20,700 --> 00:41:22,180
 （西班牙语）你觉得你能赢吗？妹子
-¿Qué vas a ganar, tía?
 
 698
 00:41:22,670 --> 00:41:24,240
 （西班牙语）想的美
-¡Ni eso ni pollos en vinagre!
 
 699
 00:41:25,680 --> 00:41:27,570
 （西班牙语）操白痴
-Joder, gilipollas.
 
 700
 00:41:30,790 --> 00:41:31,790
 这太冒险了
-It's too risky.
 
 701
 00:41:31,880 --> 00:41:32,880
 这太冒险了
-It's too risky.
 
 702
 00:41:32,990 --> 00:41:34,670
 行 好吧 让我先好好想想
-Just, okay, just let me think this through.
 
 703
 00:41:34,680 --> 00:41:36,200
 有时候 你得冒一次险
-Sometimes you gotta take a risk.
 
 704
 00:41:41,620 --> 00:41:42,740
 那是枪声吗？
-Is that gunfire?
 
 705
 00:41:45,710 --> 00:41:47,630
 （西班牙语）终于 终于 终于
-Por fin, ya, ya, ya, por fin
 
 706
 00:41:54,430 --> 00:41:55,540
 哦 找到他了
-Oh, found him.
 
 707
 00:41:55,670 --> 00:41:56,920
 谁他妈在射她们
-Who's fucking shooting them?
 
 708
 00:42:13,200 --> 00:42:14,350
 你爸真他妈是个废物
-Your dad fucking sucks.
 
 709
 00:42:15,900 --> 00:42:16,500
 他妈的
-Shit.
 
 710
 00:42:16,520 --> 00:42:17,580
 他从不练习
-He never practices.
 
 711
 00:42:17,590 --> 00:42:20,350
 别让她跑了
-If she gets away, I swear to fucking God.
 
 712
 00:42:22,590 --> 00:42:24,430
@@ -3552,92 +2871,74 @@ If she gets away, I swear to fucking God.
 713
 00:42:26,050 --> 00:42:27,330
 你确定你要这么干吗？
-Are you sure you want to do that?
 
 714
 00:42:27,340 --> 00:42:28,230
 我只是
-I was just...
 
 715
 00:42:38,250 --> 00:42:39,250
 操
-Oh Fuck!
 
 716
 00:42:42,900 --> 00:42:44,100
 他射的越来越准了
-He's getting better.
 
 717
 00:42:49,600 --> 00:42:50,900
 别他妈的冒险了
-No more fucking risk!
 
 718
 00:42:52,660 --> 00:42:53,850
 我有个主意
-I have an idea.
 
 719
 00:42:53,970 --> 00:42:54,730
 （西班牙语）操
-¡Joder!
 
 720
 00:43:00,370 --> 00:43:01,880
 （西班牙语）现在轮到我了
-Ahora que sí que me toca a mí
 
 721
 00:43:08,650 --> 00:43:10,020
 （西班牙语）搞什么鬼？
-¿Qué diablos es?
 
 722
 00:43:14,990 --> 00:43:16,710
 （西班牙语）妈的 妈的 妈的
-¡Mierda, mierda, mierda!
 
 723
 00:43:26,490 --> 00:43:27,850
 （西班牙语）操
-¡Coño!
 
 724
 00:43:42,760 --> 00:43:44,290
 哦我的天呐
-Oh my God!
 
 725
 00:43:44,350 --> 00:43:46,100
 走 走 走 走
-Let's go, let's go, let's go, let's go!
 
 726
 00:43:46,480 --> 00:43:46,990
 混蛋
-Fucker!
 
 727
 00:43:47,000 --> 00:43:47,800
 哦我的天呐
-Oh my God!
 
 728
 00:43:47,820 --> 00:43:49,220
 别看 别看
-Don't look at it, don't look at it!
 
 729
 00:43:50,450 --> 00:43:51,880
 不 不 不 不 不
-No, no, no, no, no.
 
 730
 00:43:54,540 --> 00:43:55,600
 （西班牙语）命真硬啊
-¡De esta libré
 
 731
 00:43:57,840 --> 00:43:58,820
@@ -3647,362 +2948,291 @@ Okay？
 732
 00:43:59,260 --> 00:43:59,760
 好吧
-Okay
 
 733
 00:44:00,090 --> 00:44:01,620
 （西班牙语）狗娘养的
-¡Hijo de la gran puta!
 
 734
 00:44:06,500 --> 00:44:08,260
 操
-Fuck!
 
 735
 00:44:26,410 --> 00:44:27,410
 好
-Okay.
 
 736
 00:44:28,470 --> 00:44:30,040
 好 我们找到个电话
-Okay. We've got to find a phone.
 
 737
 00:44:31,490 --> 00:44:33,440
 血都流下来了
-You're leaving a trail of blood behind.
 
 738
 00:44:33,460 --> 00:44:34,460
 我们需要坐下来
-We need to sit down.
 
 739
 00:44:35,910 --> 00:44:36,630
 快点
-Come on.
 
 740
 00:44:36,790 --> 00:44:37,510
 坐在这
-Sit here.
 
 741
 00:44:40,730 --> 00:44:41,730
 坐下
-Sit.
 
 742
 00:44:42,580 --> 00:44:43,580
 操
-Fuck.
 
 743
 00:44:45,970 --> 00:44:46,730
 哦
-Oh.
 
 744
 00:44:47,830 --> 00:44:49,150
 好的 先从小的拔
-Alright, let's do the little one.
 
 745
 00:44:49,240 --> 00:44:49,960
 一
-One.
 
 746
 00:44:49,980 --> 00:44:50,980
 二
-Two.
 
 747
 00:44:52,240 --> 00:44:53,240
 三
-Three.
 
 748
 00:44:54,200 --> 00:44:55,600
 看着我
-Just focus on me.
 
 749
 00:44:56,320 --> 00:44:56,930
 准备好了吗？
-Ready?
 
 750
 00:44:56,950 --> 00:44:58,560
 好家伙 你现在还兼职当护士？
-Okay, what are you, a part-time nurse too?
 
 751
 00:44:58,580 --> 00:45:00,370
 或许是吧
-I don't know, maybe I am.
 
 752
 00:45:01,860 --> 00:45:05,260
 你毕业后干什么了
-So, what did you do after you graduated?
 
 753
 00:45:06,460 --> 00:45:07,460
 哦
-Oh.
 
 754
 00:45:10,930 --> 00:45:12,810
 我 呃...我没读完
-I, um, I didn't finish.
 
 755
 00:45:12,950 --> 00:45:14,130
 我不得不退学
-I had to drop out.
 
 756
 00:45:14,560 --> 00:45:15,660
 真的？
-Seriously?
 
 757
 00:45:15,740 --> 00:45:17,490
 是啊 然后我去端盘子
-Yeah, then I waited tables.
 
 758
 00:45:17,510 --> 00:45:19,130
 说了那么多“追随梦想”的大道理 结果就是这？
-After all that follow your dreams shit?
 
 759
 00:45:19,240 --> 00:45:20,920
 是啊 有时候梦想就是实现不了
-Yeah, well sometimes dreams don't work out.
 
 760
 00:45:22,710 --> 00:45:24,070
 然后我遇到了亚历克斯
-And then I met Alex.
 
 761
 00:45:24,140 --> 00:45:25,660
 那个梦想也没实现
-And that dream didn't work out either.
 
 762
 00:45:29,920 --> 00:45:30,630
 好吧
-Okay.
 
 763
 00:45:30,770 --> 00:45:31,770
 会有点疼
-It's gonna burn.
 
 764
 00:45:35,510 --> 00:45:36,510
 好了
-All right.
 
 765
 00:45:40,700 --> 00:45:42,400
 你知道吗 我找过你
-I tried to find you, you know.
 
 766
 00:45:43,490 --> 00:45:44,930
 我想邀请你参加婚礼
-I wanted to invite you to a wedding.
 
 767
 00:45:49,430 --> 00:45:50,580
 我不会来的
-I wouldn't have come.
 
 768
 00:45:52,060 --> 00:45:53,880
 我知道你不会来 但我想让你知道
-I know, but I wanted you to know
 
 769
 00:45:53,890 --> 00:45:55,450
 我是真心想邀请你的
-that I wanted you there.
 
 770
 00:46:00,290 --> 00:46:02,480
 嗯 你绝对没法让我穿上那些
-Well, there's no fucking way you would have got me
 
 771
 00:46:02,490 --> 00:46:04,760
 丑得要死的伴娘裙 所以
-in one of those ugly-ass bridesmaids' dresses, so...
 
 772
 00:46:05,690 --> 00:46:06,690
 好了 好了
-Alright, alright.
 
 773
 00:46:07,590 --> 00:46:08,940
 喝点？
-Shot for the pain?
 
 774
 00:46:08,960 --> 00:46:09,960
 耶
-Yeah.
 
 775
 00:46:13,980 --> 00:46:16,780
 虽然没什么能减轻跟你在一起的痛苦
-Although nothing's gonna numb the pain of being with you.
 
 776
 00:46:19,870 --> 00:46:20,960
 为了活到黎明
-To surviving till dawn.
 
 777
 00:46:21,870 --> 00:46:22,870
 再一次
-Again.
 
 778
 00:47:00,160 --> 00:47:01,220
 快点 这边
-Come on, this way!
 
 779
 00:47:11,320 --> 00:47:13,050
 听着 我们...
-Okay, we're gonna need...
 
 780
 00:47:13,070 --> 00:47:14,630
 我们得跟他正面硬刚 我们能对付他
-we're gonna have to fight him. we can take it.
 
 781
 00:47:14,640 --> 00:47:15,170
 打他吗？
-Fight him?
 
 782
 00:47:15,180 --> 00:47:16,120
 我们必须这么做
-We gonna do.
 
 783
 00:47:16,140 --> 00:47:17,420
 好吧 我们能行的
-It's okay. We can take it.
 
 784
 00:47:17,440 --> 00:47:19,280
 打架的时候 我们一直是彼此的后盾
-We've always had each other's backs in the fight.
 
 785
 00:47:19,290 --> 00:47:20,290
 好吗？
-Okay?
 
 786
 00:47:21,570 --> 00:47:22,570
 我们能做到的
-We can do this.
 
 787
 00:47:26,220 --> 00:47:27,580
 声音太大了
-That's gonna make a lot of waves.
 
 788
 00:47:27,590 --> 00:47:28,590
 没机会了
-We don't have choice.
 
 789
 00:47:30,920 --> 00:47:31,660
 别乱动
-You hold still.
 
 790
 00:47:31,920 --> 00:47:32,920
 你才别动
-You hold still.
 
 791
 00:48:01,840 --> 00:48:03,380
 你们无处可藏了
-You can't hide!
 
 792
 00:48:19,610 --> 00:48:20,470
 操
-Fuck!
 
 793
 00:48:20,630 --> 00:48:23,210
 老天 要是换我上 她早就死透了
-Oh my God, if it was me out there, she'd be dead.
 
 794
 00:48:23,270 --> 00:48:24,890
 是啊 当然是你了
-Yes, of course, it'd be you.
 
 795
 00:48:24,910 --> 00:48:25,950
 快点 快点 快点
-Come on, come on, come on.
 
 796
 00:48:26,870 --> 00:48:27,870
 走
-Go!
 
 797
 00:48:28,240 --> 00:48:29,320
 抓住那个婊子
-Get that bitch!
 
 798
 00:48:42,440 --> 00:48:43,220
 你
-You!
 
 799
 00:48:43,240 --> 00:48:46,500
 我们需要一些酒杯 因为我们要干杯了
-We are gonna need some glasses, cause we're about to have a toast.
 
 800
 00:48:53,990 --> 00:48:55,720
 哈 哈 哈 哈 哈
-Ha ha ha ha ha!
 
 801
 00:49:06,950 --> 00:49:10,380
-- 别跑 - 不 不 不 不 不
-- No. - No, no, no, no!
+- 别跑
+- 不 不 不 不 不
 
 802
 00:49:18,580 --> 00:49:19,820
 这他妈是什么？
-What the fuck?
 
 803
 00:49:22,930 --> 00:49:23,930
 沐浴时间
-Bath time!
 
 804
 00:49:24,020 --> 00:49:25,200
@@ -4011,3478 +3241,2802 @@ Bath time!
 805
 00:49:25,570 --> 00:49:27,070
 哦 不 嘿 嘿 嘿
-No, no, hey, hey, hey!
 
 806
 00:49:27,200 --> 00:49:28,200
 啊
-Ah!
 
 807
 00:49:48,200 --> 00:49:49,560
 你要干什么？
-What are you doing?
 
 808
 00:49:50,080 --> 00:49:51,340
 他可能会有手机
-He might have a phone.
 
 809
 00:50:17,690 --> 00:50:18,570
 天呐
-Jesus!
 
 810
 00:50:18,690 --> 00:50:19,290
 操
-Fuck!
 
 811
 00:50:19,330 --> 00:50:20,030
 我的天
-Oh god!
 
 812
 00:50:20,470 --> 00:50:21,470
 妈的
-Shit!
 
 813
 00:50:55,080 --> 00:50:57,540
 好吧 好吧 天呐
-Okay, Okay, God.
 
 814
 00:50:57,600 --> 00:50:58,600
 你能帮我吗 求你了
-Can you help me, please?
 
 815
 00:50:58,630 --> 00:50:59,670
 不 你自己可以的
-No, you got this.
 
 816
 00:50:59,680 --> 00:51:00,400
 你做的很好
-You're doing great.
 
 817
 00:51:00,420 --> 00:51:00,960
 我就不行
-I'm not.
 
 818
 00:51:00,970 --> 00:51:01,970
 我只会碍事
-I'll just get in the way.
 
 819
 00:51:10,510 --> 00:51:11,510
 哦 看
-Oh, look!
 
 820
 00:51:12,230 --> 00:51:13,230
 你做到了
-You did it!
 
 821
 00:51:13,740 --> 00:51:14,740
 我谢谢你啊
-Thanks for your help.
 
 822
 00:51:16,680 --> 00:51:17,800
 他死了
-He's gone.
 
 823
 00:51:19,080 --> 00:51:20,160
 对你的损失我很抱歉
-I'm so sorry for your loss.
 
 824
 00:51:21,650 --> 00:51:22,650
 拉詹先生
-Mr. Rajan?
 
 825
 00:51:23,130 --> 00:51:24,130
 他死了
-He's gone.
 
 826
 00:51:26,840 --> 00:51:31,150
-拉詹先生 令兄既已仙逝 
-Mr. Rajan, as your brother has left this mortal plane,
+拉詹先生 令兄既已仙逝
 
 827
 00:51:31,320 --> 00:51:33,000
 您可以上场了
-you may take the field.
 
 828
 00:51:35,310 --> 00:51:36,310
 我必须上场吗？
-Do I have to?
 
 829
 00:51:37,470 --> 00:51:40,840
-在所有继承审判中 您的家庭必须由最年长的成员
-Your family must be represented by the eldest member
+在所有继承审判中
+您的家庭必须由最年长的成员
 
 830
 00:51:40,860 --> 00:51:43,950
 或依法指定的家主代表
-or legally appointed head of household in all trials of succession.
 
 831
 00:51:44,370 --> 00:51:46,990
 根据第2条第3款C项
-Per Article 2, Section 3, Subsection C.
 
 832
 00:51:47,960 --> 00:51:51,050
 若不从 则意味着失去勒贝尔先生的庇护
-Failure to do so would mean forfeiture of Mr. LeBail's favor.
 
 833
 00:51:54,120 --> 00:51:56,420
-- 你是说... - 恐怕是的
-- You mean, um... - I'm afraid so.
+- 你是说...
+- 恐怕是的
 
 834
 00:52:01,210 --> 00:52:02,210
 我的老婆怎么样？
-What about my wife?
 
 835
 00:52:03,640 --> 00:52:07,020
 你是要放弃拉詹家族族长的身份吗？
-Are you saying you want to abdicate your status as head of the Rajan family?
 
 836
 00:52:07,390 --> 00:52:08,690
 并且让我老婆狩猎
-And make my wife hunt?
 
 837
 00:52:11,620 --> 00:52:12,360
 是的
-Yes.
 
 838
 00:52:12,840 --> 00:52:14,620
 （克罗地亚语）操你妈的
-Jebem ti mater da ti jebem.
 
 839
 00:52:14,670 --> 00:52:17,210
 （克罗地亚语）操你祖宗十八代
-I u pičku maternu i u sto pičke materne.
 
 840
 00:52:17,270 --> 00:52:18,370
 （克罗地亚语）你个畜生
-Gade jedan gade!
 
 841
 00:52:18,420 --> 00:52:20,140
 （克罗地亚语）咒你不得好死
-Crko da bog da!
 
 842
 00:52:20,160 --> 00:52:21,630
 混蛋
-Motherfucker!
 
 843
 00:52:22,180 --> 00:52:23,460
 请您在上面签个名
-I'll just need you to sign that.
 
 844
 00:52:23,580 --> 00:52:25,400
 马杜 如果你签那个
-Madhu, if you sign that...
 
 845
 00:52:27,090 --> 00:52:28,700
 我会让你死得很惨
-I will make you very dead.
 
 846
 00:52:30,350 --> 00:52:31,660
 我也不想这样做
-This is hard for me too.
 
 847
 00:52:35,540 --> 00:52:36,540
 不管了
-Fuck it.
 
 848
 00:52:40,820 --> 00:52:41,820
 好吧 没问题
-Okey dokey.
 
 849
 00:52:43,680 --> 00:52:45,470
 请吧 女士
-Ma'am, if you please.
 
 850
 00:52:50,150 --> 00:52:51,150
 好的 没问题
-Okey dokey.
 
 851
 00:52:56,170 --> 00:52:57,910
 911 你有什么紧急情况
-911, what's your emergency?
 
 852
 00:52:57,940 --> 00:53:01,280
 我需要帮助 我和我姐姐正在被...
-I need help, my sister and I are being...
 
 853
 00:53:01,660 --> 00:53:04,170
 我们现在在丹福斯赌场
-We're at the Danforth Casino,
 
 854
 00:53:04,180 --> 00:53:06,670
 高尔夫球场 或者说那个综合设施里
-golf course, whatever, compound.
 
 855
 00:53:06,680 --> 00:53:08,140
 有人要杀我们
-People are trying to kill us.
 
 856
 00:53:08,150 --> 00:53:10,830
 抱歉女士 您能说慢点 并重复一下吗？
-I'm sorry ma'am, could you slow down and repeat yourself?
 
 857
 00:53:12,430 --> 00:53:14,940
 我决定监控大院内所有外拨电话
-I decided to capture all the outgoing calls on the compound
 
 858
 00:53:14,960 --> 00:53:17,180
 以防他们设法弄到电话
-just in case they managed to get their hands on a phone.
 
 859
 00:53:17,190 --> 00:53:17,850
 怎么做的？
-How?
 
 860
 00:53:18,460 --> 00:53:20,110
 我们拥有这家电话公司
-We own the phone company.
 
 861
 00:53:20,460 --> 00:53:22,740
 而且他们全都是崇拜魔鬼的人
-And they're all devil worshippers.
 
 862
 00:53:22,810 --> 00:53:25,750
 我知道听起来很荒唐 但我们真的需要帮助
-I know it sounds insane, but we need help.
 
 863
 00:53:26,280 --> 00:53:29,680
 我们现在在丹福斯度假村 请派人过来
-We're at the Danforth Resort, please send someone.
 
 864
 00:53:30,220 --> 00:53:31,540
 好的 我知道了
-Yes, I understand.
 
 865
 00:53:31,660 --> 00:53:32,820
 我们会立即派人过去帮忙
-We will send help right away.
 
 866
 00:53:33,240 --> 00:53:34,560
 你能赶到正门吗？
-Can you make it to the main gate?
 
 867
 00:53:35,390 --> 00:53:36,390
 好的 我们会过去的
-Yeah, we'll be there.
 
 868
 00:53:36,760 --> 00:53:37,210
 好的
-Ok.
 
 869
 00:53:37,630 --> 00:53:38,630
 好的
-Ok.
 
 870
 00:53:40,080 --> 00:53:41,080
 好的
-Ok.
 
 871
 00:53:54,230 --> 00:53:55,560
 你相信吗？
-Are you sure about this?
 
 872
 00:53:55,580 --> 00:53:56,580
 是的 我确信
-Yeah, I'm sure.
 
 873
 00:53:57,730 --> 00:53:58,870
 我不会伤害你的
-I'm not here to hurt you.
 
 874
 00:54:00,340 --> 00:54:01,340
 你听到了吗 费丝
-Do you hear that Faith?
 
 875
 00:54:01,360 --> 00:54:03,160
 那个拿剑的女人不是来伤害我们的
-The lady with the sword isn't here to hurt us.
 
 876
 00:54:03,170 --> 00:54:03,710
 对的
-Right.
 
 877
 00:54:03,720 --> 00:54:08,520
 我可不想跟你打打杀杀
-I have no desire to get into some punchy, kicky situation with you.
 
 878
 00:54:09,620 --> 00:54:11,510
 有办法解决这个问题
-There's a way out of this.
 
 879
 00:54:12,590 --> 00:54:13,590
 我不是来杀你的
-I'm not here to kill you.
 
 880
 00:54:16,930 --> 00:54:17,930
 我来这
-I'm here...
 
 881
 00:54:21,030 --> 00:54:22,230
 提出个交易
-to offer you a deal.
 
 882
 00:54:26,130 --> 00:54:26,970
 好吧 怎么说
-Alright, what is it?
 
 883
 00:54:26,980 --> 00:54:28,800
 我让我的律师仔细查阅了章程
-I had my lawyers scour the bylaws.
 
 884
 00:54:28,810 --> 00:54:30,720
 我认为其他成员不知道这个
-I don't think the other council members know this,
 
 885
 00:54:30,730 --> 00:54:33,280
 如果你嫁给一个议会成员
-but if you marry into a high council family,
 
 886
 00:54:33,300 --> 00:54:37,290
-如果你嫁给我儿子 我们得到席位 而你也能活下去
- if you marry my son, we get the seat and you get to live.
+如果你嫁给我儿子
+我们得到席位 而你也能活下去
 
 887
 00:54:38,130 --> 00:54:38,830
 胡说
-Bullshit!
 
 888
 00:54:38,850 --> 00:54:41,080
 我向拉贝尔先生发誓
-I swear to Mr. LaBelle.
 
 889
 00:54:42,240 --> 00:54:43,300
 她同意
-She says yes.
 
 890
 00:54:43,310 --> 00:54:44,120
 不会再狩猎了
-No more Hunt.
 
 891
 00:54:44,130 --> 00:54:45,100
 不会再狩猎了
-No more Hunt.
 
 892
 00:54:45,200 --> 00:54:47,720
 听着 我知道你第一段婚姻结局不太好
-And look, I know your first marriage didn't end well.
 
 893
 00:54:47,920 --> 00:54:50,300
 但我儿子承福不像亚历克斯
-But my Cheng-Fu isn't like Alex.
 
 894
 00:54:50,800 --> 00:54:52,880
 虽然他是个傻子 但是他很善良
-He's an idiot, but he's kind.
 
 895
 00:54:52,890 --> 00:54:56,870
 如果丹福斯家族不再在幕后操控 世界会好得多
-And the world will be far better off without the Danforths pulling the strings.
 
 896
 00:54:57,170 --> 00:54:57,690
 格蕾丝
-Grace.
 
 897
 00:54:57,700 --> 00:54:59,330
 泰特斯是个变态疯子
-Titus is a psychopath.
 
 898
 00:54:59,570 --> 00:55:01,170
 他姐姐控制不了他
-His sister won't be able to control him.
 
 899
 00:55:01,270 --> 00:55:03,620
 世界会比现在更快走向末日
-And the world will go to hell faster than it already is.
 
 900
 00:55:05,120 --> 00:55:06,120
 但你是个好人
-But you're a good person.
 
 901
 00:55:06,830 --> 00:55:07,830
 当然不是
-Of course not.
 
 902
 00:55:07,840 --> 00:55:09,180
 但这只是程度上的差别罢了
-But it's a matter of degrees.
 
 903
 00:55:09,190 --> 00:55:12,380
 好吧 那我就这么嫁给了一个陌生人
-Right, okay, so I'm just married to some stranger.
 
 904
 00:55:12,690 --> 00:55:13,800
-- 对 但是 - 太好了
-- Yes, but... - Great!
+- 对 但是
+- 太好了
 
 905
 00:55:14,210 --> 00:55:15,360
 你们不必像夫妻一样生活
-You don't have to live as a couple.
 
 906
 00:55:15,380 --> 00:55:16,580
 你可以做任何你想做的事
-You can do whatever you want.
 
 907
 00:55:16,940 --> 00:55:17,560
 对 她会做的
-Yeah, she'll do it.
 
 908
 00:55:17,570 --> 00:55:18,570
 不
-No.
 
 909
 00:55:18,920 --> 00:55:19,320
 不
-No.
 
 910
 00:55:19,340 --> 00:55:19,770
 什么？
-What?
 
 911
 00:55:19,780 --> 00:55:21,260
 不...这也太容易了吧
-No, this seems too easy.
 
 912
 00:55:21,280 --> 00:55:22,760
 我什么都不用做吗？
-What, I wouldn't have to do anything?
 
 913
 00:55:24,160 --> 00:55:25,160
 好吧...
-Well...
 
 914
 00:55:26,250 --> 00:55:27,770
 好吧 她必须做什么
-Okay, well, what would she have to do?
 
 915
 00:55:27,780 --> 00:55:30,090
 严格来说 她算是组织的一员
-Technically, she'd be part of the organization, but
 
 916
 00:55:30,090 --> 00:55:32,910
 但她只需要做我们大家都要做的那些常规工作
-she'd just have to do the usual stuff we all have to do.
 
 917
 00:55:32,920 --> 00:55:34,340
-- 不算太糟 - 那是什么？
-- It's not so bad. - What's that?
+- 不算太糟
+- 那是什么？
 
 918
 00:55:34,360 --> 00:55:35,690
 那些常规工作？
-What's the usual stuff?
 
 919
 00:55:35,710 --> 00:55:38,980
-- 我是说... - 你是说要献祭山羊 猪之类的？
-- I mean... - You mean sacrificing goats and shit and pigs?
+- 我是说...
+- 你是说要献祭山羊 猪之类的？
 
 920
 00:55:38,990 --> 00:55:41,030
 他妈的杀害无辜的人？
-Fucking killing innocent people?
 
 921
 00:55:41,780 --> 00:55:43,840
 出卖他妈的我的灵魂？
-Selling my fucking soul?
 
 922
 00:55:48,230 --> 00:55:49,540
 嗯 那还是算了
-Yeah, that's gonna be a no.
 
 923
 00:55:51,070 --> 00:55:52,070
 （西班牙语）他妈的
-Puta madre.
 
 924
 00:55:55,090 --> 00:55:56,210
 滚开 伊格纳西奥
-Fuck off, Ignacio!
 
 925
 00:55:56,230 --> 00:55:57,510
 你这个该死的怪胎
-You fucking weirdo!
 
 926
 00:55:57,530 --> 00:55:59,240
 你知道你不能杀我
-You know you can't kill me!
 
 927
 00:55:59,910 --> 00:56:00,700
 说同意
-Say yes!
 
 928
 00:56:00,710 --> 00:56:01,160
 现在
-Right now!
 
 929
 00:56:01,170 --> 00:56:01,700
 让开
-Move!
 
 930
 00:56:01,710 --> 00:56:03,410
 如果你不说 我会在他动手之前杀了你
-If you don't, I have to kill you before he does!
 
 931
 00:56:03,430 --> 00:56:04,200
 天呐
-Jesus Christ!
 
 932
 00:56:04,210 --> 00:56:04,920
 我同意了
-I'll do it!
 
 933
 00:56:04,930 --> 00:56:06,260
 我会嫁给你那该死的儿子
-I'll marry your fucking son!
 
 934
 00:56:06,380 --> 00:56:07,700
 晨 快点 让开
-Chen! Hurry up! Move!
 
 935
 00:56:07,890 --> 00:56:09,290
 说 同意 天呐
-Say yes, Jesus!
 
 936
 00:56:09,300 --> 00:56:10,300
 就说 同意
-Just say yes!
 
 937
 00:56:10,490 --> 00:56:11,670
 快说
-Just do it!
 
 938
 00:56:11,840 --> 00:56:12,200
 该死
-Yeah!
 
 939
 00:56:12,210 --> 00:56:12,880
 求你了
-Please!
 
 940
 00:56:12,890 --> 00:56:13,320
 晨
-Chen!
 
 941
 00:56:13,330 --> 00:56:14,070
 她会同意的
-She'll do it!
 
 942
 00:56:14,090 --> 00:56:15,880
 她会嫁给你那该死的儿子
-She'll marry your fucking son!
 
 943
 00:56:15,890 --> 00:56:17,180
 她必须说
-She has to say it!
 
 944
 00:56:17,200 --> 00:56:18,320
 你必须说
-You have to say it!
 
 945
 00:56:18,330 --> 00:56:19,790
 该死的
-God damn it!
 
 946
 00:57:02,250 --> 00:57:03,940
 为什么大家都看着我
-Why is everyone looking at me?
 
 947
 00:57:16,940 --> 00:57:17,940
 好吧...
-Okay, well...
 
 948
 00:57:18,400 --> 00:57:20,580
 我得赶紧弄个新的来
-I'll need a fresh one of these, stat.
 
 949
 00:57:20,730 --> 00:57:22,770
 还有 呃 给我件雨披之类的
-And, uh, give me a poncho or something.
 
 950
 00:57:23,250 --> 00:57:24,250
 谢谢 珍
-Thanks, Jen.
 
 951
 00:57:24,490 --> 00:57:25,490
 对
-Yeah.
 
 952
 00:57:32,440 --> 00:57:33,440
 好的
-Okay.
 
 953
 00:57:37,170 --> 00:57:40,820
 我真的不习惯有人在我面前自爆
-I'm really not used to people combusting all over me.
 
 954
 00:57:43,410 --> 00:57:44,410
 对
-Yeah.
 
 955
 00:57:44,570 --> 00:57:45,570
 不
-No.
 
 956
 00:57:46,370 --> 00:57:47,920
 确实总是让人猝不及防
-It's always surprising.
 
 957
 00:58:32,880 --> 00:58:34,150
 你为什么拒绝了
-Why did you say no?
 
 958
 00:58:35,820 --> 00:58:37,000
 你本可以救我们
-You could have saved us.
 
 959
 00:58:38,760 --> 00:58:42,390
 因为我不想后半辈子都他妈地去杀人
-Uh, because I don't want to spend the rest of my life fucking killing people.
 
 960
 00:58:42,890 --> 00:58:43,890
 好吧
-Okay.
 
 961
 00:58:44,310 --> 00:58:46,350
 那个女人出卖了自己的灵魂
-That lady sold her soul.
 
 962
 00:58:46,370 --> 00:58:47,340
 我不会做同样的事
-I'm not gonna sell mine.
 
 963
 00:58:47,350 --> 00:58:48,910
 我宁可去死 也不要那样活着
-I'd rather be dead than live like that.
 
 964
 00:58:49,840 --> 00:58:51,780
 你想知道为什么我不想冒险吗
-You wanna know why I don't take risks?
 
 965
 00:58:51,800 --> 00:58:53,450
 因为我冒了一次险
-It's because the one time... I did.
 
 966
 00:58:53,470 --> 00:58:55,330
 我去了纽约 结果被耍了 然后
-I got fucked and moved to New York and I...
 
 967
 00:58:55,820 --> 00:58:56,650
 我失去了你
-and I lost you.
 
 968
 00:58:56,770 --> 00:58:57,890
 你没有搬去纽约
-You didn't move to New York.
 
 969
 00:58:58,010 --> 00:58:59,010
 你抛弃了我
-You left me.
 
 970
 00:58:59,020 --> 00:59:00,380
 费丝 现在不是提这事的时候
-Faith, we can't do this right now.
 
 971
 00:59:00,870 --> 00:59:02,050
 你本应该可以带我一起走的
-You could have taken me with you.
 
 972
 00:59:02,070 --> 00:59:03,070
 我当时18岁
-I was 18!
 
 973
 00:59:04,240 --> 00:59:06,560
 那是一次千载难逢的奖学金机会
-It was a once-iN - a-lifetime scholarship.
 
 974
 00:59:06,580 --> 00:59:08,140
-- 你怎么会... - 我们是一个团队
-- How do you not... - We were a team.
+- 你怎么会...
+- 我们是一个团队
 
 975
 00:59:10,690 --> 00:59:12,460
 你本可以成为我的法定监护人
-You could have become my legal guardian.
 
 976
 00:59:12,470 --> 00:59:13,470
 你当时15岁？
-You were 15?
 
 977
 00:59:13,980 --> 00:59:15,900
 我怎么照顾你？
-I couldn't take care of you?
 
 978
 00:59:15,910 --> 00:59:16,980
 我可以帮助付房租
-I could have helped with rent.
 
 979
 00:59:17,000 --> 00:59:17,790
 怎么帮
-How?
 
 980
 00:59:17,860 --> 00:59:19,040
 那里是纽约
-It was New York.
 
 981
 00:59:19,050 --> 00:59:20,070
 你是一个孩子
-You were a kid.
 
 982
 00:59:20,090 --> 00:59:21,800
 对 你的孩子妹妹
-Yeah, your kid sister.
 
 983
 00:59:21,810 --> 00:59:22,530
 我告诉过你
-I told you.
 
 984
 00:59:22,550 --> 00:59:23,750
 我曾有个计划
-I had a plan.
 
 985
 00:59:23,760 --> 00:59:25,940
 我会为我们两个打拼出更好的生活
-I was gonna make a better life for both of us.
 
 986
 00:59:25,960 --> 00:59:27,460
 等我毕业了就把你接过来
-I was gonna bring you out once I graduated.
 
 987
 00:59:27,480 --> 00:59:29,440
 你知道那个年纪 三年有多漫长吗？
-Do you know how long three years is at that age?
 
 988
 00:59:29,660 --> 00:59:30,660
 费丝 你当时还好
-Faith, you were okay.
 
 989
 00:59:30,830 --> 00:59:31,830
 你很安全
-You were safe.
 
 990
 00:59:32,290 --> 00:59:34,230
 格蕾丝...我们的养父母人不坏
-Grace... We had decent foster parents.
 
 991
 00:59:34,300 --> 00:59:35,700
 你有个栖身之所
-You had a roof over your head.
 
 992
 00:59:35,720 --> 00:59:36,720
 格蕾丝
-Grace...
 
 993
 00:59:38,720 --> 00:59:39,760
 你抛弃了我
-You left me.
 
 994
 00:59:42,260 --> 00:59:45,290
 我给你打了好几年电话
-I called you for years.
 
 995
 00:59:45,590 --> 00:59:47,710
 你根本不接
-You didn't wanna talk to me!
 
 996
 00:59:48,100 --> 00:59:49,100
 我那时很生气
-I was mad.
 
 997
 00:59:49,110 --> 00:59:51,310
 你伤透了我的心
-It broke my fucking heart.
 
 998
 00:59:51,330 --> 00:59:52,640
 在你伤透我的心之后
-After you broke mine.
 
 999
 00:59:56,310 --> 00:59:58,390
 你还记得你对我说的最后一句话吗
-You remember the last thing you said to me?
 
 1000
 01:00:00,530 --> 01:00:03,810
 我说 求你了 不要走 你说...
-I said, please don't go, and you said...
 
 1001
 01:00:05,850 --> 01:00:07,320
 “我必须走”
-"I have to.
 
 1002
 01:00:07,700 --> 01:00:09,260
 “没有其他选择”
-"There's no other way."
 
 1003
 01:00:13,210 --> 01:00:14,210
 我他妈真的很抱歉
-I'm fucking sorry.
 
 1004
 01:00:16,510 --> 01:00:17,660
 我为你感到开心
-I'm happy for you.
 
 1005
 01:00:18,930 --> 01:00:21,120
 我为你和你完美的生活感到开心
-I'm very happy for you and your perfect life.
 
 1006
 01:00:27,630 --> 01:00:29,020
 德里克这个人是我编的
-I made up Derek.
 
 1007
 01:00:32,260 --> 01:00:34,690
 我住在布什维克
-I live in Bushwick,
 
 1008
 01:00:34,710 --> 01:00:37,440
 也不是什么自媒体人
-and I'm not a social media manager.
 
 1009
 01:00:39,150 --> 01:00:40,360
 你干什么的
-What do you do?
 
 1010
 01:00:41,750 --> 01:00:42,750
 我是个迎宾员
-I'm a hostess.
 
 1011
 01:00:46,350 --> 01:00:48,720
 严格来说 我是服务员 职级比你高
-Technically, as a waitress, I outrank you.
 
 1012
 01:00:50,750 --> 01:00:53,250
 他们说我太好看了 所以让我当迎宾
-They made me a hostess because they said I'm so pretty.
 
 1013
 01:00:53,560 --> 01:00:54,880
 是啊 但你拿不到小费
-Yeah, but you don't get any tips.
 
 1014
 01:00:55,410 --> 01:00:57,210
 我收到很多小费 因为我真的很漂亮
-I get a lot of tips because I'm really pretty.
 
 1015
 01:00:57,240 --> 01:01:00,340
-哈 我不需要小费 因为我那个假男朋友德里克赚大钱
-Well, I don't need tips because my fake boyfriend Derek makes bank, so...
+哈 我不需要小费
+因为我那个假男朋友德里克赚大钱
 
 1016
 01:01:00,930 --> 01:01:02,520
 对 对 对 对
-Right, right, right, right.
 
 1017
 01:01:03,860 --> 01:01:04,930
 上帝保佑德里克
-God bless Derek.
 
 1018
 01:01:06,610 --> 01:01:07,610
 我们走吧
-Let's go.
 
 1019
 01:01:09,800 --> 01:01:10,800
 他们在哪儿？
-Where are they?
 
 1020
 01:01:16,280 --> 01:01:17,650
 妈的 你能接那个电话吗
-Shit, can you get that?
 
 1021
 01:01:17,990 --> 01:01:18,990
 可能是她们
-It could be them.
 
 1022
 01:01:22,030 --> 01:01:23,490
-- 接 - 我不想接
-- Answer it. - I don't want to answer it.
+- 接
+- 我不想接
 
 1023
 01:01:23,500 --> 01:01:25,810
 她们不能两次找到同一个911接线员
-They can't get the same 911 operator twice.
 
 1024
 01:01:25,830 --> 01:01:26,830
 我他妈说什么
-The fuck do I say?
 
 1025
 01:01:27,060 --> 01:01:28,430
 赶紧他妈的接就是了
-Just fucking answer it.
 
 1026
-01:01:31,900 --> 01:01:33,090
-911
-911.
-
-1027
 01:01:33,950 --> 01:01:35,250
 你有什么紧急情况
-What's your emergency?
 
-1028
+1027
 01:01:35,480 --> 01:01:36,180
 我们到了
-We're here.
 
-1029
+1028
 01:01:36,200 --> 01:01:37,200
 警察在哪儿？
-Where are the cops?
 
-1030
+1029
 01:01:40,920 --> 01:01:42,030
 你们在哪儿？
-Where are you?
 
-1031
+1030
 01:01:42,110 --> 01:01:43,730
 我们沿着墙走向正门
-We're following a wall to the main gate.
 
-1032
+1031
 01:01:43,760 --> 01:01:45,080
 我没看到警车
-I don't see a cop car.
 
-1033
+1032
 01:01:47,620 --> 01:01:50,290
 警察在附近
-The unit is close.
 
-1034
+1033
 01:01:50,330 --> 01:01:53,780
 待在大门附近 他们会看见你的
-Just wait there at the gate, and they will see you.
 
-1035
+1034
 01:01:56,960 --> 01:01:58,200
 你个婊子
-You bitch.
 
-1036
+1035
 01:01:59,530 --> 01:02:00,580
 料到了吗？
-Did you see that?
 
-1037
+1036
 01:02:00,600 --> 01:02:01,600
 漂亮
-Nice.
 
-1038
+1037
 01:02:01,720 --> 01:02:04,320
 所以 我们一听就知道是你的声音 他妈的蠢货
-So, we knew it was your voice on the phone, fucking dumbass.
 
-1039
+1038
 01:02:04,340 --> 01:02:05,340
 对 白痴
-Yeah, idiots.
 
-1040
+1039
 01:02:05,640 --> 01:02:06,780
 我们一直在监视你
-We've been watching you.
 
-1041
+1040
 01:02:06,920 --> 01:02:07,920
 你真行
-Good for you.
 
-1042
+1041
 01:02:07,940 --> 01:02:09,610
 好吧 嗯 告诉我们怎么开门
-All right, well, tell us how to open the gate.
 
-1043
+1042
 01:02:09,620 --> 01:02:11,540
 你只能在控制室操作
-Well, you can only do that from the control room.
 
-1044
+1043
 01:02:12,310 --> 01:02:13,310
 我们如何到那
-How do we get there?
 
-1045
+1044
 01:02:13,520 --> 01:02:14,520
 对
-Yeah.
 
-1046
+1045
 01:02:15,070 --> 01:02:19,610
 嗯 你回去 左转
-Well, you go back inside, you make a left.
 
-1047
+1046
 01:02:19,750 --> 01:02:21,960
 最右侧的那部电梯是唯一一部
-The elevator on the far right is the only one
 
-1048
+1047
 01:02:21,980 --> 01:02:24,310
 通往地下二层的电梯
-that descends to the sub-basement.
 
-1049
+1048
 01:02:24,330 --> 01:02:26,170
 右转 进入控制室
-You make a right, you go into the control room.
 
-1050
+1049
 01:02:27,150 --> 01:02:28,150
 当你进去后
-When you're inside...
 
-1051
+1050
 01:02:30,060 --> 01:02:31,820
 你自己想办法吧
-you fuck yourself.
 
-1052
+1051
 01:02:34,010 --> 01:02:35,180
 告诉我们如何打开它
-Tell us how to open it.
 
-1053
+1052
 01:02:35,200 --> 01:02:37,830
 我不告诉你
-I don't feel like it.
 
-1054
+1053
 01:02:42,040 --> 01:02:45,420
 告诉我们怎么开门 否则我们杀了你哥哥
-Tell us how to open the gate, or we're gonna kill your brother.
 
-1055
+1054
 01:02:47,100 --> 01:02:48,100
 随便
-Fine.
 
-1056
+1055
 01:02:49,140 --> 01:02:50,140
 杀了他
-Kill him.
 
-1057
+1056
 01:02:52,500 --> 01:02:53,760
 我没在开玩笑
-I'm not fucking around.
 
-1058
+1057
 01:02:53,770 --> 01:02:54,770
 我也是
-Yeah, me neither.
 
-1059
+1058
 01:02:54,790 --> 01:02:56,390
 他死了 至高位就是我的了
-Him out of the way, the seat's all mine.
 
-1060
+1059
 01:02:58,110 --> 01:02:59,850
 真是冷血
-Well, that's some cold blooded shit.
 
-1061
+1060
 01:03:03,120 --> 01:03:04,330
 那么 谁抛弃了谁？
-So, who abandoned who?
 
-1062
+1061
 01:03:04,800 --> 01:03:05,800
 嗯？
-Hmm?
 
-1063
+1062
 01:03:06,310 --> 01:03:07,360
 当年
-Back in the day.
 
-1064
+1063
 01:03:07,370 --> 01:03:08,050
 闭嘴
-Shut up.
 
-1065
+1064
 01:03:08,610 --> 01:03:09,450
 你 对吗？
-You, right?
 
-1066
+1065
 01:03:09,470 --> 01:03:10,320
 你是姐姐
-You're older.
 
-1067
+1066
 01:03:10,330 --> 01:03:11,980
 她今天一整天都在拖你后腿
-She's just been holding you back all day.
 
-1068
+1067
 01:03:12,510 --> 01:03:14,290
 你知道她还会再次抛弃你的 对吧？
-You know she's gonna leave you again, right?
 
-1069
+1068
 01:03:14,310 --> 01:03:15,720
 闭上你的狗嘴
-Shut the fuck up!
 
-1070
+1069
 01:03:18,190 --> 01:03:19,250
 敢打我
-Fucking hit me!
 
-1071
+1070
 01:03:25,180 --> 01:03:26,020
 格蕾丝
-Grace!
 
-1072
+1071
 01:03:26,050 --> 01:03:26,540
 谁啊
-Who?
 
-1073
+1072
 01:03:26,550 --> 01:03:28,060
 对 对 撞死她
-Yes, yes, run her down!
 
-1074
+1073
 01:03:28,070 --> 01:03:29,070
 这就是我的婊子
-That's my bitch!
 
-1075
+1074
 01:03:29,370 --> 01:03:30,650
 别被撞死了
-Get out of the road!
 
-1076
+1075
 01:03:37,600 --> 01:03:39,010
 什么？
-What?!
 
-1077
+1076
 01:03:39,700 --> 01:03:40,770
 我想她已经走了 老兄
-I think she's leaving, boss.
 
-1078
+1077
 01:03:43,770 --> 01:03:44,480
 操
-Fuck!
 
-1079
+1078
 01:03:46,600 --> 01:03:47,640
 格蕾丝
-Grace?!
 
-1080
+1079
 01:03:51,730 --> 01:03:52,730
 费丝 快跑
-Faith, Go!
 
-1081
+1080
 01:03:57,570 --> 01:03:58,910
 你在干什么？
-What are you doing?
 
-1082
+1081
 01:03:59,350 --> 01:04:00,350
 快走
-Get out!
 
-1083
+1082
 01:04:00,810 --> 01:04:01,810
 跑
-Run!
 
-1084
+1083
 01:04:16,710 --> 01:04:17,790
 放弃吧 格蕾丝
-Give it up, Grace.
 
-1085
+1084
 01:04:18,060 --> 01:04:19,860
 这是最好的结局
-This is for the best.
 
-1086
+1085
 01:04:26,670 --> 01:04:28,020
 滚吧你
-Get the fuck off her!
 
-1087
+1086
 01:04:32,150 --> 01:04:33,150
 快点
-Come on!
 
-1088
+1087
 01:04:34,070 --> 01:04:35,550
 一 二 三 起来
-One, two, three, come on!
 
-1089
+1088
 01:04:36,270 --> 01:04:37,270
 好吧 好吧
-Okay, alright.
 
-1090
+1089
 01:04:40,100 --> 01:04:41,100
 哦天呐
-Oh my god!
 
-1091
+1090
 01:04:41,320 --> 01:04:42,640
 我们要上高尔夫球车
-We're gonna get into a golf cart!
 
-1092
+1091
 01:04:46,460 --> 01:04:47,460
 快点
-Come on!
 
-1093
+1092
 01:04:51,560 --> 01:04:53,140
 走 走 走
-Let's go. let's go, let's go!
 
-1094
+1093
 01:04:59,800 --> 01:05:01,180
 “杀了他”
-"Kill him."
 
-1095
+1094
 01:05:01,260 --> 01:05:02,720
 “我不在意”
-"I don't care."
 
-1096
+1095
 01:05:03,010 --> 01:05:04,420
 我是在拖延时间 白痴
-I was stalling, you idiot.
 
-1097
+1096
 01:05:06,380 --> 01:05:08,440
 我肯定对你做了不少事
-I surely did a number on you.
 
-1098
+1097
 01:05:08,900 --> 01:05:09,900
 你看...
-You look at the...
 
-1099
+1098
 01:05:10,900 --> 01:05:13,220
 别他妈把我当小孩子
-Stop treating me like I'm a fucking child.
 
-1100
+1099
 01:05:37,460 --> 01:05:38,350
 好吧
-Okay.
 
-1101
+1100
 01:05:38,370 --> 01:05:40,900
 我准备好上场了
-I am ready to take the field.
 
-1102
+1101
 01:05:42,350 --> 01:05:43,930
 实际上你不被允许上场
-You're not allowed to, actually.
 
-1103
+1102
 01:05:44,840 --> 01:05:45,840
 你放弃了
-You abdicated.
 
-1104
+1103
 01:05:46,610 --> 01:05:48,250
 你不再是家族的族长了
-You're no longer the head of your family.
 
-1105
+1104
 01:05:48,850 --> 01:05:50,530
 而且你的妻子控制着你所有的资产
-And your wife controls all of your assets.
 
-1106
+1105
 01:05:51,310 --> 01:05:54,840
 即使她选择不参与狩猎 她仍然代表你的家族
-Even though she's chosen not to hunt, she still represents your family.
 
-1107
+1106
 01:05:56,780 --> 01:05:57,510
 什么
-Pardon?
 
-1108
+1107
 01:05:58,360 --> 01:05:59,360
 你一无所有
-You own nothing.
 
-1109
+1108
 01:06:07,580 --> 01:06:08,680
 我想 呃
-I think, uh...
 
-1110
+1109
 01:06:09,800 --> 01:06:11,650
 我想我需要躺下
-I think I need to lie down.
 
-1111
+1110
 01:06:11,660 --> 01:06:13,340
 你兄弟的遗骸该送到哪里？
-Where shall I send your brother's remains?
 
-1112
+1111
 01:06:13,360 --> 01:06:14,820
 送去你妈的屁眼里
-To your mother's asshole.
 
-1113
+1112
 01:06:15,500 --> 01:06:17,250
 你这混蛋
-You fuck.
 
-1114
+1113
 01:06:18,090 --> 01:06:19,180
 睡个好觉
-Have a nice nap.
 
-1115
+1114
 01:06:22,330 --> 01:06:23,330
 操你
-Fuck you!
 
-1116
+1115
 01:06:23,820 --> 01:06:24,880
 还有你
-Fuck you!
 
-1117
+1116
 01:06:25,030 --> 01:06:27,770
 还有你 你这变态小杂种
-And fuck you, you creepy little fuck!
 
-1118
+1117
 01:06:27,790 --> 01:06:30,160
 我他妈的恨死你们了
-I fucking hate all of you!
 
-1119
+1118
 01:06:34,190 --> 01:06:35,330
 你也去死吧
-Fuck you too.
 
-1120
+1119
 01:06:38,520 --> 01:06:39,330
 好吧
-Okay.
 
-1121
+1120
 01:06:40,290 --> 01:06:41,700
 你一点都不难过
-That's not at all sad.
 
-1122
+1121
 01:06:42,750 --> 01:06:43,750
 我准备好了
-I'm ready.
 
-1123
+1122
 01:06:45,070 --> 01:06:46,210
 给我那该死的笔
-Give me the fucking pen.
 
-1124
+1123
 01:06:51,990 --> 01:06:52,990
 快点
-Come on.
 
-1125
+1124
 01:06:53,260 --> 01:06:54,640
 快 跑 跑 跑
-Come on, run, run, run.
 
-1126
+1125
 01:07:11,430 --> 01:07:13,570
 跟你说了要跑
-told you to fucking run.
 
-1127
+1126
 01:07:14,190 --> 01:07:15,190
 坐下
-Just sit.
 
-1128
+1127
 01:07:17,290 --> 01:07:19,680
 让我帮你拔出来
-Let me...let me help pull it out.
 
-1129
+1128
 01:07:19,690 --> 01:07:21,040
 必须拔出来
-It's gotta come out!
 
-1130
+1129
 01:07:44,250 --> 01:07:45,930
 我去给你找点止痛的东西
-I'm gonna find you something for the pain.
 
-1131
+1130
 01:07:49,230 --> 01:07:50,040
 哦
-Oh!
 
-1132
+1131
 01:07:50,240 --> 01:07:51,330
 要辣椒喷雾吗？
-There's pepper spray.
 
-1133
+1132
 01:07:52,160 --> 01:07:53,570
 你脑子蠢吗？
-You don't think?
 
-1134
+1133
 01:07:53,580 --> 01:07:55,160
 你听不懂人话吗？
-You don't listen?
 
-1135
+1134
 01:07:56,400 --> 01:07:58,430
 所有选项摆在你面前
-Out of all the options in front of you,
 
-1136
+1135
 01:07:58,440 --> 01:08:00,510
 你偏偏次次都选最蠢的那个
-you always manage to pick the dumbest one.
 
-1137
+1136
 01:08:00,650 --> 01:08:01,770
 真厉害啊
-It's actually impressive.
 
-1138
+1137
 01:08:01,780 --> 01:08:02,840
 你怎么每次都能那么蠢的
-How do you do it?
 
-1139
+1138
 01:08:02,860 --> 01:08:04,000
 我救了你
-I saved you.
 
-1140
+1139
 01:08:04,010 --> 01:08:05,700
 你本来可以自救的
-You could have saved yourself.
 
-1141
+1140
 01:08:06,100 --> 01:08:07,510
 你本可以去找救援
-You could have gotten help.
 
-1142
+1141
 01:08:08,050 --> 01:08:09,700
 我照顾不了我们俩
-I can't take care of both of us.
 
-1143
+1142
 01:08:09,720 --> 01:08:10,740
 我真的做不到
-I can't do it.
 
-1144
+1143
 01:08:10,760 --> 01:08:11,440
 哦 都是我的错
-Oh, it's all my fault.
 
-1145
+1144
 01:08:11,460 --> 01:08:12,320
 我知道 我真是个累赘
-And I know. I'm such a burden.
 
-1146
+1145
 01:08:12,330 --> 01:08:13,390
 你还真是个孩子
-You're a fucking child!
 
-1147
+1146
 01:08:13,400 --> 01:08:15,120
 我他妈来这里唯一的原因就是你
-The only reason I'm fucking here is because of you,
 
-1148
+1147
 01:08:15,140 --> 01:08:17,230
 而现在我他妈要死在这里也是因为你
-and now I'm gonna fucking die here because of you!
 
-1149
+1148
 01:08:17,510 --> 01:08:19,770
 要不是我 你几小时前就死了
-You would have died hours ago if it wasn't for me.
+
+1149
+01:08:19,860 --> 01:08:23,060
+哦 抱歉我没跑掉把你扔下
+但这事儿更像你的作风
 
 1150
-01:08:19,860 --> 01:08:23,060
-哦 抱歉我没跑掉把你扔下 但这事儿更像你的作风
-Oh, I'm sorry I didn't run away and abandon you, but that's more your thing.
-
-1151
 01:08:25,000 --> 01:08:27,590
 我离开是对的
-I was right to fucking leave.
 
-1152
+1151
 01:08:28,310 --> 01:08:30,520
 我真希望你他妈从没找到我
-And I wish you never goddamn found me.
 
-1153
+1152
 01:08:42,380 --> 01:08:43,380
 你说得对
-You're right.
 
-1154
+1153
 01:08:44,270 --> 01:08:45,100
 我应该跑的
-I should have run.
 
-1155
+1154
 01:08:48,620 --> 01:08:49,620
 祝你好运
-Good luck.
 
-1156
+1155
 01:08:49,760 --> 01:08:50,760
 滚吧
-And fuck off.
 
-1157
+1156
 01:09:34,230 --> 01:09:35,800
 费丝 等等
-Faith, wait!
 
-1158
+1157
 01:09:35,810 --> 01:09:36,810
 嗨 贱人
-Hi, cunt.
 
-1159
+1158
 01:09:43,320 --> 01:09:44,300
 再见 贱人
-Bye, cunt.
 
-1160
+1159
 01:09:44,320 --> 01:09:45,320
 操
-Fuck.
 
-1161
+1160
 01:09:48,750 --> 01:09:49,750
 真的？
-Really?
 
-1162
+1161
 01:09:50,970 --> 01:09:55,230
 操你妈
-Fuck.
 
-1163
+1162
 01:10:25,830 --> 01:10:27,410
 又一个人了
-All alone again?
 
-1164
+1163
 01:10:28,050 --> 01:10:29,050
 哈？
-Huh?
 
-1165
+1164
 01:10:29,990 --> 01:10:31,490
 以为你能搞我
-Thought you could fuck with me.
 
-1166
+1165
 01:10:35,300 --> 01:10:36,400
 你姐姐呢
-Where's your sister?
 
-1167
+1166
 01:10:36,460 --> 01:10:37,710
 她走了
-She's gone!
 
-1168
+1167
 01:10:37,870 --> 01:10:40,310
 她现在正在带警察过来
-She's probably bringing the cops right now!
 
-1169
+1168
 01:10:50,580 --> 01:10:52,600
 我们掌管着警察
-We own the cops.
 
-1170
+1169
 01:11:09,810 --> 01:11:10,810
 该死
-Goddammit!
 
-1171
+1170
 01:11:12,530 --> 01:11:14,970
 你他妈在哪儿 婊子？
-Where the fuck are you, whore?
 
-1172
+1171
 01:11:13,920 --> 01:11:15,530
 {\an7}<i>♪ 转身来 ♪
-♪ Turn around ♪</i>
 
-1173
+1172
 01:11:15,810 --> 01:11:17,650
 我要把你撕碎
-I'm gonna tear you apart!
 
-1174
+1173
 01:11:15,850 --> 01:11:18,960
 {\an7}<i>♪ 偶尔我会孤单 心头猛地沉甸甸 ♪
-♪ Every now and then, I get a little bit lonely ♪</i>
 
-1175
+1174
 01:11:18,970 --> 01:11:21,360
 {\an7}<i>♪ 你却总不会再出现 ♪
-♪ And you're never coming 'round ♪</i>
 
-1176
+1175
 01:11:21,560 --> 01:11:23,340
 {\an7}<i>♪ 转身来 ♪
-♪ Turn around ♪</i>
 
-1177
+1176
 01:11:23,370 --> 01:11:26,290
 {\an7}<i>♪ 偶尔我会疲惫 ♪
-♪ Every now and then, I get a little bit tired ♪</i>
 
-1178
+1177
 01:11:26,310 --> 01:11:28,650
 {\an7}<i>♪ 厌倦听自己哭声回旋 ♪
-♪ Of listening to the sound of my tears ♪</i>
 
-1179
+1178
 01:11:28,670 --> 01:11:29,670
 （西班牙语）你个臭婊子
-¡Hija de puta!
 
-1180
+1179
 01:11:28,720 --> 01:11:30,210
 {\an7}<i>♪ 转身来 ♪
-♪ Turn around ♪</i>
 
-1181
+1180
 01:11:30,240 --> 01:11:34,230
 {\an7}<i>♪ 偶尔我会紧张 ♪
-♪ Every now and then, I get a little bit nervous ♪</i>
 
-1182
+1181
 01:11:34,250 --> 01:11:36,780
 {\an7}<i>♪ 怕光阴里最好的年华溜远 ♪
-♪ That the best of all the years have gone by ♪</i>
 
-1183
+1182
 01:11:36,800 --> 01:11:38,320
 {\an7}<i>♪ 转身来... ♪
-♪ Turn around... ♪</i>
 
-1184
+1183
 01:11:38,920 --> 01:11:41,100
 拖累你姐姐 是你这辈子做过的
-Slowing your sister down is the only significant
 
-1185
+1184
 01:11:41,120 --> 01:11:43,480
 也是你以后唯一能做到的有意义的事
-thing you've ever done and will ever do.
 
-1186
+1185
 01:11:46,090 --> 01:11:47,550
 你连个人都算不上
-You're not even a person.
 
-1187
+1186
 01:11:48,100 --> 01:11:49,980
 只是一堆器官和
-It's just a collection of organs and...
 
-1188
+1187
 01:11:50,000 --> 01:11:53,480
 加上一堆毫无意义的想法...勉强拼凑成个人形
-meaningless opinions... approximating a person.
 
-1189
+1188
 01:11:59,870 --> 01:12:01,930
 {\an7}<i>♪ ...但又看见你眼里的光芒 ♪
-♪ ...And then I see the look in your eyes ♪</i>
 
-1190
+1189
 01:12:01,950 --> 01:12:05,030
 {\an7}<i>♪ 转身来 睁开眼 ♪
-♪ Turn around, bright eyes ♪</i>
 
-1191
+1190
 01:12:05,060 --> 01:12:07,190
 {\an7}<i>♪ 偶尔我会崩溃 四分五裂 ♪
-♪ Every now and then, I fall apart ♪</i>
 
-1192
+1191
 01:12:07,210 --> 01:12:10,780
 {\an7}<i>♪ 转身来 睁开眼 ♪
-♪ Turn around, bright eyes ♪</i>
 
-1193
+1192
 01:12:10,790 --> 01:12:13,190
 {\an7}<i>♪ 偶尔我会崩溃 四分五裂 ♪
-♪ Every now and then, I fall apart ♪</i>
 
-1194
+1193
 01:12:13,290 --> 01:12:16,370
 {\an7}<i>♪ 我今晚多想你 ♪
-♪ And I need you now tonight ♪</i>
 
-1195
+1194
 01:12:16,410 --> 01:12:20,270
 {\an7}<i>♪ 此刻比任何时候都更需要你 ♪
-♪ And I need you more than ever ♪</i>
 
-1196
+1195
 01:12:20,880 --> 01:12:23,640
 {\an7}<i>♪ 只要你紧紧抱我一次 ♪
-♪ And if you only hold me tight ♪</i>
 
-1197
+1196
 01:12:24,560 --> 01:12:27,210
 {\an7}<i>♪ 我们就能永远相依 ♪
-♪ We'll be holding on forever ♪</i>
 
-1198
+1197
 01:12:28,190 --> 01:12:31,360
 {\an7}<i>♪ 我们会把一切修正成对 ♪
-♪ And we'll only be making it right ♪</i>
 
-1199
+1198
 01:12:31,610 --> 01:12:33,950
 {\an7}<i>♪ 因为我们不会错 ♪
-♪ 'Cause we'll never be wrong ♪</i>
 
-1200
+1199
 01:12:33,960 --> 01:12:37,240
 {\an7}<i>♪ 并肩走到尽头的尽头 ♪
-♪ Together, we can take it to the end of the line ♪</i>
 
-1201
+1200
 01:12:37,820 --> 01:12:41,320
 {\an7}<i>♪ 你的爱像影子缠绕我始终 ♪
-♪ Your love is like a shadow on me all of the time ♪</i>
 
-1202
+1201
 01:12:41,640 --> 01:12:44,840
 {\an7}<i>♪ 我今晚真的需要你 ♪
-♪ I really need you tonight ♪</i>
 
-1203
+1202
 01:12:45,120 --> 01:12:47,470
 {\an7}<i>♪ 永远 就从今晚开始 ♪
-♪ Forever's gonna start tonight ♪</i>
 
-1204
+1203
 01:12:47,930 --> 01:12:50,230
 {\an7}<i>♪ 永远 就从今晚开始 ♪
-♪ Forever's gonna start tonight ♪</i>
 
-1205
+1204
 01:12:50,240 --> 01:12:53,460
 我一直期盼着这一刻
-I've been dreaming about this moment.
 
-1206
+1205
 01:12:54,170 --> 01:12:56,030
 你显然不清楚自己现在在哪
-You obviously don't know where you are.
 
-1207
+1206
 01:12:56,210 --> 01:12:57,570
 这是我的地盘
-This is my house.
 
-1208
+1207
 01:12:59,080 --> 01:13:00,710
 而庄家永远都赢
-And the house always wins.
 
-1209
+1208
 01:13:10,210 --> 01:13:12,310
 这句话你憋多久了？
-How long have you been saving that one for?
 
-1210
+1209
 01:13:12,330 --> 01:13:14,460
 他妈的混蛋
-Fucking douchebag.
 
-1211
+1210
 01:13:23,440 --> 01:13:25,360
 这是我母亲的裙子
-This was my mother's dress.
 
-1212
+1211
 01:13:25,380 --> 01:13:27,860
 她唯一的心愿就是让我幸福
-All she ever wanted was for me to be happy.
 
-1213
+1212
 01:13:27,870 --> 01:13:29,990
 而亚历克斯让我幸福
-And Alex made me happy.
 
-1214
+1213
 01:13:30,080 --> 01:13:31,080
 闭嘴
-Shut up.
 
-1215
+1214
 01:13:33,050 --> 01:13:34,410
 你疯了
-You're fucking crazy.
 
-1216
+1215
 01:13:48,900 --> 01:13:50,760
 我现在就要杀了你
-I'm gonna kill you now.
 
-1217
+1216
 01:13:55,000 --> 01:13:56,670
 你偷走了他
-You stole him.
 
-1218
+1217
 01:13:57,030 --> 01:13:58,320
 你改变了他
-You changed him.
 
-1219
+1218
 01:13:58,360 --> 01:14:00,520
 姐 他根本不爱你
-Dude, he didn't fucking love you.
 
-1220
+1219
 01:14:50,640 --> 01:14:51,520
 泰特斯
-Titus!
 
-1221
+1220
 01:14:51,930 --> 01:14:52,930
 泰特斯 停下
-Titus, stop!
 
-1222
+1221
 01:14:53,730 --> 01:14:55,460
 泰特斯 你他妈在干什么
-Titus, what the fuck are you doing?
 
-1223
+1222
 01:14:55,480 --> 01:14:56,520
 我要杀了这女孩
-I'm killing this girl!
 
-1224
+1223
 01:14:56,720 --> 01:14:59,100
 天呐 泰特斯 我们没时间陪你...
-Jesus Christ, Titus, we don't have time...
 
-1225
+1224
 01:15:15,790 --> 01:15:17,230
 泰特斯 等等
-Titus, wait!
 
-1226
+1225
 01:15:21,160 --> 01:15:22,240
 我们可以利用她
-We can use her.
 
-1227
+1226
 01:15:25,720 --> 01:15:26,720
 费丝
-Faith!
 
-1228
+1227
 01:15:30,950 --> 01:15:31,950
 费丝
-Faith!
 
-1229
+1228
 01:15:32,890 --> 01:15:36,590
 格蕾丝 我知道你在外面
-Grace, I know you're out there.
 
-1230
+1229
 01:15:37,430 --> 01:15:40,770
 我抓到了你妹妹 格蕾丝
-I have your sister, Grace.
 
-1231
+1230
 01:15:41,790 --> 01:15:44,540
 别担心 她...
-Don't you worry, she's doing...
 
-1232
+1231
 01:15:44,560 --> 01:15:46,630
 嗯 她还没被揍烂掉
-well, she's doing just peachy.
 
-1233
+1232
 01:15:49,260 --> 01:15:50,040
 说话
-Go on
 
-1234
+1233
 01:15:51,510 --> 01:15:52,510
 格蕾丝
-Grace?
 
-1235
+1234
 01:15:53,890 --> 01:15:54,890
 格蕾丝
-Grace?
 
-1236
+1235
 01:15:54,900 --> 01:15:55,900
 好啊
-Yeah.
+
+1236
+01:15:56,560 --> 01:16:00,790
+如果你在接下来的十分
+钟内不回到大厅 她就会死
 
 1237
-01:15:56,560 --> 01:16:00,790
-如果你在接下来的十分钟内不回到大厅 她就会死
-If you don't return to the lobby within the next ten minutes, she dies.
-
-1238
 01:16:01,090 --> 01:16:02,610
 格蕾丝 别管我
-Grace, just leave me.
+
+1238
+01:16:02,920 --> 01:16:04,490
+- 格蕾丝 别管我
+- 她死后
 
 1239
-01:16:02,920 --> 01:16:04,490
-- 格蕾丝 别管我 - 她死后
-- Grace, just leave me. - After she's dead,
-
-1240
 01:16:04,500 --> 01:16:05,670
 我会找到你 格蕾丝
-I'm gonna find you, Grace,
 
-1241
+1240
 01:16:05,690 --> 01:16:07,750
 不管你在哪儿 我都会杀了你
-wherever you are, and I'm gonna kill you.
 
-1242
+1241
 01:16:07,760 --> 01:16:10,030
 如果你想救你的妹妹
-So, if you want to save your sister,
 
-1243
+1242
 01:16:10,420 --> 01:16:13,320
 滚到大厅来
-get your ass to the lobby.
 
-1244
+1243
 01:16:20,670 --> 01:16:21,240
 嘿
-Hey.
 
-1245
+1244
 01:16:22,820 --> 01:16:24,910
 在我杀了你姐姐后
-After I kill your sister...
 
-1246
+1245
 01:16:26,030 --> 01:16:27,730
 我和你好好玩玩
-...you and I are gonna have more fun.
 
-1247
+1246
 01:16:30,300 --> 01:16:31,440
 把她带去小屋
-Take her to the lodge.
 
-1248
+1247
 01:16:45,880 --> 01:16:47,460
 {\an8}（安保武器）
 
-1249
+1248
 01:17:44,020 --> 01:17:45,600
 回来第二轮了 婊子
-Back for round two, bitch!
 
-1250
+1249
 01:17:45,610 --> 01:17:46,610
 对
-Yeah.
 
-1251
+1250
 01:17:49,140 --> 01:17:50,660
 替我向亚历克斯问好
-Say hi to Alex for me.
 
-1252
+1251
 01:17:55,290 --> 01:17:56,470
 她他妈在这里
-She's fucking here.
 
-1253
+1252
 01:17:57,110 --> 01:17:58,470
 哦 天呐
-Oh, Christ!
 
-1254
+1253
 01:17:59,090 --> 01:18:01,200
 帮帮我 你这混蛋
-Help me, you fucking turd!
 
-1255
+1254
 01:18:05,670 --> 01:18:06,350
 费丝
-Faith!
 
-1256
+1255
 01:18:07,910 --> 01:18:08,910
 格蕾丝
-Grace?
 
-1257
+1256
 01:18:20,390 --> 01:18:21,850
 我妹妹在哪儿？
-Where's my sister?
 
-1258
+1257
 01:18:23,540 --> 01:18:24,540
 我不知道
-I don't know.
 
-1259
+1258
 01:18:24,890 --> 01:18:26,280
 我不玩了
-I'm not playing anymore.
 
-1260
+1259
 01:18:27,370 --> 01:18:28,750
 我是个无辜的旁观者
-I'm an innocent bystander.
 
-1261
+1260
 01:18:29,310 --> 01:18:31,320
 哦 妈的 妈的 妈的
-Oh shit, shit, shit!
 
-1262
+1261
 01:18:32,920 --> 01:18:33,640
 操
-Fuck!
 
-1263
+1262
 01:18:33,650 --> 01:18:34,650
 格蕾丝
-Grace?
 
-1264
+1263
 01:18:36,560 --> 01:18:37,560
 格蕾丝
-Grace?
 
-1265
+1264
 01:18:37,920 --> 01:18:38,920
 费丝
-Faith!
 
-1266
+1265
 01:18:42,210 --> 01:18:42,810
 费丝
-Faith!
 
-1267
+1266
 01:18:54,510 --> 01:18:55,510
 费丝
-Faith!
 
-1268
+1267
 01:18:56,780 --> 01:18:57,710
 她在哪儿？
-Where is she?
 
-1269
+1268
 01:18:57,730 --> 01:18:58,570
 我不知道
-I...I don't know.
 
-1270
+1269
 01:18:58,820 --> 01:18:59,480
 我不知道
-I don't know.
 
-1271
+1270
 01:18:59,500 --> 01:19:01,120
 告诉我她在哪儿？
-Tell me where she is!
 
-1272
+1271
 01:19:01,130 --> 01:19:02,130
 我不...
-I don't...
 
-1273
+1272
 01:19:03,570 --> 01:19:05,860
 告诉我她在哪儿？
-Tell me where she is.
 
-1274
+1273
 01:19:06,010 --> 01:19:06,420
 啊!
-Ah!
 
-1275
+1274
 01:19:06,430 --> 01:19:06,990
 天呐
-God!
 
-1276
+1275
 01:19:07,010 --> 01:19:08,010
 啊!
-Ah!
 
-1277
+1276
 01:19:11,140 --> 01:19:12,660
 让我们起舞吧 婊子
-Let's dance, puta!
 
-1278
+1277
 01:19:12,670 --> 01:19:13,670
 妈的
-Shit.
 
-1279
+1278
 01:19:35,520 --> 01:19:36,110
 操
-Fuck.
 
-1280
+1279
 01:19:57,740 --> 01:19:59,190
 费丝 不
-Faith, no!
 
-1281
+1280
 01:19:59,530 --> 01:20:00,610
 快给我出来格蕾丝
-Get out of there, Grace!
 
-1282
+1281
 01:20:00,620 --> 01:20:01,170
 格蕾丝
-Grace!
 
-1283
+1282
 01:20:01,190 --> 01:20:01,920
 操
-Fuck you!
 
-1284
+1283
 01:20:01,930 --> 01:20:04,020
 那块玻璃虽然有两英寸厚
-That glass may be two inches thick, but I can still
 
-1285
+1284
 01:20:04,030 --> 01:20:05,670
 但我照样能把你妹妹的脑浆喷得满窗都是
-blow your sister's brains all over this window.
 
-1286
+1285
 01:20:05,680 --> 01:20:06,160
 格蕾丝
-Grace!
 
-1287
+1286
 01:20:06,180 --> 01:20:07,560
 你只有三秒钟
-You only have three seconds.
+
+1287
+01:20:07,570 --> 01:20:09,230
+- 三...
+- 别这么做
 
 1288
-01:20:07,570 --> 01:20:09,230
-- 三... - 别这么做
-- Three... - Don't do it!
-
-1289
 01:20:09,250 --> 01:20:10,190
 二...
-Two...
 
-1290
+1289
 01:20:10,210 --> 01:20:11,890
 别听他的
-Don't listen to him!
 
-1291
+1290
 01:20:13,850 --> 01:20:14,550
 一...
-One...
 
-1292
+1291
 01:20:14,570 --> 01:20:15,590
 行 好
-Okay! Okay!
 
-1293
+1292
 01:20:15,600 --> 01:20:16,350
 停手 停手
-Stop! Stop!
 
-1294
+1293
 01:20:16,360 --> 01:20:17,180
 我出来 我出来
-I'll come out! I'll come out!
 
-1295
+1294
 01:20:17,690 --> 01:20:18,260
 不要
-No!
 
-1296
+1295
 01:20:18,270 --> 01:20:19,040
 格蕾丝
-Grace!
 
-1297
+1296
 01:20:19,090 --> 01:20:19,570
 不要出来
-Don't!
 
-1298
+1297
 01:20:20,310 --> 01:20:21,310
 格蕾丝
-Grace!
 
-1299
+1298
 01:20:21,980 --> 01:20:23,660
 如果你嫁给我 格蕾丝...
-If you marry me... Grace!
 
-1300
+1299
 01:20:23,710 --> 01:20:24,710
 不要
-No!
 
-1301
+1300
 01:20:25,960 --> 01:20:26,760
 看着我
-Look at me!
 
-1302
+1301
 01:20:26,790 --> 01:20:30,020
 我宁可死也不愿让你失去灵魂
-I would rather die than you lose your soul!
 
-1303
+1302
 01:20:31,770 --> 01:20:35,470
 那个女人说 这一切都有漏洞
-That woman, she said there's a loophole to all this.
 
-1304
+1303
 01:20:37,220 --> 01:20:39,260
 她说 如果我们结婚...
-She said if we get married...
 
-1305
+1304
 01:20:41,100 --> 01:20:43,200
 你就能得到席位...
-you get your seat...
 
-1306
+1305
 01:20:44,250 --> 01:20:45,950
 而我也能活下去
-and I get to live.
 
-1307
+1306
 01:20:54,220 --> 01:20:57,740
 不知道我们能不能在天亮前把她弄出来
-Don't know if we'll be able to get her out before dawn.
 
-1308
+1307
 01:21:01,210 --> 01:21:01,870
 去他的
-Fuck it.
 
-1309
+1308
 01:21:01,880 --> 01:21:03,190
 我接受你的求婚
-I accept your proposal.
 
-1310
+1309
 01:21:03,210 --> 01:21:04,210
 不
-No!
 
-1311
+1310
 01:21:09,960 --> 01:21:10,550
 好的
-Okay.
 
-1312
+1311
 01:21:11,700 --> 01:21:12,510
 好
-Okay, Good.
 
-1313
+1312
 01:21:13,210 --> 01:21:14,210
 很好
-Good.
 
-1314
+1313
 01:21:15,460 --> 01:21:17,730
 我得先得到一些保证 这样我才放心
-I'm going to need some assurances first so I know
 
-1315
+1314
 01:21:17,750 --> 01:21:20,550
 我出来的时候 你可别把我们俩都杀了
-you're not just going to kill us both when I come out.
 
-1316
+1315
 01:21:20,710 --> 01:21:22,710
 我向你发誓...哦 别向我发誓
-I swear to you... Oh, don't swear to me!
 
-1317
+1316
 01:21:22,830 --> 01:21:24,060
 他妈的白痴
-Fucking shit for brains!
 
-1318
+1317
 01:21:24,070 --> 01:21:25,420
 向勒贝尔先生发誓
-Swear to Mr. LeBail!
 
-1319
+1318
 01:21:28,750 --> 01:21:33,630
 我向勒贝尔先生发誓 不会伤害你或你妹妹
-I swear to Mr. LeBail that no harm shall come to you or your sister.
 
-1320
+1319
 01:21:50,480 --> 01:21:51,720
 你不能
-You can't...
 
-1321
+1320
 01:21:55,060 --> 01:21:56,080
 我很抱歉
-I'm so sorry.
 
-1322
+1321
 01:22:18,890 --> 01:22:21,180
 我会让人把你需要的一切都拿来
-I'll have everything you need brought in.
 
-1323
+1322
 01:22:22,190 --> 01:22:23,660
 做好准备
-Get ready.
 
-1324
+1323
 01:22:26,170 --> 01:22:28,190
 参加加冕典礼的宾客已经陆续抵达
-The guests are already arriving for coronation.
 
-1325
+1324
 01:23:42,070 --> 01:23:44,470
 我想我们不妨干杯庆祝一下
-I thought maybe we could have a toast.
 
-1326
+1325
 01:23:45,520 --> 01:23:46,790
 我们就要成为一家人了
-We're about to become family.
 
-1327
+1326
 01:24:03,230 --> 01:24:04,590
 格蕾丝 我从没想伤害你
-Grace, I never wanted to hurt you.
 
-1328
+1327
 01:24:06,010 --> 01:24:07,210
 但是我必须遵守规则
-But I had to follow the rules.
 
-1329
+1328
 01:24:08,720 --> 01:24:10,530
 听着 我们时间不多了
-Listen, we don't have a lot of time.
 
-1330
+1329
 01:24:11,990 --> 01:24:12,990
 所以我就直说了
-So I'm just gonna say it.
 
-1331
+1330
 01:24:16,740 --> 01:24:17,450
 我害怕
-I'm scared.
 
-1332
+1331
 01:24:18,720 --> 01:24:19,720
 我哥哥
-It's my brother.
 
-1333
+1332
 01:24:22,020 --> 01:24:23,280
 我不明白
-I didn't understand...
 
-1334
+1333
 01:24:24,620 --> 01:24:26,060
 他到底是谁
-who he really is.
 
-1335
+1334
 01:24:28,180 --> 01:24:29,570
 我花了一辈子
-I spent my whole life...
 
-1336
+1335
 01:24:30,110 --> 01:24:31,600
 寻找他身上的优点
-searching for the good in him.
 
-1337
+1336
 01:24:33,890 --> 01:24:34,910
 你知道我找到了什么
-You know what I found?
 
-1338
+1337
 01:24:38,140 --> 01:24:39,140
 什么都没有
-Nothing.
 
-1339
+1338
 01:24:40,740 --> 01:24:43,400
 他妈什么也没有
-Absolutely fucking nothing.
 
-1340
+1339
 01:24:44,230 --> 01:24:46,340
 我以为我能控制住他
-I thought I could keep him in check.
 
-1341
+1340
 01:24:47,440 --> 01:24:48,440
 但他已经失控了
-But he's lost it.
 
-1342
+1341
 01:24:49,860 --> 01:24:51,420
 格蕾丝 我需要你的帮助
-Grace, I need your help.
 
-1343
+1342
 01:24:52,970 --> 01:24:54,990
 我们必须一起努力控制他
-We have to try to control him together.
 
-1344
+1343
 01:24:55,590 --> 01:24:57,730
 拥有一个席位不见得就是坏事
-Having a seat doesn't have to be bad.
 
-1345
+1344
 01:24:59,190 --> 01:25:01,270
 想想我们能用那种权力做多少好事
-Think about all the good we could do with that power.
 
-1346
+1345
 01:25:02,030 --> 01:25:03,950
 但我需要你在我身边
-But I need you at my side.
 
-1347
+1346
 01:25:04,690 --> 01:25:05,690
 嘿 格蕾丝
-Hey, Grace.
 
-1348
+1347
 01:25:06,480 --> 01:25:08,000
 你不像我们
-You're not like us.
 
-1349
+1348
 01:25:09,740 --> 01:25:11,020
 你有希望
-You have hope.
 
-1350
+1349
 01:25:16,580 --> 01:25:17,900
 我现在没有
-I don't now.
 
-1351
+1350
 01:25:22,160 --> 01:25:23,310
 是你夺走了它
-You took it from me.
 
-1352
+1351
 01:25:32,170 --> 01:25:33,170
 我们很擅长这个
-We are good at that.
 
-1353
+1352
 01:25:50,870 --> 01:25:51,870
 来点姐妹时间
-A little girl time.
 
-1354
+1353
 01:25:58,450 --> 01:26:00,450
 谢谢你让我看清了你的真面目
-Thank you for showing me who you really are.
 
-1355
+1354
 01:26:01,660 --> 01:26:02,610
 泰特斯 听我解释...
-Titus, it's not a ...
 
-1356
+1355
 01:26:05,200 --> 01:26:06,200
 泰特斯 停下
-Titus, stop.
 
-1357
+1356
 01:26:08,590 --> 01:26:09,830
 你想控制我
-You want to control me.
 
-1358
+1357
 01:26:09,960 --> 01:26:10,810
 不
-No.
 
-1359
+1358
 01:26:10,820 --> 01:26:12,090
 你想要所有的权力
-You want all the power for yourself.
 
-1360
+1359
 01:26:12,100 --> 01:26:12,640
 不
-No.
 
-1361
+1360
 01:26:13,030 --> 01:26:13,670
 你想
-You do.
 
-1362
+1361
 01:26:13,680 --> 01:26:14,240
 你就是这么想的
-You do.
 
-1363
+1362
 01:26:14,260 --> 01:26:15,330
 你总是这样
-You always do.
 
-1364
+1363
 01:26:15,350 --> 01:26:16,190
 你总是这样
-You always do.
 
-1365
+1364
 01:26:16,200 --> 01:26:17,200
 泰特斯 停下 求你了
-Titus stop, please!
 
-1366
+1365
 01:26:17,220 --> 01:26:18,220
 看着我 格蕾丝
-Look at me, Grace.
 
-1367
+1366
 01:26:18,810 --> 01:26:19,870
 看着我 格蕾丝
-Grace, look at me!
 
-1368
+1367
 01:26:20,820 --> 01:26:22,300
 让她看着我
-Get her to look at me.
 
-1369
+1368
 01:26:22,320 --> 01:26:23,900
 我要你看到这个 格蕾丝
-I want you to see this, Grace.
 
-1370
+1369
 01:26:24,080 --> 01:26:25,080
 我要你看到这个
-I want you to see this.
 
-1371
+1370
 01:26:25,200 --> 01:26:25,830
 格蕾丝
-Grace!
 
-1372
+1371
 01:26:27,060 --> 01:26:28,440
 我要你看到我是谁
-I want you to see who I am.
 
-1373
+1372
 01:26:28,450 --> 01:26:32,880
 我要你看清楚 我不是一个可以被人掌控的人
-I want you to see that I am not a man who can be controlled.
 
-1374
+1373
 01:26:34,090 --> 01:26:35,440
 你提到了规则
-You mentioned the rules.
 
-1375
+1374
 01:26:35,710 --> 01:26:38,410
 规则里没有关于杀害家族成员的内容
-There's nothing in the rules about killing a family member.
 
-1376
+1375
 01:26:57,220 --> 01:26:58,920
 现在来试试控制我啊
-Try to keep me in check now.
 
-1377
+1376
 01:27:00,480 --> 01:27:01,480
 试试看
-Just try it.
 
-1378
+1377
 01:27:16,480 --> 01:27:18,000
 我告诉过你 会是我抓住你
-I told you it would be me who got you.
 
-1379
+1378
 01:27:26,540 --> 01:27:27,580
 我们祭坛见
-I'll see you at the altar.
 
-1380
+1379
 01:29:38,160 --> 01:29:40,910
 你不能...这么做
-You can't...do this
 
-1381
+1380
 01:29:42,940 --> 01:29:44,040
 我必须这么做
-I have to.
 
-1382
+1381
 01:29:44,050 --> 01:29:45,050
 没有别的办法
-There's no other way.
 
-1383
+1382
 01:29:51,110 --> 01:29:52,110
 没事的
-It's okay.
 
-1384
+1383
 01:30:05,250 --> 01:30:06,250
 谢姆·汉普拉
-Shem HaMephorash!
 
-1385
+1384
 01:30:07,780 --> 01:30:09,500
 我他妈什么都看不见
-I can't see shit move.
 
-1386
+1385
 01:30:10,810 --> 01:30:13,190
 至高无上的撒旦路西法之名
-Nomine satani Lucifer excelsis.
 
-1387
+1386
 01:30:13,780 --> 01:30:16,360
 奉我们伟大而永恒的恩主之名
-In the name of our great and eternal benefactor,
 
-1388
+1387
 01:30:16,370 --> 01:30:19,580
 请现身 赐福予众人
-come forth and bestow your blessing upon these.
 
-1389
+1388
 01:30:20,390 --> 01:30:23,900
 以撒旦 路西法 巴利尔 利维坦之名
-In the names of Satan, Lucifer, Baliel, Leviathan,
 
-1390
+1389
 01:30:24,810 --> 01:30:27,210
 现身并作证
-come forth and bear witness.
 
-1391
+1390
 01:30:27,840 --> 01:30:28,880
 撒旦万岁
-Hail Satan.
 
-1392
+1391
 01:30:29,060 --> 01:30:30,520
 撒旦万岁
-Hail Satan!
 
-1393
+1392
 01:30:31,060 --> 01:30:32,310
 欢迎 各位
-Welcome, everyone.
 
-1394
+1393
 01:30:33,320 --> 01:30:34,960
 我很高兴有这么多人能来
-I'm pleased so many of you could make it.
 
-1395
+1394
 01:30:36,270 --> 01:30:39,090
 不仅在这个美好的早晨举行加冕仪式
-Not only do we have our coronation this fine morning,
 
-1396
+1395
 01:30:39,860 --> 01:30:41,400
 我们还有一场婚礼
-we also have a wedding.
 
-1397
+1396
 01:30:41,910 --> 01:30:43,490
 我们的福杯满盈
-Our cup runneth over.
 
-1398
+1397
 01:31:14,450 --> 01:31:15,450
 泰特斯
-Titus.
 
-1399
+1398
 01:31:31,270 --> 01:31:32,330
 请伸出你的手
-Your hand, please.
+
+1399
+01:31:57,200 --> 01:32:01,210
+既然你们的誓言是出于本意
+且受撒旦之力所驱使
 
 1400
-01:31:57,200 --> 01:32:01,210
-既然你们的誓言是出于本意 且受撒旦之力所驱使
-Your vows being made by intent, by the power of Satan,
-
-1401
 01:32:01,230 --> 01:32:04,220
 我现在宣布你们彼此归属
-I now confer the possession of each other upon you.
 
-1402
+1401
 01:32:04,870 --> 01:32:06,710
 泰特斯·切斯特·丹福斯
-Titus Chester Danforth.
+
+1402
+01:32:07,030 --> 01:32:09,590
+你愿意娶这位女士
+并承诺与她共度今生与来世吗？
 
 1403
-01:32:07,030 --> 01:32:09,590
-你愿意娶这位女士 并承诺与她共度今生与来世吗？
-Do you take this woman, in this world and the next?
-
-1404
 01:32:09,820 --> 01:32:10,990
 哪怕是下地狱的烈火？
-Unto the fires of hell?
 
-1405
+1404
 01:32:11,160 --> 01:32:12,160
 我愿意
-I do.
+
+1405
+01:32:20,230 --> 01:32:25,060
+而你 格蕾丝·伊丽莎白·麦考利·勒多马斯
+愿意接受这个男人
 
 1406
-01:32:20,230 --> 01:32:25,060
-而你 格蕾丝·伊丽莎白·麦考利·勒多马斯 愿意接受这个男人
-And do you, Grace Elizabeth MacCaullay Le Domas, take this man to be yours?
-
-1407
 01:32:25,790 --> 01:32:28,840
 在肉体和精神上 并承诺与他共度今生与来世吗？
-In flesh and spirit, in this world and the next?
 
-1408
+1407
 01:32:29,310 --> 01:32:30,640
 哪怕是下地狱的烈火？
-Unto the fires of hell?
 
-1409
+1408
 01:32:32,970 --> 01:32:33,970
 我愿意
-I do.
 
-1410
+1409
 01:32:50,090 --> 01:32:53,750
 他在地狱中锻造之物 任凭凡人休想拆解
-What he hath forged in hell, let no mortal tear asunder.
 
-1411
+1410
 01:32:54,620 --> 01:32:57,140
 主啊 我们奉你的名祈求
-We ask this in thy name, O Lord.
 
-1412
+1411
 01:32:58,530 --> 01:33:00,960
 我现在宣布你们结为夫妻
-I now pronounce you man and wife.
 
-1413
+1412
 01:33:03,150 --> 01:33:04,500
 你可以亲吻新娘了
-You may kiss the bride.
 
-1414
+1413
 01:33:36,230 --> 01:33:40,920
 泰特斯·丹福斯 特此授予利贝西亚议会至高席位
-Titus Danforth, is hereby granted the high seat of the council of Libecia.
 
-1415
+1414
 01:33:48,140 --> 01:33:49,070
 撒旦万岁
-Hail Satan.
 
-1416
+1415
 01:33:49,090 --> 01:33:50,650
 撒旦万岁
-Hail Satan!
 
-1417
+1416
 01:33:51,010 --> 01:33:52,010
 撒旦万岁
-Hail Satan!
 
-1418
+1417
 01:33:52,020 --> 01:33:52,920
 撒旦万岁
-Hail Satan!
+
+1418
+01:33:53,130 --> 01:33:55,220
+- 撒旦万岁
+- 撒旦万岁
 
 1419
-01:33:53,130 --> 01:33:55,220
-- 撒旦万岁 - 撒旦万岁
-- Hail Satan! - Hail Satan!
+01:33:55,430 --> 01:33:58,100
+- 撒旦万岁
+- 撒旦万岁
 
 1420
-01:33:55,430 --> 01:33:58,100
-- 撒旦万岁 - 撒旦万岁
-- Hail Satan! - Hail Satan!
+01:33:58,150 --> 01:34:00,820
+- 撒旦万岁
+- 撒旦万岁
 
 1421
-01:33:58,150 --> 01:34:00,820
-- 撒旦万岁 - 撒旦万岁
-- Hail Satan! - Hail Satan!
+01:34:00,900 --> 01:34:03,570
+- 撒旦万岁
+- 撒旦万岁
 
 1422
-01:34:00,900 --> 01:34:03,570
-- 撒旦万岁 - 撒旦万岁
-- Hail Satan! - Hail Satan!
-
-1423
 01:34:09,750 --> 01:34:10,780
 搞什么
-What the fuck?
 
-1424
+1423
 01:34:33,800 --> 01:34:37,920
 杀死自己的家族成员不违反规则
-It's not against the rules to kill a family member.
 
-1425
+1424
 01:34:38,560 --> 01:34:39,590
 感谢你的提醒
-Thank you for that.
 
-1426
+1425
 01:34:42,420 --> 01:34:46,040
 是我抓住了你
-It's me who got you.
 
-1427
+1426
 01:35:14,480 --> 01:35:15,870
 他妈发生了什么
-the fuck is happening?
 
-1428
+1427
 01:35:33,170 --> 01:35:34,630
 跪下
-Get on your knees!
 
-1429
+1428
 01:35:40,430 --> 01:35:41,710
 舍姆·哈姆·法拉什
-Shem HaMephorash.
 
-1430
+1429
 01:35:42,720 --> 01:35:44,120
 舍姆·哈姆·法拉什
-Shem HaMephorash.
 
-1431
+1430
 01:35:44,140 --> 01:35:45,880
 舍姆·哈姆·法拉什
-Shem HaMephorash.
 
-1432
+1431
 01:35:46,970 --> 01:35:48,170
 舍姆·哈姆·法拉什
-Shem HaMephorash.
 
-1433
+1432
 01:35:48,190 --> 01:35:49,340
 舍姆·哈姆·法拉什
-Shem HaMephorash.
 
-1434
+1433
 01:35:58,000 --> 01:35:59,680
 这意味着我可以为所欲为 对吧
-This means I can do whatever I want, right?
 
-1435
+1434
 01:35:59,950 --> 01:36:00,950
 对的
-That is correct.
 
-1436
+1435
 01:36:14,780 --> 01:36:16,250
 我可以领导这个组织
-I could lead this organization.
 
-1437
+1436
 01:36:18,050 --> 01:36:19,850
 我可以改变世界
-I could change the world.
+
+1437
+01:36:25,280 --> 01:36:31,750
+因此 作为我担任最高委
+员会主席后的第一项举措
 
 1438
-01:36:25,280 --> 01:36:31,750
-因此 作为我担任最高委员会主席后的第一项举措
-So as my first act as the head of your high council
-
-1439
 01:36:33,520 --> 01:36:36,850
 我特此宣布将我自己
-I hereby remove myself
 
-1440
+1439
 01:36:36,900 --> 01:36:41,070
 从这个委员会 以及这整个他妈的组织中移除
-from the council and this entire fucking organization!
 
-1441
+1440
 01:36:43,990 --> 01:36:45,380
 兄弟 她可以那样做吗
-Bro, can she even do that?
 
-1442
+1441
 01:36:45,810 --> 01:36:48,470
 出人意料的是 章程对此几乎只字未提
-There's surprisingly little language about this in the bylaws,
+
+1442
+01:36:48,490 --> 01:36:51,600
+因为没有人相信会有人
+愿意主动放弃如此大的权力
 
 1443
-01:36:48,490 --> 01:36:51,600
-因为没有人相信会有人愿意主动放弃如此大的权力
-since no one believed anyone would ever willingly give away so much power.
-
-1444
 01:36:51,620 --> 01:36:54,310
 好吧 但然后谁得到那个该死的席位
-Okay, but then who gets the fucking seat?
 
-1445
+1444
 01:36:54,320 --> 01:36:56,150
 黎明前谁戴着戒指就是谁
-Whoever's wearing the ring by dawn.
 
-1446
+1445
 01:36:56,230 --> 01:36:57,230
 黎明什么时候
-When's dawn?
 
-1447
+1446
 01:36:59,240 --> 01:37:01,310
 大约三分钟后
-In three minutes, give or take.
 
-1448
+1447
 01:37:04,140 --> 01:37:06,280
 但只有议会家族还是
-But it's just the council families or...
 
-1449
+1448
 01:37:06,820 --> 01:37:07,820
 严格来说任何人
-Literally anyone.
 
-1450
+1449
 01:37:09,570 --> 01:37:13,650
 而你说如果黎明前没人戴戒指 勒贝尔先生会
-And you said if no one's wearing the ring by dawn, Mr. LeBail would be...
 
-1451
+1450
 01:37:14,000 --> 01:37:15,230
 非常不高兴
-Very upset.
 
-1452
+1451
 01:37:16,400 --> 01:37:18,000
 非常不高兴
-Very upset.
 
-1453
+1452
 01:37:30,940 --> 01:37:34,700
 去吃屎吧 你们这些近亲繁殖的混蛋
-Choke on it, you inbred fucks!
 
-1454
+1453
 01:37:48,780 --> 01:37:50,450
 我来了 我的真神
-I'm coming, my lord!
 
-1455
+1454
 01:37:50,540 --> 01:37:52,310
 舍姆·哈姆·法拉什
-Shem HaMephorash!
 
-1456
+1455
 01:37:53,190 --> 01:37:54,150
 撒旦万岁
-Hail Satan!
 
-1457
+1456
 01:37:58,320 --> 01:37:59,860
 操 操 操 操
-Fuck, fuck, fuck, fuck!
 
-1458
+1457
 01:38:00,630 --> 01:38:01,870
 哦 哇
-Oh, wow!
 
-1459
+1458
 01:38:02,990 --> 01:38:04,130
 我会杀了你的
-I'll kill you.
 
-1460
+1459
 01:38:08,860 --> 01:38:09,860
 操...
-Fucking...
 
-1461
+1460
 01:38:12,340 --> 01:38:14,900
 总得有人把这一切付之一炬
-Someone had to burn it all down.
 
-1462
+1461
 01:38:16,100 --> 01:38:18,140
 你很擅长毁掉一切
-You are good at destroying things.
 
-1463
+1462
 01:38:33,490 --> 01:38:34,490
 你自由了
-You're free.
 
-1464
+1463
 01:38:38,280 --> 01:38:39,280
 再见
-See ya.
 
-1465
+1464
 01:38:39,540 --> 01:38:40,540
 拜
-Bye.
 
-1466
+1465
 01:38:41,770 --> 01:38:42,970
 你好呀
-Hi, yeah.
 
-1467
+1466
 01:38:44,700 --> 01:38:46,280
 嘿 对 别看那里
-Hey, yeah, don't look there.
 
-1468
+1467
 01:38:53,030 --> 01:38:54,030
 哎哟
-Oops
 
-1469
+1468
 01:40:36,080 --> 01:40:37,220
 操 太爽了
-Fuck yeah!
 
-1470
+1469
 01:40:37,940 --> 01:40:39,730
 我还活着 婊子们
-I'm alive, bitches!
 
-1471
+1470
 01:40:40,750 --> 01:40:41,850
 我们还活着
-We made it!
 
-1472
+1471
 01:40:41,900 --> 01:40:43,540
 我们还活着
-We made it!
 
-1473
+1472
 01:40:43,550 --> 01:40:45,370
 我了个大草
-Holy fucking shit!
 
-1474
+1473
 01:40:45,860 --> 01:40:48,850
 我已经脱离了组织 所以才幸免于难
-I've renounced my pack, so I've been spared too!
 
-1475
+1474
 01:40:48,860 --> 01:40:50,120
 让我们他妈的开派对
-Let's fucking party!
 
-1476
+1475
 01:40:51,350 --> 01:40:52,630
 天呐
-Jesus Christ!
 
-1477
+1476
 01:41:15,280 --> 01:41:16,560
 那是谁？
-What's that?
 
-1478
+1477
 01:41:17,720 --> 01:41:18,380
 咩
-Meow.
 
-1479
+1478
 01:41:20,460 --> 01:41:21,480
 我们能走了吗
-Can we go?
 
-1480
+1479
 01:41:22,520 --> 01:41:23,160
 咩
-Meow.
 
-1481
+1480
 01:41:23,340 --> 01:41:24,340
 好的
-Okay.
 
-1482
+1481
 01:41:52,440 --> 01:41:54,230
 叫你玩火箭筒
-Rocket launcher.
 
-1483
+1482
 01:42:01,140 --> 01:42:02,520
 来 我们走
-Come on, let's go!
 
-1484
+1483
 01:42:33,250 --> 01:42:34,250
 我爱你
-I love you.
 
-1485
+1484
 01:42:37,570 --> 01:42:38,570
 我也爱你
-I love you too.
 
-1486
+1485
 01:42:42,390 --> 01:42:43,390
 我想你了
-I missed you.
 
-1487
+1486
 01:42:45,370 --> 01:42:48,190
 是啊 不过你知道 以后我不必再这么想了
-Yeah, well, you know, I'm not gonna have to anymore.
 
-1488
+1487
 01:42:48,200 --> 01:42:49,950
 你会他妈烦死我的
-You're gonna get really fucking sick of me.
 
-1489
+1488
 01:42:53,260 --> 01:42:54,260
 保证？
-Promise?
 
-1490
+1489
 01:42:59,100 --> 01:43:00,100
 我保证
-I do.
 
-1491
+1490
 01:43:18,190 --> 01:43:19,300
 你打算怎么处理那只山羊？
-What are you gonna do with the goat?
 
-1492
+1491
 01:43:19,340 --> 01:43:20,340
 我不知道
-I don't know.
 
-1493
+1492
 01:43:20,380 --> 01:43:22,380
 你这周打算结几次婚？
-How many times are you gonna get married this week?
 
-1494
+1493
 01:43:23,080 --> 01:43:24,080
 太快了
-It's too soon.
 
-1495
+1494
 01:43:24,520 --> 01:43:25,390
 肯定破纪录了
-It's gotta be a record.
 
-1496
+1495
 01:43:25,410 --> 01:43:26,410
 哦
-Oh.
 
-1497
+1496
 01:43:26,420 --> 01:43:27,500
 我们要去医院
-We're gonna go to the hospital.
 
-1498
+1497
 01:43:28,700 --> 01:43:29,700
 我要去洗个澡
-I need a bath.
 
-1499
+1498
 01:43:29,820 --> 01:43:30,820
 我也感觉快臭了
-I stink too.
 
-1500
+1499
 01:43:34,250 --> 01:43:41,500
 {\an8}字幕贡献者
 初稿翻译：pubuqi（SubHD）

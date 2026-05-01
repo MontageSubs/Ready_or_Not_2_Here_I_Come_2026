@@ -5,7 +5,7 @@ ScaledBorderAndShadow: Yes
 PlayResX: 1920
 PlayResY: 804
 Title: 准备好了没2：我来了 中英双语
-Original Translation: 翻译与校对：pubuqi（subhd.tv）, Borcolasky（subhd.tv）, 小p（蒙太奇字幕组）
+Original Translation: 翻译与校对：pubuqi（SubHD）, Borcolasky（SubHD）, 小p（蒙太奇字幕组）
 Original Timing: 时间轴：小p（蒙太奇字幕组）
 Script Updated By: 2026年4月14日（pubuqi）：适配1:47:51片源 修改了一些错误。 | 2026年4月21日（Borcolasky）：修正以下问题：1. 开场歌曲时间轴严重偏移，歌词错误；2. 依照官方角色名校正，确保角色名前后一致；3. 对万晨星（普通话）、El Caido一家（西语）、Martina Rajan（克罗地亚语）的源语言台词进行忠实核对与校正；4. 删除AI幻听的不存在台词；5. 补上AI遗漏但确实存在的台词；6. 校正明显偏移的时间轴；7. 修正AI识别错误的台词。 | 2026年4月29日（小p）：我在原有基础上对全片逐句重听并全面校对，整体改动约5%，主要包括：1. 1400+对话逐句复核并修正台词；2. 严格对齐1400+对话每句时间轴；3. 拆分冗长句、合并显示时长过短句子；4. 补齐片中硬字幕；5. 增加一处注释；6. 补译两首歌曲歌词；7. 为中文添加对应的准确英文翻译；8. 规范字幕格式、去除无用符号并完善 ASS 格式（依蒙太奇字幕组偏好）。
 
@@ -21,10 +21,10 @@ Style: Note,Microsoft YaHei,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:12.67,0:00:22.21,Screen,,0,0,0,,{\an2}（探照灯影业）
-Dialogue: 0,0:00:24.25,0:00:33.04,Lyrics,,0,0,0,,{\i1}♪ {\an7}今晚你属于我 ♪\N{\rLyricsEng}♪ Tonight you're mine completely ♪
-Dialogue: 0,0:00:34.45,0:00:42.08,Lyrics,,0,0,0,,{\i1}♪ {\an7}你把爱给得温柔如蜜 ♪\N{\rLyricsEng}♪ You give your love so sweetly ♪
-Dialogue: 0,0:00:43.76,0:00:53.67,Lyrics,,0,0,0,,{\i1}♪ {\an7}今夜你眼里有爱的光辉 ♪\N{\rLyricsEng}♪ Tonight the light of love is in your eyes ♪
-Dialogue: 0,0:00:55.11,0:01:03.63,Lyrics,,0,0,0,,{\i1}♪ {\an7}但明天你还会爱我吗？ ♪\N{\rLyricsEng}♪ Will you still love me tomorrow? ♪
+Dialogue: 0,0:00:24.25,0:00:33.04,Lyrics,,0,0,0,,{\i1}{\an7}♪ 今晚你属于我 ♪\N{\rLyricsEng}♪ Tonight you're mine completely ♪
+Dialogue: 0,0:00:34.45,0:00:42.08,Lyrics,,0,0,0,,{\i1}{\an7}♪ 你把爱给得温柔如蜜 ♪\N{\rLyricsEng}♪ You give your love so sweetly ♪
+Dialogue: 0,0:00:43.76,0:00:53.67,Lyrics,,0,0,0,,{\i1}{\an7}♪ 今夜你眼里有爱的光辉 ♪\N{\rLyricsEng}♪ Tonight the light of love is in your eyes ♪
+Dialogue: 0,0:00:55.11,0:01:03.63,Lyrics,,0,0,0,,{\i1}{\an7}♪ 但明天你还会爱我吗？ ♪\N{\rLyricsEng}♪ Will you still love me tomorrow? ♪
 Dialogue: 0,0:01:19.04,0:01:21.26,Default,,0,0,0,,请稍等...\N{\rEng}One minute...
 Dialogue: 0,0:01:21.27,0:01:23.81,Default,,0,0,0,,快派个人去那里\N{\rEng}Get somebody down there
 Dialogue: 0,0:01:26.50,0:01:28.30,Default,,0,0,0,,女士 您还好吗？\N{\rEng}Ma'am, are you okay?
@@ -33,7 +33,7 @@ Dialogue: 0,0:01:30.73,0:01:32.08,Default,,0,0,0,,南草坪上有人受伤 \N{\r
 Dialogue: 0,0:01:32.10,0:01:34.21,Default,,0,0,0,,我们需要急救人员立刻过来\N{\rEng}we need paramedics over here right away
 Dialogue: 0,0:01:34.59,0:01:36.56,Default,,0,0,0,,收到\N{\rEng}Copy that.
 Dialogue: 0,0:01:36.58,0:01:39.33,Default,,0,0,0,,天呐 你这是怎么了？\N{\rEng}Jesus Christ, what happened to you?
-Dialogue: 0,0:01:42.19,0:01:45.29,Default,,0,0,0,,- 婆家 - 你说是婆家吗？\N{\rEng}- In-laws. Did you say in-laws?
+Dialogue: 0,0:01:42.19,0:01:45.29,Default,,0,0,0,,- 婆家 - 你说是婆家吗？\N{\rEng}- In-laws. - Did you say in-laws?
 Dialogue: 0,0:01:46.18,0:01:48.40,Default,,0,0,0,,你的婆家怎么了？女士\N{\rEng}What about your in-laws, ma'am?
 Dialogue: 0,0:01:51.24,0:01:52.94,Default,,0,0,0,,嘿 嘿 嘿 别昏过去\N{\rEng}Hey, hey, hey, stay with us.
 Dialogue: 0,0:01:52.96,0:01:54.73,Default,,0,0,0,,睁眼看着我\N{\rEng}Just keep your eyes on me.
@@ -52,7 +52,7 @@ Dialogue: 0,0:02:38.23,0:02:39.02,Default,,0,0,0,,她还活着么？\N{\rEng}She
 Dialogue: 0,0:02:39.03,0:02:40.02,Default,,0,0,0,,是\N{\rEng}Yeah.
 Dialogue: 0,0:02:42.07,0:02:44.04,Default,,0,0,0,,给她测一下生命体征\N{\rEng}Let's get a set of vitals on her.
 Dialogue: 0,0:02:44.30,0:02:45.56,Default,,0,0,0,,我这就给她接氧气\N{\rEng}I'm gonna get oxygen on.
-Dialogue: 0,0:02:46.46,0:02:47.68,Default,,0,0,0,,氧气面罩已戴好\N{\rEng}Mask's on
+Dialogue: 0,0:02:46.46,0:02:47.68,Default,,0,0,0,,氧气面罩已戴好\N{\rEng}Mask's on.
 Dialogue: 0,0:02:48.49,0:02:49.75,Default,,0,0,0,,我要检查一下瞳孔\N{\rEng}I'm gonna check pupils.
 Dialogue: 0,0:02:50.19,0:02:51.42,Default,,0,0,0,,体位性低血压\N{\rEng}Orthostatic.
 Dialogue: 0,0:02:56.69,0:02:57.63,Default,,0,0,0,,血压测不出\N{\rEng}I don't have a pressure.
@@ -80,9 +80,9 @@ Dialogue: 0,0:03:28.03,0:03:29.03,Default,,0,0,0,,清场\N{\rEng}Clear.
 Dialogue: 0,0:03:29.63,0:03:32.04,Default,,0,0,0,,- 捉迷藏？ - 逮到她了\N{\rEng}- Hide and seek？ - She's here!
 Dialogue: 0,0:03:34.28,0:03:35.36,Default,,0,0,0,,我来帮你检测\N{\rEng}I'll test you.
 Dialogue: 0,0:03:43.54,0:03:45.41,Default,,0,0,0,,三 二 一\N{\rEng}Three, two, one.
-Dialogue: 0,0:03:45.42,0:03:46.42,Default,,0,0,0,,你会明白的\N{\rEng}You'll see
+Dialogue: 0,0:03:45.42,0:03:46.42,Default,,0,0,0,,你会明白的\N{\rEng}You'll see.
 Dialogue: 0,0:03:51.33,0:03:59.91,Screen,,0,0,0,,{\an8}《准准备好了没2：我来了》
-Dialogue: 0,0:03:51.33,0:03:53.38,Note,,0,0,0,,{\an2}字幕贡献者\Npubuqi（subhd.tv）\NBorcolasky（subhd.tv）\N小p（蒙太奇字幕组）
+Dialogue: 0,0:03:51.33,0:03:53.38,Note,,0,0,0,,{\an2}字幕贡献者\Npubuqi（SubHD）\NBorcolasky（SubHD）\N小p（蒙太奇字幕组）
 Dialogue: 0,0:04:14.54,0:04:16.06,Default,,0,0,0,,勒多马斯太太？\N{\rEng}Mrs. Le Domas?
 Dialogue: 0,0:04:16.75,0:04:17.75,Default,,0,0,0,,我在哪里？\N{\rEng}Where am I?
 Dialogue: 0,0:04:18.32,0:04:20.03,Default,,0,0,0,,您现在位于康涅狄格州的伍德伯里\N{\rEng}You're in Woodbury, Connecticut.
@@ -1520,4 +1520,4 @@ Dialogue: 0,1:43:25.41,1:43:26.41,Default,,0,0,0,,哦\N{\rEng}Oh.
 Dialogue: 0,1:43:26.42,1:43:27.50,Default,,0,0,0,,我们要去医院\N{\rEng}We're gonna go to the hospital.
 Dialogue: 0,1:43:28.70,1:43:29.70,Default,,0,0,0,,我要去洗个澡\N{\rEng}I need a bath.
 Dialogue: 0,1:43:29.82,1:43:30.82,Default,,0,0,0,,我也感觉快臭了\N{\rEng}I stink too.
-Dialogue: 0,1:43:34.25,1:43:41.50,Note,,0,0,0,,{\an8}字幕贡献者\N初稿翻译：pubuqi（subhd.tv）\N二次校对与听译：Borcolasky（subhd.tv）\N终稿校对 听译复核与时间轴：小p（蒙太奇字幕组）
+Dialogue: 0,1:43:34.25,1:43:41.50,Note,,0,0,0,,{\an8}字幕贡献者\N初稿翻译：pubuqi（SubHD）\N二次校对与听译：Borcolasky（SubHD）\N终稿校对 听译复核与时间轴：小p（蒙太奇字幕组）
